@@ -131,7 +131,7 @@
         <lb/>ver the <placeName>Occidental Indias</placeName>, that
         <lb/>are called this day, the <placeName>newe
         <lb/>world</placeName>, and they discovered the
-        <lb/>first land thereof, the <date><unclear>xi</unclear>, day of <!-- what happens to "when" if there is no year, etc.? -->
+        <lb/>first land thereof, the <date><num>xi</num>, day of <!-- what happens to "when" if there is no year, etc.? (1492 is mentioned before)-->
         <lb/>October</date>, of the said yere: &amp; from that time unto this. they
         <lb/>have discovered many &amp; sundry laandes, and muche firme
         <lb/>land, as wel in that countrie, which they cal the <placeName>new Spaine</placeName>,
@@ -147,12 +147,12 @@
         <lb/> hath come, and every <choice><orig>daie</orig><reg>day</reg></choice> doeth come, and inespecially
         <lb/> of Golde and Silver, that it is a thing worthy of admirati-
      <pb/>
-        <lb/>on the great number of <unclear> Melons</unclear>,<!-- not sure if the right word here --> which have come from
+        <lb/>on the great number of <unclear> Melons</unclear>,<!-- not sure if the right word here (will look back during proofing) --> which have come from
         <lb/>thence, besides the great quantity of pearles which have sto-
         <lb/>red the whole world: also they doe bring from those partes,
         <lb/><!--Popingaies, Griffons, Apes, Lions, Gerfaucons, &amp;
         <lb/>other kinds of Daukes, Tigers wool, Cotton wool, Graine to die
-        <lb/>coloures with al, Dides, Sugars, Coppar, Brasill, the wood --> <!-- How should I encode this list--> 
+        <lb/>coloures with al, Dides, Sugars, Coppar, Brasill, the wood --> <!-- How should I encode this list (unless typograsphically a list, dont worry about it)--> 
         <lb/><hi rend="italics">Ebano AMill</hi>: and all of these, there is to great quantity, that
         <lb/>there commeth every yeere, <num>one hundred</num> ships laden there-
         <lb/>with, that it is a great thing, and an incredible riches. </p>
@@ -168,11 +168,11 @@
         <lb/>full</unclear>, according to the greate profite which wee doe see, by
         <lb/> the use of them to follow, not onely in our <placeName>Spayne</placeName>, but also
         <lb/> in all the world.</p>
-        <p>And this is not toe bee meruelled at, that it is so, for the <!-- Meruelled is an old word that doesn't appear anymore, what happens to these kind of words? -->
+        <p>And this is not toe bee <choice><orig>meruelled</orig><reg>marvelled</reg></choice> at, that it is so, for the <!-- Meruelled is an old word that doesn't appear anymore, what happens to these kind of words? -->
            <lb/>philosopher doeth say, that all countries doe not yeelde
            <lb/>Plantes and Fruites alike: for one Region yeeldeth such
            <lb/>Fruites, Treese, and Plantes as an other doeth not: wee
-           <lb/> doe see that in <placeName rend="italics">Creta</placeName> onely groweth the <hi rend="italics">Diptamo</hi>, and the <!-- is there a tag for an emphasized word that is emphasized because it names a thing -->
+           <lb/> doe see that in <placeName rend="italics">Creta</placeName> onely groweth the <name type ="plant" rend="italics">Diptamo</name>, and the <!-- is there a tag for an emphasized word that is emphasized because it names a thing (put name and even type!!)-->
            <lb/> Incence onely in the region of <placeName rend="italics">Saba</placeName>, and the <hi rend="italics">Almaciga</hi>
            <lb/>Onely in the Lande of <placeName rend="italics">Chio</placeName>, and the Sinamon, Cloves,
            <lb/>and Peper, and other spices onely in the Landes of the <placeName rend="italics">Ada-
@@ -207,7 +207,7 @@
            <lb/>this Citie, where I have informed my selfe of them, that
            <lb/>have brought these thinges out of those partes with muche
            <lb/>care,and I have made experience thereof with many and
-           <lb/>divers persons, with all diligence and foresight possible, and <!-- if you have done choice before on a word, do you do it everytime it appears in the same mispelling/old spelling? (divers) -->
+           <lb/>divers persons, with all diligence and foresight possible, and <!-- if you have done choice before on a word, do you do it everytime it appears in the same mispelling/old spelling? (divers) (YES)-->
            <lb/>with much happy successe.</p>
        <!-- <div type="subsection">Of the Anime and Copall.</div> --> <!-- I tried to do the subsection division but it gave me an error :( --> <!-- from Sarah: You just need to make sure the end tag is at the end of the division -->
         <p><hi rend="DIC">T</hi>her do bring from the new <placeName>Spaine</placeName> <num>2</num>. kinds of Ro-
