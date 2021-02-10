@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <front>
+         <p><hi rend="capital">Joyfull Newes</hi> <!--there are A LOT of font changes in this one, how would I encode? hi? -->
+            <lb/><hi rend="italics">out of the new found world,</hi>
+            <lb/>wherein are declared the rare and
+            <lb/>singular vertues of <choice><orig>divers</orig><reg>diverse</reg></choice> and <choice><orig>sundrie</orig><reg>sundry</reg></choice>
+            <lb/><hi rend="dic">h</hi>erbs, <hi rend="dic">T</hi>rees, <hi rend="dic">O</hi>yles, <hi rend="dic">P</hi>lants,&amp; Stones, <!-- the letters are special characters but not at the beginning of the text, is this still DIC? -->
+            <lb/>with their applicatons, aswell to the use
+            <lb/><hi rend="italics">of <choice><orig>phesicke</orig><reg>physique</reg></choice>, as <choice><orig>chirurgery</orig><reg>surgery</reg></choice>: which being wel</hi>
+            <lb/>applied, bring such present remedy for
+            <lb/>all Diseases as may seeme altoge<unclear>-</unclear><!-- not sure if correct usage, also where would the high uncertn or low uncert go in the tag? -->
+            <lb/>ther incredible: notwith-
+            <lb/><hi rend="italics">standing by practize found</hi>
+            <lb/>out, to be true.</p>
+         <p>Also the portrature of the sayde
+            <lb/>Herbes, very aptly described: En-
+            <lb/>glished by <persName>John Frampton</persName>
+            <lb/>Merchant.</p>
+         <p>Newly corrected as by conference with
+            <lb/>the olde copies may appeare. Whereunto are
+            <lb/>added three other bookes treating of the <choice><orig>Bezaar</orig><reg>Bezoar</reg></choice>
+            <lb/>stone, the herbe <choice><orig xml:lang="es">Escuerzonera</orig><reg>Scorzonera</reg></choice>, the properties of
+            <lb/>yron and steele, in Medicine and the benefite of
+            <lb/>snowe. </p>
+         <p>Imprinted at <placeName>London</placeName>, in <placeName>Paules
+            <lb/>Churchyard</placeName> at the signe of the Quenes
+            <lb/><hi rend="italics">Armes, by <persName>William Norton</persName>.</hi>
+            <lb/><date>1580.</date></p>
+         <pb/> <!-- do multiple pages in between page breaks matter? (Not for now)-->
+ <div type="dedication"><salute>To the right worshipfull Maister <!-- font size is bigger for this -->
+            <lb/><persName>Edwarde Dier</persName><choice><orig>Esquier</orig><reg>Esquire</reg></choice>, <persName>John Frampton</persName> wi-
+            <lb/>sheth much health, with prosperous and
+            <lb/><hi rend="italics">persue <choice><orig>felicitie.</orig><reg>felicity</reg></choice></hi></salute>
+      <p><hi rend="DIC">R</hi>eturning right worship-
+         <lb/>ful, home into <placeName>Englande</placeName>
+         <lb/>out of <placeName>Spaine</placeName>, and now
+         <lb/>not pressed with the for-
+         <lb/>mer toiles of my olde
+         <lb/>trade, to passe the tyme
+         <lb/>to some benefite of my
+         <lb/>country, and to anoyde
+         <lb/>idlenes; I tooke in hande
+         <lb/>to translate out of Spanish into English, the three <!-- should landuages that are mentioned be encoded (not for now)-->
+         <lb/>bookes of Doctor <persName>Monardes of Seuil</persName>, the learned
+         <lb/><choice><orig>Phisition</orig><reg>Physician</reg></choice>, treating of the singular and rare vertues
+         <lb/>of certaine <choice><orig>Hearbes</orig><reg>Herbs</reg></choice>, Trees, Oyles, Plants, Stones,
+         <lb/>&amp; Drugges of the <placeName>West Indias</placeName>, for that the same
+         <lb/>booke is of high commendation in <placeName>Spaine</placeName>, and o-
+         <lb/>other countries, in such sorte, that in deede it might
+         <lb/>bring in tyme rare profite, to my country folkes
+         <lb/>of <placeName>Englande</placeName>,by wonderful cure of sundry great
+         <lb/>diseases, that otherwise then by these remedies,
+         <lb/>were incurable. And having finished the same
+         <lb/>translation, I determined to dedicate my <choice><orig>travaile</orig><reg>travel</reg></choice>
+   <pb/>
+         <lb/>therein, to some rare lover of knowledge, for the 
+         <lb/>worthinesse of the woorke: and not finding any
+         <lb/>Gentleman of myne acquaintance, that was more
+         <lb/>studious, and more delighted with learned works,
+         <lb/>or that more cherished travellers, and lovers of all
+         <lb/>good knowledge;determined to dedicate the same
+         <lb/>to your woorshippe before al others, requesting
+         <lb/>your woorshippe to accept the worke, and to be a
+         <lb/>patron of the same, and to take it into your prote-
+         <lb/>ction, since the matter is of good substance, and of
+         <lb/>much value, and of me, truly and faithfully transla-
+         <lb/>ted into English. And since the aforesaid Medicines
+         <lb/>mentioned in the same worke of Doctor <persName>Monar-
+         <lb/>des</persName>, are now by <choice><orig>Marchants</orig><reg>Merchants</reg></choice> &amp;others, brought out
+         <lb/>of the <placeName>West Indias</placeName> into <placeName>Spaine</placeName>, and from <placeName>Spaine</placeName>
+         <lb/>hither into <placeName>England</placeName>, by such as <choice><orig>doe</orig><reg>do</reg></choice> daily trafficke
+         <lb/>thither, and that the excellencie of these Hearbes,
+         <lb/>Trees, Oyles, Plants, Stones, &amp;c. have <choice><orig>bin knowen</orig><reg>been known</reg></choice>
+         <lb/>to be so precious a remedie for all manner of dis-
+         <lb/>seases, and hurtes, that may <choice><orig>happeunto</orig><reg>happen unto</reg></choice> Man, Wo-
+         <lb/>man, or Childe, they have left of and forsaken
+         <lb/>very much the olde order and manner of <choice><orig>Phisicke</orig><reg>Physique</reg></choice>,
+         <lb/>which was used before that this was <choice><orig>knowen</orig><reg>known</reg></choice>, as
+         <lb/>thinges not of so present remedie for all manner
+         <lb/>of diseases, as these nowe late founde <choice><orig>owt</orig><reg>out</reg></choice>, are;
+         <lb/> which by greate experience made in <placeName>Spayne</placeName>,
+         <lb/> and other Countries, were throughly and <choice><orig>effe-
+         <lb/> ctuously</orig><reg>effectively</reg></choice> prooved and experimented, to woorke
+         <lb/>the effectes which are contayned in this Booke.</p>
+         <pb/>
+      <p>And thus, I leave your woorshippe to the Al-
+         <lb/>mightie, beseeching him to gyve you long lyfe,
+         <lb/>and for the Common-welthes sake that ad-
+         <lb/>vancement, that your good nature, and
+         <lb/>rare vertues doe wel deserve. From
+         <lb/><placeName>London</placeName> the <date when="1577-10-01">first of Octo-
+         <lb/>ber. 1577.</date></p>     
+     <p>Your worships during lyfe to <choice><orig>com-
+         <lb/>maunde</orig><reg>command</reg></choice>: <persName rend="italics">John Frampton.</persName></p></div>
+  <pb/>
+      </front>
+     <body>
+        <p><title type="head">THE FIRST PART OF
+        <lb/>THIS BOKE TREATETH OF THE
+        <lb/>thinges that are brought from the <placeName>Occidentall Indias</placeName>, which
+        <lb/>serve for the use of Medicine, and of the order that must
+        <lb/>be kept in taking the roote called Mechoacan, wherein
+        <lb/>are discovered great secretes of Nature, and great
+        <lb/>experiences: made and complied by Do
+        <lb/>ctor <persName>Monardus</persName>, <choice><orig>Phisition</orig><reg>Physician</reg></choice> of <placeName>Seuill</placeName>. </title></p>
+     <p>
+        <lb/><hi rend="DIC">I</hi>n the yere of our Lord God,
+        <lb/><date when="1492">a thousand, foure hundreth nine-
+        <lb/>tie two</date>, our Spaniards were
+        <lb/>governed by sir <persName>Christopher
+        <lb/><choice><orig>Colon</orig><reg>Columbus</reg></choice></persName>, being Naturally born in
+        <lb/>the countrie of <placeName>Genova</placeName>, to disco-
+        <lb/>ver the <placeName>Occidental Indias</placeName>, that
+        <lb/>are called this day, the <placeName>newe
+        <lb/>world</placeName>, and they discovered the
+        <lb/>first land thereof, the <date><unclear>xi</unclear>, day of <!-- what happens to "when" if there is no year, etc.? -->
+        <lb/>October</date>, of the said yere: &amp; from that time unto this. they
+        <lb/>have discovered many &amp; sundry laandes, and muche firme
+        <lb/>land, as wel in that countrie, which they cal the <placeName>new Spaine</placeName>,
+        <lb/>as in that which is called the <placeName>Peru</placeName>, where there are manie
+        <lb/>provinces, many kingdomes, and many cities, that have
+        <lb/>contrary and <choice><orig>divers</orig><reg>diverse</reg></choice> customes in them, in which there have
+        <lb/>beene founde out, thinges that never in these partes, nor in
+        <lb/>any other partes of the worlde have beene seene, nor unto
+        <lb/>this day knowen: and other thinges which nowe are
+        <lb/>brought unto us in greate abundance, that is to say, Gold,
+        <lb/>Silver, Pearles, Emeraldes, Turkeies, &amp; other fine stones
+        <lb/>of great value. Yet great is the excelle and quantitie that
+        <lb/> hath come, and every <choice><orig>daie</orig><reg>day</reg></choice> doeth come, and inespecially
+        <lb/> of Golde and Silver, that it is a thing worthy of admirati-
+     <pb/>
+        <lb/>on the great number of <unclear> Melons</unclear>,<!-- not sure if the right word here --> which have come from
+        <lb/>thence, besides the great quantity of pearles which have sto-
+        <lb/>red the whole world: also they doe bring from those partes,
+        <lb/><!--Popingaies, Griffons, Apes, Lions, Gerfaucons, &amp;
+        <lb/>other kinds of Daukes, Tigers wool, Cotton wool, Graine to die
+        <lb/>coloures with al, Dides, Sugars, Coppar, Brasill, the wood --> <!-- How should I encode this list--> 
+        <lb/><hi rend="italics">Ebano AMill</hi>: and all of these, there is to great quantity, that
+        <lb/>there commeth every yeere, <num>one hundred</num> ships laden there-
+        <lb/>with, that it is a great thing, and an incredible riches. </p>
+     <p> And besides these great riches, our <placeName>Occidentall Indias</placeName>
+        <lb/>Doe send unto us many Trees, Plants, Hearbes, Rootes, <!-- another list of same type-->
+        <lb/>Juices, Gummes, Fruites, <choice><orig>Licoures</orig><reg>Liquors</reg></choice> &amp; Stones that are of
+        <lb/>great medicinall vertues, in the which there be founde, and
+        <lb/>have been found in them, very great effectes that doe exceeede
+        <lb/>much in value and price all the aforesayed thinges, by so
+        <lb/>muche as the copporall health is more excellent, and nece-
+        <lb/>sary then the temporall goodes: the which thinges all
+        <lb/>the world doth lackes, the want whereof is not a little <unclear>burte- <!-- can be beautiful, but it doesn't make sense here? -->
+        <lb/>full</unclear>, according to the greate profite which wee doe see, by
+        <lb/> the use of them to follow, not onely in our <placeName>Spayne</placeName>, but also
+        <lb/> in all the world.</p>
+        <p>And this is not toe bee meruelled at, that it is so, for the <!-- Meruelled is an old word that doesn't appear anymore, what happens to these kind of words? -->
+           <lb/>philosopher doeth say, that all countries doe not yeelde
+           <lb/>Plantes and Fruites alike: for one Region yeeldeth such
+           <lb/>Fruites, Treese, and Plantes as an other doeth not: wee
+           <lb/> doe see that in <placeName rend="italics">Creta</placeName> onely groweth the <hi rend="italics">Diptamo</hi>, and the <!-- is there a tag for an emphasized word that is emphasized because it names a thing -->
+           <lb/> Incence onely in the region of <placeName rend="italics">Saba</placeName>, and the <hi rend="italics">Almaciga</hi>
+           <lb/>Onely in the Lande of <placeName rend="italics">Chio</placeName>, and the Sinamon, Cloves,
+           <lb/>and Peper, and other spices onely in the Landes of the <placeName rend="italics">Ada-
+           <lb/>luca</placeName>, and many other thinges you have in divers partes of
+           <lb/> the worlde, which were not knowne untill our time, and
+           <lb/>the people of olde time did lacke them, but Time which is
+           <lb/>the discoverer of all thinges, hath discovered them unto us
+           <lb/>greatly to our profite, considering the greate neede that wee
+           <lb/>hav of them.</p>
+       <p>And as there are discovered new regions, newe king-
+           <lb/>domes, and newe provinces, by our Spaniards, so they
+          <lb/>have brought unto us newe Medicines, and newe Reme-
+          <lb/>dies, wherewith they doe cure many infirmities, which, if
+          <lb/>we did lacke them, would bee incurable, and without anye
+          <lb/>remedy: of which thinges although that some have know-
+          <lb/>ledge, yet they be not common too all people, for which
+          <lb/>cause I did pretend to treate, and to write, of all things that
+          <lb/>they bring from our <placeName>Indias</placeName>, Apperteyning to the arte and
+          <lb/>use of Medicine, and the remedie of the hurtes and diseases
+          <lb/>that we doe suffer and endure, whereof no small profite
+          <lb/>doeth follow to those of our time, and also unto them that
+          <lb/>shall come after us: in the bewraying whereof I shall be the
+          <lb/> first, that the rather the followers may adde thereunto, with
+          <lb/>this beginning, that which they shal more know, and by ex-
+          <lb/>perience hereafter finde out. </p>
+        <p>And as in this Cities of <placeName rend="italics">Seuill</placeName>, which is the Porte and
+           <lb/>skale of all the <placeName>Occidentall Indias</placeName>, we doe knowe of them
+           <lb/>more, then in any other partes of all <placeName>Spayne</placeName>, for bicause
+           <lb/>that al thinges come firsthither, where by better intelligence
+           <lb/>and greater experience it is learned: so doe I, with practice
+           <lb/>and use of them this <num>fourtie</num> yeeres <!-- in this case, would yeeres be included in num tag? -->, that which I doe cure in
+           <lb/>this Citie, where I have informed my selfe of them, that
+           <lb/>have brought these thinges out of those partes with muche
+           <lb/>care,and I have made experience thereof with many and
+           <lb/>divers persons, with all diligence and foresight possible, and <!-- if you have done choice before on a word, do you do it everytime it appears in the same mispelling/old spelling? (divers) -->
+           <lb/>with much happy successe.</p>
+       <!-- <div type="subsection">Of the Anime and Copall.</div> --> <!-- I tried to do the subsection division but it gave me an error :( -->
+        <p><hi rend="DIC">T</hi>her do bring from the new <placeName>Spaine</placeName> <num>2</num>. kinds of Ro-
+           <lb/>sine, that be both much alike one to the other, the one
+           <lb/>is called <hi rend="italics">Copall</hi>, and the other <hi rend="italics">Anime</hi>. The <hi rend="italics">Copall</hi> is a
+           <lb/>Rosine berie white, and of much brightnesse, it is
+        <pb/>
+           <lb/>brought in certaine great peeces, which are like too pee-
+           <lb/>ces of <hi rend="italics">Diacitron</hi> very cleare, it hath and indifferent smell,
+           <lb/>but not so good as the <hi rend="italics">Anime</hi>: with this <hi rend="italics">Copall</hi>, the Indi-
+           <lb/>ans did make perfumes in their sacrifices, &amp; to the use there-
+           <lb/>of was frequented in the Temples, by their Priestes.</p>
+        <p>And when the first Spaniardes went to those partes,
+           <lb/>these priestes went out to receive them, with little firepots,
+           <lb/>burning in them this <hi rend="italics">Copall</hi>, and geving to them the smoke
+           <lb/>of it at their noses: wee doe use heere to perfume with it in
+           <lb/>diseases rising upon coldenesse of the head, in the place of
+           <lb/>Incence, or <hi rend="italics">Anime</hi>: it is hotte in the seconde degree, and
+           <lb/>moyst in the first, it is resoluative, and softneth by some <choice><orig>wa-
+           <lb/>trish </orig> <reg>waterish</reg></choice>partes, that it hath.</p>
+        <p>The <hi rend="italics">Anime</hi> is a gumme of Rosine of a greate Treem
+           <lb/>it is white, it draweth neere to the coulour of Incence, it is
+           <lb/> more oyly then the <hi rend="italics">Copall</hi> is, it commeth in graines, as the
+           <lb/>Incence doeth, although somewhat greater, and beyng bro-
+           <lb/>ken, it hath a yellowe collour, as Rosine hath: it is of a be-
+           <lb/>ry acceptable and pleasaunt smell, and put uppon burning
+          <lb/>coals, it doth consume very quickely.</p>
+        <p>It differeth from our <hi rend="italics">Anime</hi>, that it is brought from
+           <lb/><placeName rend="italics">Lenante</placeName>, which is not so white, nor so bright, insomuche
+           <lb/>that some doe say, that it is spice of <hi rend="italics">Charabe</hi> or <hi rend="italics">succino</hi>, 
+           <lb/>which is called Amber congeled, wherwith they doe make
+           <lb/>Beades, but it not so, for that the <hi rend="italics">Charabe</hi> is a kinde of
+           <lb/>Pitche, that is founde in the <placeName>Germayne Sea</placeName>, and it is ta-
+           <lb/>ken out of the Sea in great peeces, with a dragge of Iron, 
+           <lb/>so that it seemth to come foorth of some fountaines, into
+           <lb/>the Sea, after the manner of pitch, and beeing come foorthe
+           <lb/>unto the colde ayre, it congeleth, for becayse there is scene in
+           <lb/>the same, peeces of stickes, &amp; other superfluities of the Sea,
+           <lb/>cleaving unto it, and in this they shall see the errour of them,
+           <lb/>that say that it is Gumme of <hi rend="italics">Alamo</hi>; and of others, that it
+           <lb/>is of the pinetree.</p>
+      <p> Of our <hi rend="italics">Anime</hi> Hermolaus Barbarus, a man most excel
+     <pb/>
+         <lb/>lenly learned doeth saie, 
+      </p>
+
+     </body>
+  </text>
+</TEI>
