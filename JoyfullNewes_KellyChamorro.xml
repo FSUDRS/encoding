@@ -209,7 +209,7 @@
            <lb/>care,and I have made experience thereof with many and
            <lb/>divers persons, with all diligence and foresight possible, and <!-- if you have done choice before on a word, do you do it everytime it appears in the same mispelling/old spelling? (divers) -->
            <lb/>with much happy successe.</p>
-       <!-- <div type="subsection">Of the Anime and Copall.</div> --> <!-- I tried to do the subsection division but it gave me an error :( -->
+       <!-- <div type="subsection">Of the Anime and Copall.</div> --> <!-- I tried to do the subsection division but it gave me an error :( --> <!-- from Sarah: You just need to make sure the end tag is at the end of the division -->
         <p><hi rend="DIC">T</hi>her do bring from the new <placeName>Spaine</placeName> <num>2</num>. kinds of Ro-
            <lb/>sine, that be both much alike one to the other, the one
            <lb/>is called <hi rend="italics">Copall</hi>, and the other <hi rend="italics">Anime</hi>. The <hi rend="italics">Copall</hi> is a
