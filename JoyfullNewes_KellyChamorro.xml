@@ -131,7 +131,7 @@
         <lb/>ver the <placeName>Occidental Indias</placeName>, that
         <lb/>are called this day, the <placeName>newe
         <lb/>world</placeName>, and they discovered the
-        <lb/>first land thereof, the <date><num>xi</num>, day of <!-- what happens to "when" if there is no year, etc.? (1492 is mentioned before)-->
+        <lb/>first land thereof, the <date when="1492-10-11"><num>xi</num>, day of
         <lb/>October</date>, of the said yere: &amp; from that time unto this. they
         <lb/>have discovered many &amp; sundry laandes, and muche firme
         <lb/>land, as wel in that countrie, which they cal the <placeName>new Spaine</placeName>,
@@ -150,14 +150,14 @@
         <lb/>on the great number of <unclear> Melons</unclear>,<!-- not sure if the right word here (will look back during proofing) --> which have come from
         <lb/>thence, besides the great quantity of pearles which have sto-
         <lb/>red the whole world: also they doe bring from those partes,
-        <lb/><!--Popingaies, Griffons, Apes, Lions, Gerfaucons, &amp;
+        <lb/>Popingaies, Griffons, Apes, Lions, Gerfaucons, &amp;
         <lb/>other kinds of Daukes, Tigers wool, Cotton wool, Graine to die
-        <lb/>coloures with al, Dides, Sugars, Coppar, Brasill, the wood --> <!-- How should I encode this list (unless typograsphically a list, dont worry about it)--> 
-        <lb/><hi rend="italics">Ebano AMill</hi>: and all of these, there is to great quantity, that
+        <lb/>coloures with al, Dides, Sugars, Coppar, Brasill, the wood
+        <lb/><name rend="italics">Ebano AMill</name>: and all of these, there is to great quantity, that
         <lb/>there commeth every yeere, <num>one hundred</num> ships laden there-
         <lb/>with, that it is a great thing, and an incredible riches. </p>
      <p> And besides these great riches, our <placeName>Occidentall Indias</placeName>
-        <lb/>Doe send unto us many Trees, Plants, Hearbes, Rootes, <!-- another list of same type-->
+        <lb/>Doe send unto us many Trees, Plants, Hearbes, Rootes,
         <lb/>Juices, Gummes, Fruites, <choice><orig>Licoures</orig><reg>Liquors</reg></choice> &amp; Stones that are of
         <lb/>great medicinall vertues, in the which there be founde, and
         <lb/>have been found in them, very great effectes that doe exceeede
@@ -168,15 +168,15 @@
         <lb/>full</unclear>, according to the greate profite which wee doe see, by
         <lb/> the use of them to follow, not onely in our <placeName>Spayne</placeName>, but also
         <lb/> in all the world.</p>
-        <p>And this is not toe bee <choice><orig>meruelled</orig><reg>marvelled</reg></choice> at, that it is so, for the <!-- Meruelled is an old word that doesn't appear anymore, what happens to these kind of words? -->
+        <p>And this is not toe bee <choice><orig>meruelled</orig><reg>marvelled</reg></choice> at, that it is so, for the
            <lb/>philosopher doeth say, that all countries doe not yeelde
            <lb/>Plantes and Fruites alike: for one Region yeeldeth such
            <lb/>Fruites, Treese, and Plantes as an other doeth not: wee
            <lb/> doe see that in <placeName rend="italics">Creta</placeName> onely groweth the <name type ="plant" rend="italics">Diptamo</name>, and the <!-- is there a tag for an emphasized word that is emphasized because it names a thing (put name and even type!!)-->
-           <lb/> Incence onely in the region of <placeName rend="italics">Saba</placeName>, and the <hi rend="italics">Almaciga</hi>
+           <lb/> Incence onely in the region of <placeName rend="italics">Saba</placeName>, and the <name type="plant" rend="italics">Almaciga</name>
            <lb/>Onely in the Lande of <placeName rend="italics">Chio</placeName>, and the Sinamon, Cloves,
            <lb/>and Peper, and other spices onely in the Landes of the <placeName rend="italics">Ada-
-           <lb/>luca</placeName>, and many other thinges you have in divers partes of
+              <lb/>luca</placeName>, and many other thinges you have in <choice><orig>divers</orig><reg>diverse</reg></choice> partes of
            <lb/> the worlde, which were not knowne untill our time, and
            <lb/>the people of olde time did lacke them, but Time which is
            <lb/>the discoverer of all thinges, hath discovered them unto us
@@ -207,39 +207,39 @@
            <lb/>this Citie, where I have informed my selfe of them, that
            <lb/>have brought these thinges out of those partes with muche
            <lb/>care,and I have made experience thereof with many and
-           <lb/>divers persons, with all diligence and foresight possible, and <!-- if you have done choice before on a word, do you do it everytime it appears in the same mispelling/old spelling? (divers) (YES)-->
+           <lb/><choice><orig>divers</orig><reg>diverse</reg></choice> persons, with all diligence and foresight possible, and <!-- if you have done choice before on a word, do you do it everytime it appears in the same mispelling/old spelling? (divers) (YES)-->
            <lb/>with much happy successe.</p>
        <!-- <div type="subsection">Of the Anime and Copall.</div> --> <!-- I tried to do the subsection division but it gave me an error :( --> <!-- from Sarah: You just need to make sure the end tag is at the end of the division -->
         <p><hi rend="DIC">T</hi>her do bring from the new <placeName>Spaine</placeName> <num>2</num>. kinds of Ro-
            <lb/>sine, that be both much alike one to the other, the one
-           <lb/>is called <hi rend="italics">Copall</hi>, and the other <hi rend="italics">Anime</hi>. The <hi rend="italics">Copall</hi> is a
+           <lb/>is called <name rend="italics">Copall</name>, and the other <name rend="italics">Anime</name>. The <name rend="italics">Copall</name> is a
            <lb/>Rosine berie white, and of much brightnesse, it is
         <pb/>
            <lb/>brought in certaine great peeces, which are like too pee-
-           <lb/>ces of <hi rend="italics">Diacitron</hi> very cleare, it hath and indifferent smell,
-           <lb/>but not so good as the <hi rend="italics">Anime</hi>: with this <hi rend="italics">Copall</hi>, the Indi-
+           <lb/>ces of <name rend="italics">Diacitron</name> very cleare, it hath and indifferent smell,
+           <lb/>but not so good as the <name rend="italics">Anime</name>: with this <name rend="italics">Copall</name>, the Indi-
            <lb/>ans did make perfumes in their sacrifices, &amp; to the use there-
            <lb/>of was frequented in the Temples, by their Priestes.</p>
         <p>And when the first Spaniardes went to those partes,
            <lb/>these priestes went out to receive them, with little firepots,
-           <lb/>burning in them this <hi rend="italics">Copall</hi>, and geving to them the smoke
+           <lb/>burning in them this <name rend="italics">Copall</name>, and geving to them the smoke
            <lb/>of it at their noses: wee doe use heere to perfume with it in
            <lb/>diseases rising upon coldenesse of the head, in the place of
-           <lb/>Incence, or <hi rend="italics">Anime</hi>: it is hotte in the seconde degree, and
+           <lb/>Incence, or <name rend="italics">Anime</name>: it is hotte in the seconde degree, and
            <lb/>moyst in the first, it is resoluative, and softneth by some <choice><orig>wa-
            <lb/>trish </orig> <reg>waterish</reg></choice>partes, that it hath.</p>
-        <p>The <hi rend="italics">Anime</hi> is a gumme of Rosine of a greate Treem
+        <p>The <name rend="italics">Anime</name> is a gumme of Rosine of a greate Treem
            <lb/>it is white, it draweth neere to the coulour of Incence, it is
-           <lb/> more oyly then the <hi rend="italics">Copall</hi> is, it commeth in graines, as the
+           <lb/> more oyly then the <name rend="italics">Copall</name> is, it commeth in graines, as the
            <lb/>Incence doeth, although somewhat greater, and beyng bro-
            <lb/>ken, it hath a yellowe collour, as Rosine hath: it is of a be-
            <lb/>ry acceptable and pleasaunt smell, and put uppon burning
           <lb/>coals, it doth consume very quickely.</p>
-        <p>It differeth from our <hi rend="italics">Anime</hi>, that it is brought from
+        <p>It differeth from our <name rend="italics">Anime</name>, that it is brought from
            <lb/><placeName rend="italics">Lenante</placeName>, which is not so white, nor so bright, insomuche
-           <lb/>that some doe say, that it is spice of <hi rend="italics">Charabe</hi> or <hi rend="italics">succino</hi>, 
+           <lb/>that some doe say, that it is spice of <name rend="italics">Charabe</name> or <name rend="italics">succino</name>, 
            <lb/>which is called Amber congeled, wherwith they doe make
-           <lb/>Beades, but it not so, for that the <hi rend="italics">Charabe</hi> is a kinde of
+           <lb/>Beades, but it not so, for that the <name rend="italics">Charabe</name> is a kinde of
            <lb/>Pitche, that is founde in the <placeName>Germayne Sea</placeName>, and it is ta-
            <lb/>ken out of the Sea in great peeces, with a dragge of Iron, 
            <lb/>so that it seemth to come foorth of some fountaines, into
@@ -247,9 +247,9 @@
            <lb/>unto the colde ayre, it congeleth, for becayse there is scene in
            <lb/>the same, peeces of stickes, &amp; other superfluities of the Sea,
            <lb/>cleaving unto it, and in this they shall see the errour of them,
-           <lb/>that say that it is Gumme of <hi rend="italics">Alamo</hi>; and of others, that it
+           <lb/>that say that it is Gumme of <name rend="italics">Alamo</name>; and of others, that it
            <lb/>is of the pinetree.</p>
-      <p> Of our <hi rend="italics">Anime</hi> Hermolaus Barbarus, a man most excel
+      <p> Of our <name rend="italics">Anime</name> Hermolaus Barbarus, a man most excel
      <pb/>
          <lb/>lenly learned doeth saie, 
       </p>
