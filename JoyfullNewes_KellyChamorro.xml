@@ -251,7 +251,7 @@
            <lb/>is of the pinetree.</p>
       <p> Of our <name rend="italics">Anime</name> <persName>Hermolaus Barbarus</persName>, a man most excel
      <pb/>
-         <lb/>lenly learned doeth saie, that it is gathered about the place <!-- would this be encoded as said? -->
+         <lb/>lenly learned doeth saie, that it is gathered about the place <!-- would this be encoded as said? (for quotes from other books: Quote) -->
          <lb/>where Incence is founde, and that lande on soile, is called
          <lb/><placeName rend="italics">Amintin</placeName> and therefore the thing is called <name rend="italics">Anime.</name></p>
       <p>That which is brought from the <placeName>newe Spaine</placeName>, is ga-
@@ -263,19 +263,19 @@
          <lb/>thereof doeth proceede, after evacuation, perfuming there-
          <lb/> with the chambers in the Winter season: and where as are
          <lb/>generall infirmities, it doeth purifie and correct the Aire,
-         <lb/>and they doe perfume therewith their head <unclear>kerchers</unclear>, when <!-- do you recognize this word -->
+         <lb/>and they doe perfume therewith their head kerchers, when <!-- do you recognize this word -->
          <lb/>that they doe goe to sleepe: for them that doe suffer paines
          <lb/>in the head, and occasions thereof, it doeth profite to per-
          <lb/>fume the head of him that is so diseased, it doeth comforte
          <lb/>the head unto such as have it debilited, or weakened, and
          <lb/>doe suffer paines by occasion thereof: they doe put it also
-         <lb/>in plaisters, and in <unclear>seere</unclear> clothes, where as is neede of com- <!-- I dont recognize this word do they mean saree? -->
+         <lb/>in plaisters, and in seere clothes, where as is neede of com- <!-- go back to this (means dry, don't correct this to dry) -->
          <lb/>fort, and to dissolve, especially cold humours, or windiness:
          <lb/>they doe use it also in place of Incence, as well in the per-
          <lb/>fumes, as in the aforesaide.</p> 
       <p>It doeth comfort the braine, applied in the forme of a
            <lb/>plaister, and even so likewise the stomacke, and all partes
-           <lb/>being full of sinewes, made after the fashion of a Sere <!-- same here, I'm guessing saree clothing -->
+           <lb/>being full of sinewes, made after the fashion of a Sere <!-- same here just dry cloth -->
            <lb/>cloth with the third parte of Waxe: it taketh out the cold of
            <lb/>any member, whatsoeverr, being applied thereuntoo for a
            <lb/>long time, with refreshing it. It is hotte in the second de-
@@ -283,7 +283,7 @@
        <div type="subection" rend="italics"><p>Of the gumme called Tacamabaca.</p>
           <p><hi rend="DIC">A</hi>nd also they doe bring out of the <placeName>newe Spaine</placeName>
           <lb/>an other kinde of Gumme or Rosine, which the
-          <lb/>Indians doe call <name rend="italics">Tacamabaca</name>, and the same <!-- is nationality, ethinicity be something to encode? -->
+          <lb/>Indians doe call <name rend="italics">Tacamabaca</name>, and the same <!-- is nationality, ethinicity be something to encode? (leave off for now!)-->
           <lb/>name did our Spaniard give it, it is Rosine
       <pb/>
           <lb/>taken out by incision of a tree, being as great as a Willow
@@ -325,7 +325,7 @@
           <lb/>consumeth and desolveth them, and if there bee any desire to
           <lb/>ripen them, it doeth it, and that very quickly.</p>
         <p>It is also a remedie verified, and experimented
-           <lb/>that it doeth profite much in Reumes <!-- are they saying rooms here? -->, and Runnings,
+           <lb/>that it doeth profite much in <choice><orig>Reumes</orig><reg>Rheums</reg></choice> <!-- are they saying rooms here? -->, and Runnings,
            <lb/>wheresoever they goe, for it taketh them awaie, put-
            <lb/>ting a small peece a linnen cloth with this Rosine, be-
            <lb/>hinde both the eares, or the eare on the parte which run-
