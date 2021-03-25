@@ -2,6 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="JoyfullNewesTransform_Kelly.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -993,8 +994,58 @@
    <lb/>the water of the wood, ought ot take it in the maner as is a-
    <lb/>above said, without any mingling thereof, for that by expe-
 <pb/>
-   <lb/>rience
-</p>
+   <lb/>perience it hath beene seene so to make the better woorke.
+   <lb/>This water is good for the teeth, making them white, and
+   <lb/>fastning them, by continual washing of them therewith: it is
+   <lb/>hot and dry in the second degree.</p>
+</div>
+<div> <p><hi rend="italics">Of the <name>China</name>.</hi></p>
+   <p><hi rend="DIC">T</hi>he Second Medicine that commeth from our In-
+      <lb/>dias, is a roote called the <name rend="italics">China</name>. It seemeth that I
+      <lb/>should slaunder it, to say that the <name rend="italics">China</name> groweth in
+      <lb/>our Ocidental <placeName>Indias</placeName>, since commonly the portin-
+      <lb/>gales doe bring it from the Orientall <placeName>Indias</placeName>.
+      <lb/>By this you shall understande, that <persName>Syr Frauncis <hi rend="italics">de
+      <lb/>Mendosa</hi></persName>, a worthy knight, when hee came from the <placeName>newe
+      <lb/>Spayne</placeName> and <placeName>Peru</placeName>, shewed to mee a greate Roote, and
+      <lb/>other little rootes, who asked mee, what rootes they were?
+      <lb/>I aunswered that they were rootes of the <name rend="italics">China</name>, but that
+      <lb/>they seemed to mee to bee very freshe. Hee sayde to mee,
+      <lb/>that so they were, and that it was not longe since that
+      <lb/>they had beene gathered and brought from the <placeName>newe Spaine</placeName>.
+      <lb/>I narveled that they had it there, for I did beleeve that in
+      <lb/>the <name rend="italics">China</name> only it had growen: he said unto mee, that not only
+      <lb/>there was in the <placeName>newe Spaine</placeName> the <name rend="italics">China</name>, but that also wee
+      <lb/>shoulde see brought greate quantitie of Spicerie from the
+      <lb/>place which that <name rend="italics">China</name> came from. And I beleved it when
+      <lb/>I saw the contract that he made with his <choice><orig>maiestie</orig><reg>majesty</reg></choice>, to bring
+      <lb/>into <placeName>Spain</placeName> great quantitie of spicerie, that hee had begon
+      <lb/>to set and to plante, and I saw greene Ginger brought from
+      <lb/>thence, as also the <name rend="italics">China</name>. </p>
+   <p>This <name rend="italics">China</name> is a roote lyke to the roote of a cane with
+      <lb/>certaine knottes within it, whyte and some with the whyte-
+      <lb/>nesse hath an alborne colour: it is red without, the best is
+      <lb/>the freshest, that which hath no holes, if it bee weightie,
+      <lb/>and not worme eaten, and that it have a fatnes as it were
+      <lb/>congeled, and it hath an unsavery tast. This Roote doeth
+  <pb/>
+      <lb/>growe in the <name rend="italics">China</name>, which is the Orientall <placeName>Indias</placeName> neere
+      <lb/>to <placeName rend="italics">Siria</placeName> and <placeName rend="italics">Sirciana</placeName>. It groweth neere to the Sea, onely
+      <lb/>with the roote they helpe themselves, with the which the
+      <lb/>Indians bee healed of grievous diseases. And therfore they
+      <lb/>have it in great estimation: they do heale al maner of large
+      <lb/>disease therewith: and also the shape diseases: especially
+      <lb/>Agues, with the Water of it, provoking Sweats, and
+      <lb/>by this way they heale many. It provoketh marvel-
+      <lb/>lously.</p>
+ <p>It is wel neere xxx. yeeres since that the Portingales
+    <lb/>brought it to these parts with great estimation, for to heale al
+    <lb/>manner of diseases, and especially the disease of the Poxe, in
+    <lb/>the which it hath wrought greate effectes, and the Water is
+    <lb/>given in this forme.  
+ </p>
+   
+
 
 
    
