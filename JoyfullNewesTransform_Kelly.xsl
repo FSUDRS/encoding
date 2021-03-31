@@ -23,6 +23,7 @@
      <xsl:choose>
         <xsl:when test="@rend='DIC'"><span style="text-transform:uppercase; font-size:200%;"><xsl:apply-templates></xsl:apply-templates></span></xsl:when>
          <xsl:when test="@rend='italics'"><em><xsl:apply-templates></xsl:apply-templates></em></xsl:when>
+         <xsl:when test="@rend='capital'"><em><xsl:apply-templates></xsl:apply-templates></em></xsl:when>
      </xsl:choose>
     </xsl:template>
 <xsl:template match="tei:salute">
@@ -36,9 +37,22 @@
             <xsl:when test="@rend='italics'"><name><xsl:apply-templates></xsl:apply-templates></name></xsl:when>
         </xsl:choose>
     </xsl:template>
-    <xsl:template match="tei:placeName"> <!-- what happens when a placename is italicized but the element doesnt exist in HTML? -->
+    <xsl:template match="tei:placeName"> <!-- this didn't render correctly -->
         <xsl:choose>
-            <xsl:when test="@rend='italics'"><em><xsl:apply-templates></xsl:apply-templates></em></xsl:when>
+            <xsl:when test="@rend='italics'"><em class="placeName" text-transform="font:italics"><xsl:apply-templates></xsl:apply-templates></em></xsl:when> <!-- and what about when there is no attribute? -->
+            <xsl:when test="tei:placeName"><em><xsl:apply-templates></xsl:apply-templates></em></xsl:when> 
         </xsl:choose>
+    </xsl:template>
+    <xsl:template match="tei:name">
+        <em class="name"><xsl:apply-templates></xsl:apply-templates></em>
+    </xsl:template>
+    <xsl:template match="tei:persName"> <!-- this made every persName italic  -->
+        <xsl:choose>
+            <xsl:when test="@rend='italics'"><em class="persName" text-transform="font:italics"><xsl:apply-templates></xsl:apply-templates></em></xsl:when>
+        </xsl:choose> <!-- can a style="" attribute be used instead of text-transform and vice versa? -->
+            <em class="persName"><xsl:apply-templates></xsl:apply-templates></em>
+    </xsl:template>
+    <xsl:template match="tei:unclear">
+        <mark style="color:grey"></mark>
     </xsl:template>
 </xsl:stylesheet>
