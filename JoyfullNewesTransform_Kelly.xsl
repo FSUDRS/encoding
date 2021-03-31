@@ -12,10 +12,10 @@
         <body><xsl:apply-templates></xsl:apply-templates></body>
     </xsl:template>
     <xsl:template match="tei:TEI/tei:text/tei:body/tei:head">
-        <h1><xsl:apply-templates></xsl:apply-templates></h1>
+          <h1><xsl:apply-templates></xsl:apply-templates></h1> 
     </xsl:template>
     <xsl:template match="tei:TEI/tei:text/tei:body/tei:div/tei:head">
-        <h2><xsl:apply-templates></xsl:apply-templates></h2>
+       <h2><xsl:apply-templates></xsl:apply-templates></h2>
     </xsl:template>
     <xsl:template match="tei:TEI/tei:text/tei:body/tei:div/tei:div/tei:head">
         <h3><xsl:apply-templates></xsl:apply-templates></h3>
