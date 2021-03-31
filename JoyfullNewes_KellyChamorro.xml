@@ -3,6 +3,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-stylesheet type="text/xsl" href="JoyfullNewesTransform_Kelly.xsl"?>
+<?xml-stylesheet href="JoyfullNewesStyle.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -148,7 +149,7 @@
         <lb/> hath come, and every <choice><orig>daie</orig><reg>day</reg></choice> doeth come, and inespecially
         <lb/> of Golde and Silver, that it is a thing worthy of admirati-
      <pb/>
-        <lb/>on the great number of <unclear> Melons</unclear>,<!-- not sure if the right word here (will look back during proofing) --> which have come from
+        <lb/>on the great number of Melons,<!-- not sure if the right word here (will look back during proofing) --> which have come from
         <lb/>thence, besides the great quantity of pearles which have sto-
         <lb/>red the whole world: also they doe bring from those partes,
         <lb/>Popingaies, Griffons, Apes, Lions, Gerfaucons, &amp;
@@ -210,7 +211,7 @@
            <lb/>care,and I have made experience thereof with many and
            <lb/><choice><orig>divers</orig><reg>diverse</reg></choice> persons, with all diligence and foresight possible, and <!-- if you have done choice before on a word, do you do it everytime it appears in the same mispelling/old spelling? (divers) (YES)-->
            <lb/>with much happy successe.</p>
-        <div type="subsection"><p>Of the Anime and Copall. <!-- from Sarah: You just need to make sure the end tag is at the end of the division -->
+        <div type="subsection"><head>Of the Anime and Copall.</head><p> <!-- from Sarah: You just need to make sure the end tag is at the end of the division -->
            <lb/><hi rend="DIC">T</hi>her do bring from the new <placeName>Spaine</placeName> <num>2</num>. kinds of Ro-
            <lb/>sine, that be both much alike one to the other, the one
            <lb/>is called <name rend="italics">Copall</name>, and the other <name rend="italics">Anime</name>. The <name rend="italics">Copall</name> is a
@@ -281,7 +282,7 @@
            <lb/>any member, whatsoeverr, being applied thereuntoo for a
            <lb/>long time, with refreshing it. It is hotte in the second de-
            <lb/>gree, and moist in the first.</p></div>
-       <div type="subection" rend="italics"><p>Of the gumme called Tacamabaca.</p>
+       <div type="subection" rend="italics"><head>Of the gumme called Tacamabaca.</head>
           <p><hi rend="DIC">A</hi>nd also they doe bring out of the <placeName>newe Spaine</placeName>
           <lb/>an other kinde of Gumme or Rosine, which the
           <lb/>Indians doe call <name rend="italics">Tacamabaca</name>, and the same <!-- is nationality, ethinicity be something to encode? (leave off for now!)-->
@@ -362,7 +363,7 @@
            <lb/>the first furie is past, and the <choice><orig>fearcenesse</orig><reg>fierceness</reg></choice> thereof, it doth pro-
            <lb/>fite much for to dissolve the rest: it is hotte in the beginning
            <lb/>of the third degree, and drie in the second. </p> </div>
-  <div type="subsection"><p><hi rend="italics">Of the Gumme <name>Caranna</name></hi></p>
+  <div type="subsection"><head><hi rend="italics">Of the Gumme <name>Caranna</name></hi></head>
     <p><hi rend="DIC">T</hi>hey doe bring from the firme Lande, by the waie
         <lb/>of <placeName rend="italics">Cartagens</placeName>, and number <hi rend="italics">de dios</hi>, A Rosin of the
         <lb/>colour of <name rend="italics">Tacamabaca</name>, somewhat cleare, and
@@ -408,7 +409,7 @@
            <lb/>Trees, of which forthwith the licour doth droppe out, and
            <lb/>from thence they gather it.</p>
   </div>
-   <div type="subsection"> <p>Of the Oyle of the Figge tree of Hell.</p>
+   <div type="subsection"> <head>Of the Oyle of the Figge tree of Hell.</head>
     <p><hi rend="DIC">F</hi>Rom <placeName rend="italics">Gelisco</placeName>, a province in the <placeName rend="italics">newe
        <lb/>Spaine</placeName>, they bring an Oyle or Licour,
        <lb/>that the Spaniards have called, oyle of
@@ -482,7 +483,7 @@
       <lb/>take it away, and consumeth it, not with litle content to them
       <lb/>that use it. It is hotte in the first parte of the thirde degree,
       <lb/>and moist in the second.</p> </div> 
-  <div type="subsection" rend="italics"><p>Of the Bitumen which is a king of pitch.</p>
+  <div type="subsection" rend="italics"><head>Of the Bitumen which is a king of pitch.</head>
    <p><hi rend="DIC">T</hi>here is in the Islande of <placeName rend="italics">Cuba</placeName>, certaine
       <lb/>fountaines at the Sea side, that do cast
       <lb/>from them a kinde of blacke pitch of a
@@ -505,7 +506,7 @@
       <lb/>plied to cold Infirmities, as the other Medicines do which
       <lb/>we have spoken of. It is hotte in the second degree, &amp; moist
       <lb/>in the first.</p></div>
-  <div type="subsection" rend="italics"><p>Of liquid Amber, &amp;the Oyle therof.</p>
+  <div type="subsection" rend="italics"><head>Of liquid Amber, &amp;the Oyle therof.</head>
    <p><hi rend="DIC">F</hi>Rom the <placeName>newe Spaine</placeName> they doe bring a Rosine that
       <lb/>we call <name rend="italics">Liquid Amber</name>, and one like Oyle that wee call
       <lb/>Oyle of <name rend="italics">Liquid Amber</name>, that is to say, a thing that wee
@@ -782,7 +783,7 @@
    <lb/>best of all, as exprience hath shewed, and the use thereof in
    <lb/>so many yeares.
 </p></div>
-<div rend="italics"><p>Of the Guaiacan and of the holie Wood.</p>
+<div rend="italics"><head>Of the Guaiacan and of the holie Wood.</head>
 <p><hi rend="DIC">T</hi>he <name rend="italics">Guaiacan</name>, that is called the wood of
    <lb/>the <placeName>Indias</placeName> was discovered forthwith, when
    <lb/>the first <placeName>Indias</placeName> were found, which was the
@@ -999,7 +1000,7 @@
    <lb/>fastning them, by continual washing of them therewith: it is
    <lb/>hot and dry in the second degree.</p>
 </div>
-<div> <p><hi rend="italics">Of the <name>China</name>.</hi></p>
+<div> <head><hi rend="italics">Of the <name>China</name>.</hi></head>
    <p><hi rend="DIC">T</hi>he Second Medicine that commeth from our In-
       <lb/>dias, is a roote called the <name rend="italics">China</name>. It seemeth that I
       <lb/>should slaunder it, to say that the <name rend="italics">China</name> groweth in

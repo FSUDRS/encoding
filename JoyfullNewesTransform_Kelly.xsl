@@ -11,6 +11,15 @@
     <xsl:template match="tei:body">
         <body><xsl:apply-templates></xsl:apply-templates></body>
     </xsl:template>
+    <xsl:template match="tei:TEI/tei:text/tei:body/tei:head">
+        <h1><xsl:apply-templates></xsl:apply-templates></h1>
+    </xsl:template>
+    <xsl:template match="tei:TEI/tei:text/tei:body/tei:div/tei:head">
+        <h2><xsl:apply-templates></xsl:apply-templates></h2>
+    </xsl:template>
+    <xsl:template match="tei:TEI/tei:text/tei:body/tei:div/tei:div/tei:head">
+        <h3><xsl:apply-templates></xsl:apply-templates></h3>
+    </xsl:template>
     <xsl:template match="tei:p">
         <p><xsl:apply-templates></xsl:apply-templates></p>
     </xsl:template>
@@ -24,6 +33,7 @@
         <xsl:when test="@rend='DIC'"><span style="text-transform:uppercase; font-size:200%;"><xsl:apply-templates></xsl:apply-templates></span></xsl:when>
          <xsl:when test="@rend='italics'"><em><xsl:apply-templates></xsl:apply-templates></em></xsl:when>
          <xsl:when test="@rend='capital'"><em><xsl:apply-templates></xsl:apply-templates></em></xsl:when>
+         <xsl:otherwise><span class="hi"><xsl:apply-templates></xsl:apply-templates></span></xsl:otherwise>
      </xsl:choose>
     </xsl:template>
 <xsl:template match="tei:salute">
@@ -32,27 +42,24 @@
     <xsl:template match="tei:div">
         <div><xsl:apply-templates></xsl:apply-templates></div>
     </xsl:template>
-    <xsl:template match="tei:name">
+    <xsl:template match="tei:placeName">
         <xsl:choose>
-            <xsl:when test="@rend='italics'"><name><xsl:apply-templates></xsl:apply-templates></name></xsl:when>
-        </xsl:choose>
-    </xsl:template>
-    <xsl:template match="tei:placeName"> <!-- this didn't render correctly -->
-        <xsl:choose>
-            <xsl:when test="@rend='italics'"><em class="placeName" text-transform="font:italics"><xsl:apply-templates></xsl:apply-templates></em></xsl:when> <!-- and what about when there is no attribute? -->
-            <xsl:when test="tei:placeName"><em><xsl:apply-templates></xsl:apply-templates></em></xsl:when> 
+            <xsl:when test="@rend='italics'"><em class="placeName"><xsl:apply-templates></xsl:apply-templates></em></xsl:when>
+            <xsl:otherwise><span class="placeName"><xsl:apply-templates></xsl:apply-templates></span></xsl:otherwise>
         </xsl:choose>
     </xsl:template>
     <xsl:template match="tei:name">
-        <em class="name"><xsl:apply-templates></xsl:apply-templates></em>
-    </xsl:template>
-    <xsl:template match="tei:persName"> <!-- this made every persName italic  -->
         <xsl:choose>
-            <xsl:when test="@rend='italics'"><em class="persName" text-transform="font:italics"><xsl:apply-templates></xsl:apply-templates></em></xsl:when>
-        </xsl:choose> <!-- can a style="" attribute be used instead of text-transform and vice versa? -->
-            <em class="persName"><xsl:apply-templates></xsl:apply-templates></em>
+            <xsl:when test="@rend='italics'"><em class="name"><xsl:apply-templates></xsl:apply-templates></em></xsl:when>
+           <xsl:otherwise><span class="name"><xsl:apply-templates></xsl:apply-templates></span></xsl:otherwise>        
+        </xsl:choose>
+    </xsl:template>
+    <xsl:template match="tei:persName"> 
+       <xsl:choose>
+            <xsl:when test="@rend='italics'"><em class="persName"><xsl:apply-templates></xsl:apply-templates></em></xsl:when>
+            <xsl:otherwise><span class="persName"><xsl:apply-templates></xsl:apply-templates></span></xsl:otherwise></xsl:choose>
     </xsl:template>
     <xsl:template match="tei:unclear">
-        <mark style="color:grey"></mark>
+        <span class="unclear"><xsl:apply-templates></xsl:apply-templates></span>
     </xsl:template>
 </xsl:stylesheet>
