@@ -1,3 +1,32 @@
 .persName {
-    color:red;
+  color: #688C87;
+    text-decoration:underline;
+}
+body {
+    background-color: #FFF7EE;
+ color: #2B2B29;
+ margin: 70px 540px 100px 540px;
+}
+p {
+    font-family: "Times New Roman", Arial;
+    font-size:18px;
+    line-height: 30px;
+    text-indent: 30px;
+    word-spacing: 1px;
+}
+h2{
+   font-family: "Times New Roman", Arial;
+    font-style: italic;
+    text-align: center;
+    padding: 25px 20px 3px 20px;
+    font-size: 25px;
+}
+
+.DIC {
+    font-weight: 400;
+}
+
+.name{
+     color: #7F8699;
+    text-decoration:underline;
 }
