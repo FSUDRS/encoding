@@ -1,14 +1,31 @@
-.persName {
-  color: #688C87;
-    text-decoration:underline;
+
+p.front{
+    color: #2B2B29;
+    margin: 1px 125px 1px 125px;
+    text-align: center;
+    line-height: 34px;
+    font-weight: 600;
+    font-size: 18.5px;
 }
+
+.frontmatter{
+    color: #2B2B29;
+    text-align: center;
+    border-style:solid;
+    padding: 30px;
+    border-color: #DFD8D0;
+}
+
 body {
     background-color: #FFF7EE;
- color: #2B2B29;
- margin: 70px 540px 100px 540px;
+    color: #2B2B29;
+    margin: 115px 560px 100px 560px;
+    font-family: "Times New Roman", Arial;
+    border-style:solid;
+    padding: 40px;
+    border-color: #DFD8D0;
 }
 p {
-    font-family: "Times New Roman", Arial;
     font-size:18px;
     line-height: 30px;
     text-indent: 30px;
@@ -19,15 +36,34 @@ h2{
     font-style: italic;
     text-align: center;
     padding: 25px 20px 3px 20px;
-    font-size: 25px;
+    font-size: 27.5px;
     font-weight: 500;
 }
-
+h2 span.name{
+    text-decoration: none;
+    color: black;
+}
 .DIC {
     font-weight: 400;
 }
 
 .name{
      color: #7F8699;
-    text-decoration:underline;
+}
+
+span.choice a.orig{
+    text-decoration: underline;
+}
+
+span.choice a.reg {
+    display: none;
+}
+span.choice:hover a.reg{
+    display:block;
+    position:absolute;
+    width: 100px;
+    color:black;
+    background-color:#F7F7F3;
+    border:1px solid #514E45;
+    padding: 5px 25px 5px 5px;
 }

@@ -5,7 +5,7 @@
     version="2.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
     <xsl:template match="/"><xsl:apply-templates></xsl:apply-templates></xsl:template>
     <xsl:template match="tei:teiHeader"/>
-    <xsl:template match="tei:body">
+    <xsl:template match="tei:text">
         <xsl:result-document href="JoyfullNewes.html" method="html" omit-xml-declaration="true">
             <html>
                 <head>
@@ -20,6 +20,14 @@
     </xsl:template>
     <xsl:template match="tei:front">
         <div class="frontmatter"><xsl:apply-templates></xsl:apply-templates></div>
+    </xsl:template>
+   
+    <xsl:template match="tei:TEI/tei:text/tei:front/tei:p">
+        <xsl:choose>
+            <xsl:when test="ancestor::tei:front"><p class="front"><xsl:apply-templates></xsl:apply-templates></p></xsl:when>
+            <xsl:when test="ancestor::tei:front/div"><p class="dedication"><xsl:apply-templates></xsl:apply-templates></p></xsl:when>
+            <xsl:otherwise><span class="p"><xsl:apply-templates></xsl:apply-templates></span></xsl:otherwise>
+        </xsl:choose>   
     </xsl:template>
     <xsl:template match="tei:TEI/tei:text/tei:body/tei:head">
           <h1><xsl:apply-templates></xsl:apply-templates></h1> 
