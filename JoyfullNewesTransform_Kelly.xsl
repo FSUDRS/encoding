@@ -21,7 +21,6 @@
     <xsl:template match="tei:front">
         <div class="frontmatter"><xsl:apply-templates></xsl:apply-templates></div>
     </xsl:template>
-   
     <xsl:template match="tei:TEI/tei:text/tei:front/tei:p">
         <xsl:choose>
             <xsl:when test="ancestor::tei:front"><p class="front"><xsl:apply-templates></xsl:apply-templates></p></xsl:when>
