@@ -1,0 +1,2900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Household Cookery and Laundry Work</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cookbooks and herbals</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div n="6" type="contents">
+         <head>CONTENTS.</head>
+            <list>
+            <item><ref target="#intro">Introduction</ref>,. . . . . . . . . <num>7</num></item>
+            <item><ref target="#soups">Soups</ref>, . . . . . . . . . . . <num>11</num></item>
+            <item><ref target="#fish">Fish</ref>, . . . . . . . . . . . <num>24</num></item>
+            <item><ref target="#meat">Meat</ref>, . . . . . . . . . . . <num>32</num></item>
+            <item><ref target="#veg">Vegetables</ref>, . . . . . . . . . . <num>58</num></item>
+            <item><ref>Puddings</ref>, . . . . . . . . . . <num>68</num></item>
+            <item><ref>Sauces</ref>, . . . . . . . . . . . <num>91</num></item>
+            <item><ref>Cakes and Baking</ref>, . . . . . . . . <num>95</num></item>
+            <item><ref>Sick-Room Cookery</ref>, . . . . . . . . <num>109</num></item>
+            <item><ref>Beverages</ref>, . . . . . . . . . . <num>115</num></item>
+            <item><ref>Preserves</ref>, . . . . . . . . . . <num>123</num></item>
+            <item><ref>Miscellaneous</ref>, . . . . . . . . . <num>128</num></item>
+            <item><ref>Laundry Work</ref>, . . . . . . . . . <num>129</num></item>
+         </list>
+         </div>
+         <div n="7" type="intro" xml:id="intro">
+            <head>INTRODUCTION.</head>
+            <p>A GREAT deal more of a country's prosperity depends 
+            upon comfortable homes than philosophers might be
+            willing to acknowledge; for people cannot prosecute
+            business with great energy, or study with much enjoy-
+            ment or profit, if there are worries at home, or muddle
+            and discomfort there. This is quite apparent to all, and
+            thought it seems a matter of minor importance com-
+            pared with the great interests and objects that have
+            to be carried on out of doors, yet if the household
+            machinery is out of order or not moving smoothly,
+            the derangement may be carried forward till very
+            important interests are disturbed.</p>
+            <p>   The home is the nursery of the present and future
+            inhabitants of a country, and the care of the home
+            devolves generally upon woman—in our country, at
+            all events, it does so universally; and by the manner
+            in which she performs her most important duties, not
+            only the present comfort, but, it may be, the future
+            destinies of the inmates may be influenced, if not
+            moulded. Incapacity on her part leads to many certain
+            evils—disorder, waste, and muddle; and may have still
+            worse effects on the health and tempers of the family.
+            Whatever other duties a woman may have, she must
+            either manage her house herself, or devolve the care of
+            it upon some other woman; consequently all women
+            should be carefully trained for this their occupation.</p>
+            <p>   Parents would never think of setting a young man
+            up in business unless he had been trained, probably by
+            a long apprenticeship; and yet it has been practically
+            decided by many people that a young woman in-
+            stinctively knows all about housekeeping; that she
+            can cook without being taught, and can manage a
+            house and instruct servants without ever having
+            studied the subject of domestic management; that if
+            she has received a liberal education and some know-
+            ledge of needlework, everything else necessary to set
+            her up as the mistress of a house comes naturally.
+            Good mothers do and have always done great things
+            in training their daughters, but many girls have not
+            that advantage; and even mothers may see the neces-
+            sity of their best instructions being supplemented.</p>
+            <p>   Happily most people are now alive to the necessity
+            of training girls of all classes for their natural and
+            certain occupation—the care of the home; and
+            domestic economy and cookery, instead of being
+            shunted aside and picked up by degrees how and where
+            they can be, are now prominent branches of instruction,
+            and few girls of any rank finish their education
+            without these branches being studied.</p>
+            <p>   This little book proposes to be a practical guide to
+            some departments of domestic management in a plain
+            household,—namely, in Cookery, Laungry Work, and
+            Household Management. Ignorance of these subjects
+            has caused many a young housekeeper headaches and
+            heartaches; and only after many trials and much
+            waste has she succeeded in learning duties which a
+            little early training would have made quite easy.</p>
+            <p>   Perhaps the most important result of this training
+            is, that a knowledge of the constituents of different
+            classes of food is acquied, and children may be fed
+            with suitable food, which so greatly promotes health,
+            and thus sent out to fight the world's battles with the
+            sound, healthy bodies which so greatly assist the sound
+            mind; for improper or unsuitable food generally
+            impairs health or saps its foundations; and want of
+            health impairs very greatly the energy and usefulness,
+            as well as the individual happiness.</p>
+            <p>   The recipes given have all been repeatedly worked
+            by the writer, and are perfectly reliable, and purposely
+            made so plain that very young people can easily follow
+            them. There are only a few specimens of the different
+            classes of recipes given, because, with a little experi-
+            ence and practice, they may be varied and altered to 
+            a great extent to suit the circumstances of the house-
+            hold; they are moderately economical, and, if necessary,
+            can be made more so.</p>
+            <p>   Three different constituents must enter into the
+            daily food of all to supply the waste and the wants
+            of the human body, and keep all the organs in good
+            working order — Nitrogenous, Carbonaceous, and
+            Mineral Foods.</p>
+            <p>   Nitrogenous food forms flesh and muscle and sup-
+            plies strength; carbonaceous food gives heat and acts
+            as the fuel to the engine; mineral food is necessary for
+            the formation and repair of bone, and is an important
+            constituent of the blood.</p>
+            <floatingText>
+            <body>
+               <div>
+                  <head>PRINCIPAL NITROGENOUS FOODS, OR FLESH-FORMERS.</head>
+                  <list>
+                     <head>ANIMAL.</head>
+                     <item>Butcher Meat.</item>
+                     <item>Poultry.</item>
+                     <item>Fish.</item>
+                     <item>Eggs.</item>
+                     <item>Cheese. Milk.</item>
+                  </list>
+                  <cb/>
+                  <list>
+                     <head>VEGETABLE.</head>
+                     <item>Flour.</item>
+                     <item>Oatmeal.</item>
+                     <item>Peas.</item>
+                     <item>Beans.</item>
+                     <item>Lentils.</item>
+                  </list>
+               </div>
+               <div>
+                  <head>CARBONACEOUS OR BODY-WARMING FOODS.</head>
+                  <list>
+                     <head>ANIMAL.</head>
+                     <item>Butter.</item>
+                     <item>Suet.</item>
+                     <item>Oil.</item>
+                     <item>Fat.</item>
+                  </list>
+               <cb/>
+               <list>
+                  <head>VEGETABLE.</head>
+                  <item>Sugar.</item>
+                  <item>Treacle.</item>
+                  <item>Rice.</item>
+                  <item>All starchy foods.</item>
+               </list>
+               </div>
+               <div>
+                  <head>MINERAL FOODS.</head>
+                  <list>
+                     <item>Green Vegetables.</item>
+                     <item>Wheat and Oatmeal.</item>
+                     <item>Water. Milk.</item>
+                  </list>
+               </div>
+            </body>
+            </floatingText>
+            <p>   Those three constituents, which ought to enter into
+            the daily food of all, are to be found in plain ordinary
+            materials, and, as will be seen by the foregoing table,
+            in vegetable as well as in animal food.</p>
+            <p>   Animal food is by no means an absolute necessity,
+            and may, with advantage to health in many cases, be
+            enitrely dispensed with. The nitrogenous principle in
+            vegetable food is not so concentrated as in animal
+            food, and consequently a larger bulk is required to
+            procure the same amount of strength. Persons who
+            have plenty of work or exercise in the open air can
+            easily consume sufficient vegetable food for all purposes
+            of life and helth; whereas for persons who lead
+            sedentary lives, a smaller bulk of more concentrated
+            food will probably be found more beneficial.</p>
+            <p>   The combination of eggs, milk, butter, and cheese,
+            with vegetables, makes a dietary that is quite sufficient
+            for life and health; and it is questionable whether it
+            is not really the best sort of food for all.</p>
+         </div>
+         <div n="11" type="chapter" xml:id="soups">
+            <head type="main">HOUSEHOLD COOKERY.</head>
+            <head type="sub">SOUPS.</head>
+            <p>SOUP may be made of meat, vegetables, bones, milk,
+            fish, etc., and is liquid food of a warming and very
+            nourishing kind. Our bodies require a certain amount
+            of liquid, and soup supplies that want in an excellent
+            and healthful manner. Warm food is much more
+            nourishing than cold. As the stomach requires
+            quantity as well as quality to assist digestion, and as
+            it can contain a great deal more than is necessary, it
+            is desirable to decrease the appetite for solid food.
+            The French use the liquid in which fish, vegetables,
+            and meat of all kinds have been boiled to make light,
+            nourishing soups. It is advisable to make soup a
+            daily article of food; and for that purpose meat is
+            not always necessary. Vegetables, beans, peas, lentils,
+            tomatoes, etc., make excellent soups, in which the
+            want of meat is difficult to discover.</p>
+            <p>   Warm light soup is excellent for invalids or persons
+            afflicted with sleeplessness, as the warm liquid enters
+            the blood quickly, and draws it away from the head
+            in order to assist the stomach to perform its functions,
+            thereby causing drowsiness.</p>
+            <p>   Beans, peas, and lentils are all nitrogenous vegetable
+            foods; and, when used in the composition of soup,
+            supply almost entirely the want of meat.</p>
+            <p>   Tomatoes are much used and highly prized, especially
+            in soups; they are powerful purifiers of the blood and
+            highly nutritious. A celebrated medical man describes
+            the tomato as "an invaluable article of diet," and
+            ascribes to it various important medical properties.
+            "It is an almost sovereign remedy for dyspepsia and
+            indigestion, and is the most healthy article of diet
+            now in use."</p>
+            <p>   Tinned tomatoes can be procured at a cheap rate
+            and very good; they can be used where fresh tomatoes
+            are not procurable.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Haricot Bean Soup.</head>
+                     <list>
+                        <item>1 lb. Beans.</item>
+                        <item>2 oz. of Fat Bacon, or 1 small
+                        table-spoonful of Butter or
+                        Dripping.</item>
+                        <item>2 Onions.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item><num type="fraction">1/2</num> Turnip.</item>
+                        <item>Small piece of Celery.</item>
+                        <item>2 breakfast-cupfuls Milk.</item>
+                        <item>Salt and Pepper.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>   Wash the beans, and soak them for a day and night
+            in cold water. Put them into a pot with 2 quarts of
+            water and a piece of fat pork, or a small table-spoonful
+            of butter or dripping. Let it all boil; then add the
+            vegetables, cleaned and roughly cut up; a little car-
+            bonate of soda, the size of a pea, may be added, as
+            sometimes the beans are old and very hard. Let all
+            boil for <num type="fraction">2 1/2</num> hours, then put it thorugh a strainer; it
+            must be well mashed up, and use some of the milk to
+            wash it through, as all ought to be put through, except
+            the skins of the beans. Now add the milk; pepper
+            and salt to taste. Warm all up in the pot, and serve.</p>
+            <p>   <hi rend="italic">N.B.</hi>—No salt must be put in until the beans are
+            quite boiled, as salt hardens them and renders them
+            difficult to boil down.</p>
+            <p>   Half of a can of tomatoes boiled with the beans
+            for the last half hour, and all rubbed through the
+            strainer, makes a delightful change in this soup, and
+            adds greatly to its valuable properties. The milk is
+            left out when tomatoes are used.</p>
+            <p>   Beans have much the same component parts as
+            cheese, and are almost as strengthening in every
+            respect as beef. Their only want is fat, but the bacon
+            or butter supplies that.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Cottage Soup.</head>
+                     <list>
+                        <item><num type="fraction">1/2</num> lb. Neck of Mutton.</item>
+                        <item>1 teacupful of Rice.</item>
+                        <item>1 Carrot.</item>
+                        <item>1 Turnip.</item>
+                        <item><num type="fraction">2 1/2</num> quarts of Water.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>2 large Leeks.</item>
+                        <item>1 table-spoonful Dripping.</item>
+                        <item>1 teaspoonful Sugar.</item>
+                        <item>Salt and Pepper.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>   Put into a dry, clean pot a table-spoonful of sweet
+            dripping, or fat of some kind; let it get quite hot.
+            Cut up the mutton into small square pieces; put
+            it and the bones into the pot with the fat, and fry
+            them, turning them over and over with a spoon.</p>
+            <p>   Cut up the carrot and turnip into small square
+            pieces like the size of peas, and add them to the meat;
+            then the leeks, washed and cut small; keep turning
+            all over with the spoon; then add the rice, well
+            washed, a teaspoonful of sugar, and a teaspoonful of
+            salt. Let the whole be turned about in the pot with
+            the spoon for more than <num>5</num> minutes; then add <num type="fraction">2 1/2</num>
+            quarts of water. Put on the lid, bring it to the boil,
+            and boil slowly rather over an hour. Add pepper and
+            salt, and it is ready.</p>
+            <p>   <hi rend="italic">N.B.</hi>—There are <num>4</num> breakfast-cupfuls in a quart.</p>
+            <p>   This is an excellent vegetable soup, and a very
+            valuable article of food from the vegetables it contains.
+            The fat supplies a want in the vegtables. This soup
+            is extremely good made without any meat, and the
+            small quantity of sugar counteracts any disagreeable
+            effects leeks or onions may have on the stomach.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Lentil Soup.</head>
+                     <list>
+                        <item>1 lb. Lentils.</item>
+                        <item>Carrot, Turnip, Parsnip.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>2 Onions or Leeks.</item>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>   Take <num>1</num> lb. of lentils and wash them thoroughly in
+            many waters until they are perfectly clean; soak
+            them for a night in cold water; then put them into
+            a pot with the water in which they are soaked and
+            as much more as makes <num type="fraction">2 1/2</num> quarts, or <num>10</num> breakfast-
+            cupfuls. When this boilds, add carrot, turnip, parsnip,
+            <num>2</num> large onion, all cut up roughly, and a small pinch
+            of carbonate of soda about the size of a pea. Allow
+            it to boil <num>2</num> hours, then strain through a cullender,
+            washing the lentils all through except the skins;
+            return it to the pot to warm. Season with pepper
+            and salt, and serve.</p>
+            <p>   Lentil soup is delightful if nicely made, and requires
+            no meat of any kind, or bones, as it has the taste
+            and the good properties of butcher meat to a large
+            extent in itself.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Windsor Milk Soup.</head>
+                     <list>
+                        <item>1 lb. Potatoes.</item>
+                        <item><num type="fraction">1/2</num> a Turnip.</item>
+                        <item><num type="fraction">1/2</num>a Parsnip.</item>
+                        <item>Salt and Pepper.</item>
+                        <item>1 oz. Butter.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Small bit of Celery (if possible).</item>
+                        <item>2 large Leeks or Onions.</item>
+                        <item>1 teaspoonful of Sugar,
+                        Flour, or Sago.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>   Put into a pot the potatoes, turnip, parsnip, celery,
+            onions, or leeks, all cut up in small pieces; then add
+            the sugar and putter; put it on the fire to get quite
+            hot—add <num>2</num> quarts of water, and boil for an hour
+            till all the vegetables are soft. Put through a strainer,
+            using a spoon to press it through, and return it to
+            the pot with a table-spoonful of flour that has been
+            moistened in a breakfast-cupful milk, and boil for
+            <num>5</num> minutes, sitrring frequently till it boils. Two
+            table-spoonfuls of sago may be used instead of the
+            flour; it should be washed and moistened in the same
+            way as the flour, and stirred till it boils. Add salt
+            and pepper to taste, and serve.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>German Soup.</head>
+                     <list>
+                        <item><num type="fraction">1/2</num> lb. Neck of Mutton.</item>
+                        <item>4 Potatoes.</item>
+                        <item>2 good-sized Onions.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 large red Carrot.</item>
+                        <item><num type="fraction">1/4</num> lb. Rice.</item>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>   Put the mutton, well washed, into a pot with <num type="fraction">2 1/2</num>
+            quarts of water; when it boils, add the onions chopped
+            up finely, the potatoes peeled and cut in very small
+            pieces, and the carrot grated; add a teaspoonful of salt,
+            and let the whole boil <num>2</num> hours. Then was a teacupful
+            of rice (which is <num type="fraction">1/4</num> of a lb.) and add it, and allow the
+            whole to boil half-an-hour longer. Season with enough
+            pepper and salt, and the soup is ready.</p>
+            <p>   This is a delightful soup, and very cheap.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Skirt Soup.</head>
+                     <list>
+                        <item><num type="fraction">1 1/2</num> lbs. Beef Skirt</item>
+                        <item>1 large Carrot.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 Turnip.</item>
+                        <item>Salt and Pepper.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>   Remove all skin from the beef skirt and the fat;
+            cut it up in pieces about half-an-inch suqare, and put
+            the meat on in a pot with <num type="fraction">2 1/2</num> quarts of cold water.
+            Scrape and wash the carrot, peel the turnip, and cut
+            both up in small square pieces about the size of peas;
+            add them when the pot boils. Add also half a tea-
+            spoonful of salt, and boil the whole for <num>2</num> hours.
+            Season with pepper and salt to taste.</p>
+            <p>   This soup is delightful, and contains as much
+            nourishment as good beef-tea. Beef skirt contains a
+            considerable amount of good gravy, and is a part of
+            the animal which lies just within the ribs.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Green Pea Soup.</head>
+                     <list>
+                        <item>1 peck of Peas.</item>
+                        <item>Stock Parsley.</item>
+                        <item>Mint.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Onion.</item>
+                        <item>Sugar.</item>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>   Shell the pease, which should be young; put the
+            shells into a stewpan with a quart of water, a teaspoon-
+            ful of salt, and <num>1</num> of sugar; boil for <num>1</num> hour, then pulp
+            thorugh a cullender or sieve; return to the pot, and
+            add <num>1</num> quart of good stock, made with shin of beef;
+            add <num>1</num> onion and a few leaves of lettuce, chopeed very
+            finely, a very little parsley, mint, and the pease; boil
+            till the vegetables are tender (about <num>15</num> minutes);
+            then season to taste, and serve.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Mutton Broth.</head>
+                     <list>
+                        <item>1 lb. Neck of Mutton.</item>
+                        <item><num type="fraction">1/2</num> lb. Barley.</item>
+                        <item>1 large Carrot.</item>
+                        <item>1 small Turnip.</item>
+                        <item>1 small Cabbage or Savoy.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>2 large Leeks.</item>
+                        <item>A little Parsley.</item>
+                        <item><num type="fraction">3 1/2</num> quarts Water.</item>
+                        <item>Salt and Pepper.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>   Put the barley, mutton, and water into the pot; let
+            them boil half-an-hour; then add the carrot, turnip,
+            cabbage, and leeks, cut up <hi rend="italic">very</hi> finely, with <num>1</num> teaspoon-
+            ful of salt. Let all boil for an hour-and-a-half; add
+            the parsley chopped up finely, and enough salt and
+            pepper to season; then serve.</p>
+            <p>   <hi rend="italic">N.B.</hi>—Barley should be washed, and vegetables cut
+            and left in water till they are required.</p>
+            <p>   To make the vegetables for this soup more delicate
+            and digestible, cut them all up as indicated above, put
+            them in a basin, and cover them with boiling water.
+            When they stand thus for <num>10</num> minutes, the water may
+            be drained, and the vegetables put into the pot and
+            boiled as above.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Potato Soup.</head>
+                     <list>
+                        <item>1 lb. Neck of Mutton.</item>
+                        <item>2 lbs. Potatoes.</item>
+                        <item>3 onions.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 Carrot.</item>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>   This soup is excellent made with bones, either raw
+            or cooked; with any inferior piece of beef or mutton;
+            with liquor in which tripe has been boiled; or with
+            part of a pluck. If made from raw bones, they must
+            be boiled for several hours before the potatoes are
+            put in.</p>
+            <p>   Take the mutton and put it in a pot with three
+            quarts of cold water; bring to the boil; pare thinly
+            and slice small <num>2</num> lbs. potatoes, and add them to the
+            soup when it boils. Grate a nice red carrot, chop
+            up the onions very finely, and add all to the soup,
+            with a little pepper and salt. Boil <num>2</num> hours,
+            season to taste, and serve. The potatoes should be
+            boiled to a pulp, and the soup be nice and thick,
+            not watery.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Carrot Soup.</head>
+                     <list>
+                        <item>6 Carrots.</item>
+                        <item>1 Turnip.</item>
+                        <item>2 Onions.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Celery.</item>
+                        <item>Stock.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>   This soup may be made of second stock, or of bones
+            of roast beef or mutton. Put <num>2</num> quarts of stock in a
+            stewpan, with <num>6</num> carrots, <num>1</num> small turnip, <num>2</num> onions; a
+            blade of celery is an improvement. The carrots must
+            either be grated or cut in very small pieces. Add a
+            table-spoonful of flour, wet in a little water; allow the
+            whole to boil for <num type="fraction">2 1/2</num> hours, until the carrots are tender;
+            pass the soup through a wire sieve or cullender; rub
+            the carrot through; return to the pot to warm, and
+            add salt and pepper.</p>
+            <p>   If made with raw bones, the stock is much better
+            boiled the day previous, as the fat can be taken off
+            when the soup is cold.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Rice Soup.</head>
+                     <list>
+                        <item>2 quarts Stock.</item>
+                        <item>4 large Leeks.</item>
+                        <item>1 teacupful of whole Rice.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Milk.</item>
+                        <item>Parsley.</item>
+                        <item>Salt and Pepper.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>   Put into a pot <num>2</num> quarts of liquor in which a fowl or
+            a knuckle of veal has been boiled. It may be improved
+            by having a carrot and small turnip boiled along with
+            it, which can be picked out at the last. Now add
+            to the soup the white part of the leeks cut up
+            in very thin pieces, and the rice well washed, and
+            boil for half-an-hour; then add a table-spoonful of
+            parsley washed, dried, and chopped up very finely,
+            a breakfast-cupful of good milk, and salt and pepper.
+            After boiling for <num>5</num> minutes, the soup will be ready.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Stock from Bones.</head>
+                     <list>
+                        <item>6 lbs. Bones.</item>
+                        <item>2 Onions.</item>
+                        <item>1 Carrot.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 Turnip.</item>
+                        <item>Peppercorns.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>   Raw and cooked bones should not be boiled together.</p>
+            <p>   Take <num>6</num> lbs. of raw bones; remove as much marrow
+            and fat from them as possible; put them in a pot and
+            cover them well with cold water (see that the bones
+            are all covered, as any portion remaining uncovered
+            adds no strength to the soup); add <num>2</num> onions, <num>1</num> large
+            carrot, <num>1</num> turnip, a teaspoonful of peppercorns, and boil <num>8</num>
+            hours on a slow fire. Care must be taken that the water
+            does not reduce too much; in that case it must be
+            added to. The stock is best to simmer very slowly by
+            the fire all day, and then be strained through a sieve.
+            The next day the fat may be removed, and the stock
+            is ready for use.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Fisherman's Rice Soup.</head>
+                     <list>
+                        <item><num type="fraction">1 1/2</num> lbs. of Fish.</item>
+                        <item>1 Onion.</item>
+                        <item>Bit of Celery of Carrot.</item>
+                        <item><num type="fraction">1/4</num> lb. of Rice.</item>
+                        <item><num type="fraction">2 1/2</num> quarts of Water.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Handful of Parsley.</item>
+                        <item>2 Tomatoes or 1 cupful of
+                        Tinned Tomato.</item>
+                        <item>A blade of Mace.</item>
+                        <item>6 Cloves.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>   Put on the water in the soup-pot to boil; have the
+            fish cleansed thoroughly and cut up in pieces; put it
+            in; add the onion, carrot, turnip, the mace and cloves,
+            and the celery. Let all boil <num>1</num> hour and strain. Have
+            the pot washed out and put the stock back into it.
+            Skin the tomatoes, and cut them up and add them.
+            Wash the rice and add it, and let it all boil for <num>20</num>
+            minutes longer. Add salt and pepper to season well.</p>
+            <p>   Trimmings of fish make this soup very well, or
+            small fish of different kinds, such as children catch.</p>
+            <p>   A few oysters or other shell-fish may be added at
+            the last, but must not boil; only thoroughly heat.</p>
+            <p>   Tomato is skinned easily if it be dipped in boiling
+            water for one moment.</p>
+            <p>   This soup is delightful.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Tomato Soup.</head>
+                     <list>
+                        <item>Small table-spoonful Butter
+                        or Fat.</item>
+                        <item><num type="fraction">1/2</num> a tin of Tomatoes, or 1 lb.
+                        Tomatoes.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>2 Onions.</item>
+                        <item>3 table-spoonfuls Tapioca.</item>
+                        <item>2 quarts Stock.</item>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>   Put into a flat stew-pan an ounce of butter, or some
+            fat ham cut in small pieces (there should be a table-
+            spoonful). When it is hot, put in <num>2</num> middle-sized
+            onions sliced, and fry them; then add half a tin
+            of tomatoes, or <num>1</num> lb. of fresh tomatoes, cut up roughly
+            in pieces. Let this all stew for about <num>20</num> minutes,
+            after which rub it through a sieve or cullender to
+            keep back the seeds and to pulp the tomatoes and
+            onions. Have <num>2</num> quarts of common stock made either
+            with a small piece of mutton, veal, or beef; it need
+            not be rich, as the very plainest is quite good for
+            this soup. Add the pulp of the tomatoes, etc., to
+            the stock, and set it on the fire to boil; then put
+            in <num>3</num> table-spoonfuls of tapioca which has been soaked
+            for an hour in either warm or cold water, and keep
+            stirring till it boils. The soup will be ready after
+            boiling for <num>10</num> minutes, and having pepper and salt
+            added to it.</p>
+            <p>   <hi rend="italic">N.B.</hi>—If fresh tomatoes are used, half a cupful
+            of water may be put in along with them.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Chicken Soup.</head>
+                     <list>
+                        <item>1 Fowl.</item>
+                        <item>1 Onion.</item>
+                        <item>Small bit of Turnip.</item>
+                        <item>A dessert-spoonful of Chopped
+                        Parsley.</item>
+                        <item><num type="fraction">2 1/2</num> quarts of Water.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Blade of Celery.</item>
+                        <item>Bit of Mace and 4 Cloves.</item>
+                        <item>1 table-spoonful of Arrowroot.</item>
+                        <item>1 teacupful of good Milk or
+                        Cream.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>   Empty, cleanse, and truss the fowl; put the water
+            in the soup-pot, and when it is hot put in the fowl.
+            When it boils add the vegetables all cut up, and boil
+            from <num type="fraction">1 1/2</num> to <num>2</num> hours. Remove the fowl, and strain the
+            stock through a very fine strainer or napkin. Have
+            the pot thoroughly washed, and return the stock to it.
+            Then mix the arrowroot and the milk together, add
+            salt and pepper, and put it all in the stock. Stir till
+            it boils; then add the parsley, and boil for <num>1</num> or <num>2</num>
+            minutes longer. If this soup is made with an old fowl,
+            it may require to boil <num>2</num> hours; if a chicken, <num>1</num> hour or
+            <num type="fraction"> 1 1/2</num> hours will be sufficient.</p>
+            <p>   Serve the fowl with white sauce over it.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Kidney Soup.</head>
+                     <list>
+                        <item>1 lb. Shin of Beef</item>
+                        <item>1 Ox Kidney.</item>
+                        <item>1 oz Butter.</item>
+                        <item>Flour.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 Carrot, 1 Turnip.</item>
+                        <item>2 Onions.</item>
+                        <item>2 table-spoonfuls Corn-flour.</item>
+                        <item>Pepper, Salt, Mustard, Sugar.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>   To make stock for kidney soup, take all the marrow
+            from the shin of beef and put it into a soup-pot
+            with <num>2</num> quarts of water. Bring it to the boil. Add
+            the carrot, tunip, and onions, cut up into pieces,
+            and allow all to boil at least <num>3</num> hours, when it must
+            be strained. Take a fresh ox kidney, wash it well,
+            and dry it. Remove all the fat from the middle,
+            and cut up the kidney into half-inch pieces. Put
+            the butter in a stew-pan and let it get quite brown,
+            but not burnt; then put inn the pieces of kidney
+            and fry them all round. When quite fried, stir
+            in a table-spoonful of flour and mix it well till the
+            flour has absorbed all the moisture in the pan, then
+            add a teaspoonful of salt, half a teaspoonful each of
+            pepper, dry mustard, and sugar, stirring till they
+            become a paste in the pan. Now add <num>2</num> breakfast-
+            cupfuls of water, and stir over the fire till it boils.
+            Set it on a slow part of the fire, and allow it all
+            to boil for at least <num>2</num> hours, stirring frequently,
+            Return the strained stock to the pot, and add the
+            kidney to it. Mix in a basin the corn-flour and a
+            little water, and pour this also into the pot with enough
+            of salt to season the whole, stirring occasionally
+            till it boils, when the soup is ready.</p>
+            <p>   This soup, if well made, requires no artificial brown-
+            ing; it may be made still browner by leaving the
+            skins on the onions, which must be well washed.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Onion Soup.</head>
+                     <list>
+                        <item>Small Knuckle of Veal</item>
+                        <item>6 large Onions.</item>
+                        <item>1 small Turnip.</item>
+                        <item>1 Parsnip.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Piece of Celery.</item>
+                        <item>Blade of Mace.</item>
+                        <item>Salt, Pepper, and Sugar.</item>
+                        <item>Flour, Butter.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>   Put the knuckle of veal on to boil with <num>2</num> quarts
+            of cold water, allowing it to boil an hour. Peel and
+            cut up the onions, and soak them for an hour in cold
+            water; also cut up into small pieces the turnip,
+            parsnip, and celery, and add them to the soup, along
+            with the mace, a teaspoonful of salt, half a teaspoonful
+            of pepper, and half a teaspoonful of sugar. Let all
+            boil <num>2</num> hours and strain, rubbing the onions through
+            the strainer; then return the soup to the pot, and
+            add a small table-spoonful of butter and <num>2</num> table-spoon-
+            fuls of flour mixed together, and a breakfast-cupful
+            of milk—stirring it till it boils. Allow it to boil
+            <num>5</num> minutes, when the soup is ready; after which
+            season to taste.</p>
+            <p>   This soup is made frequently without meat, leaving
+            out the veal, and making it in every other respect
+            the same.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Hotch-Potch.</head>
+                     <list>
+                        <item>3 lbs. Neck of Mutton or Lamb.</item>
+                        <item>6 young Turnips.</item>
+                        <item>6 young Carrots.</item>
+                        <item>6 young Onions.</item>
+                        <item><num type="fraction">2 1/2</num> quarts of Water.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 Lettuce.</item>
+                        <item>1 Cauliflower.</item>
+                        <item>2 pints of Green Peas.</item>
+                        <item>1 handful of Parsley.</item>
+                        <item>Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>   Put rather more than half of the mutton or lamb
+            in the soup-pot, with the water and a little salt; when
+            it boils, skim it carefully, and allow it to boil for
+            an hour.</p>
+            <p>   Cut up the remainder of the mutton or lamb
+            into small chops and add them; also the turnips
+            and carrots; cut up in neat square pieces the onions
+            and half of the peas, and allow it to boil for half-an-
+            hour longer. Chop up the lettuce, divide the cauli-
+            flower into sprigs, chop the parsley finely, and add all
+            to the soup, with the remainder of the peas, and boil
+            for another half hour, when season to taste and serve.</p>
+         </div>
+         <div n="24" type="chapter" xml:id="fish">
+            <head>FISH.</head>
+            <p>THE varieties of fish available for food in this country
+            are numerous and excellent; those containing the
+            least fat are the most easily digested. The flesh
+            of fish contains fibrine, gelatine, and albumen in
+            small proportions, mineral matter and water in
+            larger.</p>
+            <p>   Whitting, haddock, and soles are nearly equally
+            digestible, and even suitable for the food of invalids.
+            Salmon, mackerel, and herring are more oily, and
+            not quite so digestible. The common herring con-
+            tains a large amount of nourishment, and if cooked
+            so as to get rid of some of its superabundant oil,
+            cointains a large amount of nourishment at a cheap
+            rate. Lobsters and crabs are not easily digested,
+            and to some people are injurious. They are rather
+            coars feeders, and this may, to some extent, account
+            for their indigestibility. All fish <hi rend="italic">out of season</hi> are
+            unwholesome, and sometimes positively injurious.
+            Buckland, who has given so much information on
+            the nature and habits of fish, writes very emphati-
+            cally against the taking and using of fish out of
+            season.</p>
+            <p>   It is said that fish are fully as nutritious as animal
+            food; and though they may not have such a satisfying
+            effect upon the stomach, that arises from their being
+            so easily digested. They are n ot only good food,
+            but food of the best description, well able to supply
+            the wants of the body, suitable for young and old,
+            healthy people and invalids.</p>
+            <div n="25" type="section">
+               <head>To Fry Fish, Etc.</head>
+               <p>   All fish are fried in a somewhat similar manner, and
+               a few general directions may be given.</p>
+               <p>   Fish that are to be fried should be made perfectly
+               dry, and, to accomplish this, must be covered either
+               with flour or bread-crumbs. The fat should be perfectly
+               hot, <hi rend="italic">i.e.</hi>, at the temperature of at least <num>345°</num> Fahr. This
+               is ascertained in several ways. The best is to use a
+               thermometer; but as that is not always to be had, a
+               very good way is to put the fat on the fire and allow
+               it to get hot till it begins to smoke. It must be quite
+               still, for as long as fat bubbles there is water in it.
+               When the fat becomes quite still, and <hi rend="italic">slightly smokes</hi>,
+               put the fish in and fry till they become a light brown.
+               Another good rule is to have plenty of fat to cover
+               whatever you wish to fry. After the fish are fried,
+               put them on a cloth or coarse paper before the fire to
+               drain. Those rules of the heat of fat refer to all kinds
+               of frying, fritters, etc.</p>
+               <floatingText>
+                  <body>
+                     <div>
+                        <list>
+                           <item>3 Small Whittings or
+                           Haddocks.</item>
+                           <item>Bread-crumbs.</item>
+                        </list>
+                        <cb/>
+                        <list>
+                           <item>Egg.</item>
+                           <item>Pepper and Salt.</item>
+                           <item>Lard or Dripping.</item>
+                        </list>
+                     </div>
+                  </body>
+               </floatingText>
+               <p>   Have nice fresh haddocks or whitings; wash and
+               fry them well, and rub them with a little flour in which
+               is mixed some pepper and salt; beat up an egg on a
+               plate, cover the fish well with it, and roll them in dry
+               bread-crumbs. Prepare the fat for frying as directed
+               above, and put the fish in, not many at a time, as the
+               temperature of the fat must not be reduced too much.
+               A few minutes is enough to fry the fish if the fat quite
+               covers them; if it does not, turn them over and fry
+               them on the other side. They ought to be of a nice
+               brown colour; and if proper attention is paid to the
+               heat of the fat, the fish will be perfectly whole. They
+               are equally well fried without the egg and bread-
+               crumbs, using only flour to dry them, but they do not
+               look quite so well. A slice of a large fish, or fillets of
+               fish, should all be fried in the same way. Melted butter
+               may be served with them. Haddocks are the better of
+               being skinned; but the skin of whiting is very delicate,
+               and does not require to be removed</p>
+               <floatingText>
+                  <body>
+                     <div>
+                        <head>Fish Puddding.</head>
+                        <list>
+                           <item>1 lb. Fish.</item>
+                           <item>Potatoes.</item>
+                           <item>1 oz. Butter.</item>
+                        </list>
+                        <cb/>
+                        <list>
+                           <item>1 Egg.</item>
+                           <item>Pepper and Salt.</item>
+                        </list>
+                     </div>
+                  </body>
+               </floatingText>
+               <p>   Take any remains of boiled fish; carefully remove
+               the flesh from the bones, and cut it up into small dice,
+               and have equal bulk of mashed potatoes. Put both
+               into a basin and mix them together with a fork, then
+               melt the butter and pour it in, mixing well; add salt
+               and pepper and a few grains of cayenne pepper; beat
+               up an egg and add it last; mix all well together; put
+               it in a pudding-dish, smooth and score it neatly at the
+               top, and bake for half-an-hour.</p>
+               <p>   The same mixture is very good made into small round
+               cakes. Flour them well outside. Put a table-spoonful
+               of dripping in a frying pan to get quite hot; put in a
+               few cakes at a time to fry a brown colour on both sides.
+               Then drain and serve. They are a breakfast dish.</p>
+               <floatingText>
+                  <body>
+                     <div>
+                        <head>Boiled Haddock or Cod.</head>
+                        <list>
+                           <item>3 lbs. Cod</item>
+                        </list>
+                        <cb/>
+                        <list>
+                           <item>Salt.</item>
+                        </list>
+                     </div>
+                  </body>
+               </floatingText>
+               <p>   Procure a piece of cod weighing <num>3</num> lbs., or a haddock
+               of similar weight; scrape very clean, and, if quite fresh,
+               an hour or two in salt is an improvement. Have a fish-
+               kettle containing plenty of boiling water, well flavoured
+               with salt; put the fish in and boil for a minute, then
+               pour in a cupful of cold water, gently, to reduce the heat,
+               and allow the fish to cook in the water, below boiling
+               heat, for about <num>15</num> or <num>20</num> minutes, according to the
+               thickness of the fish; it must be immediately taken
+               out and drained, as to allow fish to remain in water
+               after it is boiled spoils it; dish it on napkin with some
+               parsley to garnish, and serve with melted butter in a
+               sauceboat, separately.</p>
+               <floatingText>
+                  <body>
+                     <div>
+                        <head>Baked Haddock.</head>
+                        <list>
+                           <item>1 Haddock.</item>
+                           <item>Bread-crumbs.</item>
+                           <item>Parsley.</item>
+                           <item>Herbs.</item>
+                        </list>
+                        <cb/>
+                        <list>
+                           <item>Suet.</item>
+                           <item>Pepper and Salt.</item>
+                           <item>1 Egg.</item>
+                        </list>
+                     </div>
+                  </body>
+               </floatingText>
+               <p>   Procure a fine fresh haddock of <num>2</num> lbs. weight; wash
+               and scrape it quite clean; take out the eyes and dry it
+               outside and inside, then prepare the following stuffing:—
+               A teacupful of bread-crumbs, <num type="fraction">1/2</num> oz. of suet or butter,
+               a dessert-spoonful of chopped parsley, a teaspoonful
+               of chopped herbs, pepper and salt; either an egg or
+               a little milke moistens this. Form the stuffing like a 
+               sausage, place it in the belly of the fish, and sew it up;
+               truss the haddock into the form of the letter S, brush
+               the top over with a little beaten egg, sprinkle bread-
+               crumbs over, and put it in the oven to bake for
+               half-an-hour. It must be frequently basted with fresh
+               dripping while baking. Serve with melted butter.</p>
+               <floatingText>
+                  <body>
+                     <div>
+                        <head>To Stew Fish.</head>
+                        <list>
+                           <item><num type="fraction">1 1/2</num> lbs. Fish.</item>
+                           <item>1 Onion.</item>
+                           <item>Vinegar.</item>
+                        </list>
+                        <cb/>
+                        <list>
+                           <item>Flour.</item>
+                           <item>1 oz. Butter or Dripping.</item>
+                           <item>Pepper and Salt.</item>
+                        </list>
+                     </div>
+                  </body>
+               </floatingText>
+               <p>   Any of the coarser kinds of fish do well to stew; and
+               the different varieties of fish stews have always been
+               favourite dishes where fish are easily procured.</p>
+               <p>   Cut up the fish into pieces about <num>2</num> inches long, after
+               being well washed and cleaned. Put the dripping or
+               butter into a small stew-pan, and let it get quite hot;
+               chop up the onion and fry it brown in the hot fat;
+               sprinkle a dessert-spoonful of flour into the pan, and
+               stir it smooth; then add a teaspoonful of vinegar, salt
+               and pepper to taste, and a breakfast-cupful of water.
+               Stir till it boils; then put in the pieces of fish, put on the
+               lid, and let them simmer very gently for <num>10</num> minutes.
+               Skate (which stews very well) takes <num>20</num> minutes, or
+               even longer; but, in general, <num>10</num> minutes is quite enough
+               time. Serve with the sauce over the fish.</p>
+               <floatingText>
+                  <body>
+                     <div>
+                        <head>Salt Fish, to Cook.</head>
+                        <list>
+                           <item>1 lb. Salt Ling or Cod.</item>
+                           <item>Flour. Milk.</item>
+                        </list>
+                        <cb/>
+                        <list>
+                           <item>1 oz. Butter.</item>
+                           <item>1 Egg.</item>
+                        </list>
+                     </div>
+                  </body>
+               </floatingText>
+               <p>   Salted fish are neither so nutritious nor so profitable
+               as fresh fish; because salt extracts the juices from the
+               fish, and greatly wastes it nourishing properties.</p>
+               <p>   Cut up the fish into convenient pieces and soak it all
+               night in cold water. Either scrape the skin till it is
+               white, or putt it off altogether. Put the fish on in a
+               stew-pan, covered with cold water, to boil for three-
+               quarters of an hour, or longer if very hard; take it
+               up on a dish and drain the water entirely from it,
+               wiping the dish quite dry. Boil the egg hard, <hi rend="italic">i.e.</hi>, for
+               10 minutes; take off the shell and chop it up. Take
+               a small sauce-pan and put inn it an ounce of butter and
+               a dessert-spoonful of flour, stirring them together over
+               the fire; then add a breakfast-cupful of milk, and stir
+               till it boils; add the chopped up egg, and mix. Pour
+               the whole over the fish, and serve.</p>
+               <floatingText>
+                  <body>
+                     <div>
+                        <head>Salt Fish Pie.</head>
+                        <list>
+                           <item>Potatoes.</item>
+                           <item><num type="fraction">1/2</num> lb. Fish.</item>
+                           <item>Parsley.</item>
+                           <item>Onion.</item>
+                        </list>
+                        <cb/>
+                        <list>
+                           <item>Mustard.</item>
+                           <item>Vinegar.</item>
+                           <item>Pepper.</item>
+                           <item>Dripping.</item>
+                        </list>
+                     </div>
+                  </body>
+               </floatingText>
+               <p>   Boil about <num>9</num> potatoes, and mash them quite smoothly,
+               adding a very little milk to moisten them. Have the
+               fish boiled (the remains of fish previously cooked will
+               do). Put into a small pudding-dish <num>3</num> spoonfuls of the
+               mashed potatoes, and spread it over the bottom of the
+               dish; then put in the fish, broken up with a fork into
+               flakes; over that sprinkle a table-spoonful of finely-
+               chopped parsley, and a small cooked onion chopped up.
+               Then add half a teaspoonful of mustard, made with
+               vinegar instead of water, and a few small bits of
+               dripping or butter, and cover all with the remainder
+               of the mashed potatoes, making the top smooth, and
+               marking it neatly. Put the pie into an oven for three-
+               quarters of an hour, or on a toaster in front of the fire,
+               to brown the potatoes nicely.</p>
+               <floatingText>
+                  <body>
+                     <div>
+                        <head>Baked Herrings.</head>
+                        <list>
+                           <item>6 fresh Herrings.</item>
+                           <item><num type="fraction">1/2</num> teaspoonful Salt.</item>
+                           <item><num type="fraction">1/2</num> teaspoonful Pepper.</item>
+                        </list>
+                        <cb/>
+                        <list>
+                           <item><num type="fraction">1/3</num> teacupful Vinegar.</item>
+                           <item>1 Bay Leaf.</item>
+                           <item><num type="fraction">1/2</num> teacupful Water.</item>
+                        </list>
+                     </div>
+                  </body>
+               </floatingText>
+               <p>   Fresh herrings should not be washed, unless in
+               exceptional circumstances. They should be emptied,
+               the heads taken off, the scales scraped off, and then the
+               herrings well wiped. With a sharp knife split the
+               herring up the back and lay it open; cut it in half;
+               lift the bone out, beginning at the head; now roll each
+               half up into a nice firm roll, beginning at the head;
+               from <num>6</num> herrings you will have <num>12</num> of these rolls.</p>
+               <p>   Stand them in a small pudding dish with the back
+               uppermost—they will quite fill the dish. Now pour
+               in half a teacupful of water and one-third of a teacupful
+               of vinegar mixed, a bay leaf slipped in at the side, and
+               the pepper and salt. Cover the dish over with a plate,
+               and cook at the side of the fire, or in the over, for half-
+               an-hour. The herrings may be served in the dish in
+               which they are cooked. They are good either hot or cold</p>
+            </div>
+            <div n="30" type="section">
+               <head>Fried Fresh Herrings.</head>
+               <p>   Prepare as above—namely, empty the herrings, take
+               off the heads, scrape the scales off, and wipe them quite
+               clean; then split them open from the back and lay them
+               flat. Dust over them a little pepper and salt.</p>
+               <p>   Have a clean frying-pan quite hot; place the herrings
+               in it, the skin next the pan, and fry them for <num>5</num> minutes;
+               then fry the other side about the same time. Fry the
+               skin side first. Good herrings need no dripping, as
+               they contain sufficient oil in themselves to fry in.</p>
+            </div>
+            <div n="31" type="section">
+               <head>Salmon, to Boil.</head>
+               <p>   Empty the salmon and wash it, but handle the fish
+               as little as possible, to prevent the scales from being
+               rubbed off. Put into a fish-kettle enoguh water
+               to cover the fish with salt in the proportion of a table-
+               spoonful to each gallon of water. When it boils, put
+               the fish in, and let it boil for <num>5</num> minutes; then put
+               <num>2</num> breakfast-cupfuls of cold water in to reduce the
+               temperature, and put the kettle on a cooler part of the
+               fire; allow it to remain thus under boiling point for
+               the proper time; then take the fish-kettle off the fire
+               and allow it to stand for <num>10</num> minutes before removing
+               the salmon. This improves the flavour and makes
+               the fish firmer.</p>
+               <list>
+                  <head>A table of time to boil salmon</head>
+                  <item><seg xml:id="aslice">A slice weighing</seg> 1 lb. <seg xml:id="requires">requires</seg> a quarter of an hour.</item>
+                  <item><seg copyOf="#aslice">"</seg> 3 lbs. <seg copyOf="#requires">"</seg> 25 minutes.</item>
+                  <item>6 lbs. from a thick fish <seg copyOf="#requires"></seg> 40 minutes.</item>
+                  <item>A grilse weighing about 7 or 8 lbs., half-an-hour.</item>
+               </list>
+            </div>
+         </div>
+         <div n="31" type="chapter" xml:id="meat">
+            <head>MEAT.</head>
+            <head>To Stew and Roast.</head>
+            <p>FOR the cooking of all meat which is not to be made
+            into soup, but either stewed, roasted, or broiled, one
+            rule, without exception, applies—namely, that the out-
+            side of the meat be quickly subjected to strong heat,
+            in order to shut up all the pores, after which a slower
+            porcess of cooking should be proceeded with, such
+            as suits each particular kind of meat.</p>
+            <p>   To stew meat is the most profitable of those three
+            methods of cooking, as no part of the meast is lost, and
+            there is, besides, a good gravy which supllements it.</p>
+            <p>   The principle of all stewing, whether applied to
+            beef, mutton, chicken, or game, is, first of all, to put
+            into a pot some kind of fat (either butter, suet, or
+            dripping) and make it <hi rend="italic">quite</hi> hot; then put in the
+            piece of meat, small or large, and fry it all roun
+            to shut the pores; then put in less or more water or
+            other liquid, and stew the meat for the given time.
+            This rule applies alike to small pieces of steak or large
+            joints. The reason is, that the heat hardens the
+            albumen in the meat all over the surface, and stops
+            up the pores like sealing-wax on bottles; the juice
+            is thus kept in, so that the meat cooked is much more
+            savoury.</p>
+            <p>Roasting is a more wasteful way of cooking; but
+            roasted meat, if well cooked, is more easily digested.
+            A roast should be put very near a hot fire for <num>5</num>
+            minutes to shut up the pores, and afterwards put
+            a good deal further back, and cooked more slowly.
+            The secret of having meat well roasted is to have an
+            even heat, and to baste it very frequently. Basting
+            keeps the meat from drying up, and the action of the
+            fire on the hot fat with which it is basted keeps
+            the surface of the meat well crusted over, and all the
+            juice retained in the joint.</p>
+            <p>Broiling or grilling is really just roasting a small
+            slice of meat instead of a large piece. It certainly
+            is not a very economical mode of cooking, but, if well
+            done and not over-cooked, is very easily digested and
+            nourishing. The principle is exactly the same as
+            roasting:—Let the meat be put on a hot gridiron
+            over a clear hot fire for a minute or two to shut up
+            the pores, turning both sides to the fire; afterwards
+            a little slower, to cook it to the heart. Eight or ten
+            minutes is enough to grill steak nearly an inch thick;
+            of course a little depends upon the fire, but no grilling
+            is well executed unless the fire is clear and quite free
+            from smoke. Both roasted and broiled meat are
+            <hi rend="italic">spoiled</hi> if over-done. Broiled meat should be turned
+            very often, and thus bastes itself, just as roasted meat
+            requires to be basted.</p>
+            <p>Frying and frying-pans have been very much
+            abused of late years; and one heard of "dirty frying-
+            pans and greasy messes," but there is no need for the
+            frying-pan to be dirty, or the food greasy, and for
+            certain kinds of flesh and fish frying is a very good
+            mode of cooking. Almost without exception, the rule
+            above applied to roasting or stewing applies to frying.
+            The meat to be fried should be put either on a hot pan
+            to shut up the pores, or in hot fat for the same purpose.
+            This has always the effect of retaining the juices in
+            the meat, and consequently making it more tender.
+            The more juices belonging to fish, flesh, or fowl
+            are bottled up, the more tender and digestible the
+            meat will be. Flesh that is fried should not be over-
+            cooked, as in that case it gets dry and indigestible.</p>
+            <p>Pork takes a longer time, either to roast or fry, than
+            other flesh; and it should always be well cooked, as
+            when underdone it is very disagreeable and unwhole-
+            some. White flesh of all kinds, either of animals or
+            fowls, takes a lot longer time than brown, and requires
+            to be more thoroughly cooked.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Ox-tail Stewed.</head>
+                     <list>
+                        <item>1 Ox-tail.</item>
+                        <item>Flour.</item>
+                        <item>Ketchup.</item>
+                        <item>Dripping.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 Onion.</item>
+                        <item>Carrot and Turnip.</item>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Wash the tail well in warm water, and cut it up at
+            the jointes; the larger joints may be cut in two. Dry
+            the pieces well, and mix on a plate a table-spoonful of
+            flour, a teaspoonful of salt, and half a teaspoonful of
+            pepper. Rub each piece of tail over with this
+            mixture. Put into a stew-pan a table-spoonful of
+            dripping, and let it get quite hot; then fry the pieces
+            of tail all round in it, and lift them out when done.
+            Pour out the fat that remains, and return the pieces
+            of tail to the pan with the onion chopped up, <num>2</num> break-
+            fast-cupfuls of water, and the ketchup, and stew
+            gently for an hour-and-a-half. Cut the carrot and
+            turnip into very neat pieces, add them, and stew three-
+            quarters of an hour longer.</p>
+            <p>If well and slowly cooked, this is a delightful stew,
+            as the ox-tail contains a great deal of gelatine.</p>
+            <p>Dish the meat in the centre of a dish with the
+            vegetables round it. Take the fat from the gravy
+            and strain it over all.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Rabbit Stewed.</head>
+                     <list>
+                        <item>1 Rabbit.</item>
+                        <item>Flour.</item>
+                        <item>Butter or Dripping.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 Onion.</item>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Wash the rabbit well and dry it thoroughly outside
+            and inside; then cut it up into joints, after taking off
+            the head and removing the heart and liver. In order
+            to dry it still better, rub over each piece with flour.
+            Put into a stew-pan a dessert-spoonful of butter or
+            dripping; let it get quite hot; then put in the pieces
+            of rabbit and fry them. When all are fried, add a 
+            breakfast-cupful of water, an onion finely chopped up,
+            and the heart and liver. Take out the eyes, and wash
+            the head well; add it also, and stew the whole slowly
+            with the lid closely on for an hour, stirring it
+            occasionally. Dish neatly, and pour the sauce over.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Ox Kidney Stewed.</head>
+                     <list>
+                        <item>1 Ox Kidney.</item>
+                        <item>1 table-spoonful Flour.</item>
+                        <item>Mustard.</item>
+                        <item>Sugar.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Butter.</item>
+                        <item>Ketchup.</item>
+                        <item>1 Onion.</item>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Wash an ox kidney well and dry it thoroughly;
+            then cut it up into thin slices, after all the fat has
+            been removed from the middle. Put into a small
+            stew-pan a dessert-spoonful of butter; let it get quite
+            hot and quite brown; chop up the onion and fry it
+            slightly; then put in the pieces of kidney and fry them
+            well. Sprinkle in gradually the flour, and stir till it
+            is quite mixed with the moisture in the pan. Add,
+            now, a teaspoonful of salt, half a teaspoonful each of
+            pepper, dry mustard, and sugar; a table-spoonful of
+            ketchup may be added. Stir all well over the fire till
+            it be quite dry, like a paste. Now add a breakfast-
+            cupful and a half of water, and stir till it boils up;
+            put on the lid, and allow it to stew <hi rend="italic">very</hi> gently for an
+            hour-and-a-half. Serve with nicely-shaped pieces of
+            toasted bread round. The kidney may be cut up in
+            only 6 or 8 thick pieces or left whole. In those cases
+            it must cook longer.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Steak Stuffed and Rolled.</head>
+                     <list>
+                        <item>1 lb. Steak.</item>
+                        <item>2 breakfast-cupfuls of
+                        Grated Bread.</item>
+                        <item>2 table-spoonfuls Suet,
+                        chopped.</item>
+                        <item>1 Egg.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 table-spoonful Parsley,
+                        chopped.</item>
+                        <item>1 teaspoonful Salt.</item>
+                        <item><num type="fraction">1/2</num> teaspoonful Pepper.</item>
+                        <item>Dripping.</item>
+                        <item>Carrot and Onions.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Get 2 thin slices of steak, cut from the top of the
+            rump, weighing half a pound each, and about a quarter
+            of an inch in thickness. Put the grated bread, the
+            suet, the parsley, pepper, and salt into a bowl, and
+            mix them well. Beat up the egg well, and stir it in
+            among the bread-crumps, etc., in the basin; with the
+            hand knead it to wet the whole mixture, and gather
+            it into a lump; but if the egg is not enough to moisten
+            the mixture, add a very little milk or water. Divide
+            the stuffing into 2 pieces, and shape them like a
+            turkey's egg; roll this neatly into each piece of steak
+            and tie it up with string. Each piece should be very
+            neatly shaped.</p>
+            <p>Put into a stew-pan a dessert-spoonful of nice drip-
+            ping, and when it has got quite hot, fry the pieces of
+            meat in it. Pour off any dripping that remains, and
+            put into the pan a cupful and a half of water, and
+            allow it to stew for a quarter of an hour; then add
+            2 onions, and a pretty large carrot cut in quarters
+            lengthways, and a little salt, and stew for an hour.</p>
+            <p>Take off the string from the steak, and place it on a 
+            dish; arrange the vegetables neatly round, and strain
+            the sauce over.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Dutch Stew.</head>
+                     <list>
+                        <item><num type="fraction">1 1/2</num> lbs. Neck of Mutton.</item>
+                        <item>1 small, firm Cabbage.</item>
+                        <item>6 Potatoes.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>2 Onions.</item>
+                        <item><num type="fraction">1/2</num> table-spoonful Dripping.</item>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put into a pot the dripping, and let it get hot; then
+            slice the onions, and fry them gently in it. Wash the
+            mutton well, and put it in the pot with the clean
+            water that hangs about it. Put the lid instantly and
+            closely on the pot, and let it stew slowly for three-
+            quarters of an hour.</p>
+            <p>Take a nice, firm cabbage, wash it, remove the
+            withered leaves, and cut it into 8 pieces length-
+            ways, like the divisions of an orange; place the
+            cabbage in water; peel 6 potatoes and cut them in
+            slices half an inch thick, and place them also in the
+            water. When the meat has stewed for three-quarters
+            of an hour, lift the cabbage, dripping with water, and
+            the potatoes, and pack both round the meat; sprinkle
+            over them a teaspoonful of salt and haf a teaspoon-
+            ful of pepper, replace the lid closely and quickly,
+            and stew for three-quarters of an hour. It must be
+            cooked slowly, else it will burn. The whole is cooked
+            by steam, and is a most delicious as well as profitable
+            dish.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Mutton Stuffed and Rolled.</head>
+                     <list>
+                        <item>4 lbs. Mutton.</item>
+                        <item>2 Onions.</item>
+                        <item>Bread-crumbs.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Parsley.</item>
+                        <item>Herbs.</item>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Procure a nice breast of mutton; take off the
+            shoulder-blade; take all the bones out; cut off any
+            superfluous edges of fat, and, with a rolling-pin,
+            flatten the mutton by beating it well. Now take a
+            breakfast-cupful of bread-crumbs, a table-spoonful of
+            finely-chopped parsley, a teaspoonful of chopped herbs
+            (thym and marjoram if to be had), pepper and salt
+            enough to season the whole, and, after mixing all well,
+            moisten it with a little milk. Spreak the mixture
+            on the mutton, and roll it tightly up, tying it with
+            tape in at least three places. Place it then in a dish,
+            and put it in the oven for a quarter of an hour to
+            draw out a good deal of fat from it. Put two table-
+            spoonfuls of this fat into a stew-pan and let it get hot;
+            slice the onions and fry them till pretty brown in the
+            fat; then add the mutton. Put into a basin a table-
+            spoonful of flour, a little pepper and salt; rub the
+            flour smooth with a very little water, and then add
+            two breakfast-cupfuls of water, and mix. Now pour
+            this thickening into the pan with the mutton, put on
+            the lid, and let all stew very slowly for 2 hours.
+            Then take up the mutton and put it on a dish, after
+            cutting off the tape. Remove as much fat as possible
+            from the top of the sauce, and pour it over the mutton.
+            See that the sauce is not too thick.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Breast of Veal Stuffed and Rolled.</head>
+                     <list>
+                        <item>Breast of Veal.</item>
+                        <item><num type="fraction">1/4</num> lb. Bacon Ham.</item>
+                        <item>Breakfast-cupful Grated Bread.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 Egg.</item>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Take a fore-quarter of half-fed veal, or the thin part
+            of the breast of fed veal, weighing about 5 or 6 lbs.
+            Remove all the bones, taking care not to break the
+            outside skin. Take off all the rough or uneven pieces
+            of the veal in the inside, and mince them up as finely
+            as possible; mince also the ham finely—it should not
+            be too fat. Put the chopped meat, ham, grated bread,
+            half a teaspoonful each of pepper and salt in a basin,
+            and, with the hand, mix them thoroughly together;
+            beat up an egg well, add it, and mix well. Lay the
+            veal out on a table with the skin next to the table; spread
+            the stuffing neatly over the surface of the meat, leaving
+            an inch bare all round; then roll it up tightly, and
+            either sew it up or tie it in several places with broad
+            tape.</p>
+            <p>Put a teaspoonful of butter into a stew-pan large
+            enough to hold it, and when hot put in the roll of veal
+            and fry it all round; add an onion chopped up; then
+            put in a breakfast-cupful of water and stew gently for
+            2 hours. Take it up and untie the fastenings. The
+            gravy should be thickened with a dessert-spoonful of
+            flour, seasoned with a table-spoonful of ketchup and a
+            little salt and pepper, and strained over the veal.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>To Bake the Roll.</head>
+                  </div>
+               </body>
+            </floatingText>
+               <p>The veal may be put into a roasting pan with a
+            breakfast-cupful of boiling water, covered with another
+            pan or dish, and put into the oven for an hour-and-a-
+            half. It is very nice done thus. The gravy must be
+            thickened and poured over.</p>
+            <p>It is good either hot or cold.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Haricot Mutton.</head>
+                     <list>
+                        <item>1 lb. Shoulder of Mutton.</item>
+                        <item>1 Carrot.</item>
+                        <item>6 small Onions.</item>
+                        <item>1 larger one.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 small Turnip.</item>
+                        <item>Flour.</item>
+                        <item>Dripping.</item>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Cut the mutton into neat pieces the thickness of
+            chops, and about 2 inches square, as near may be.
+            Put into a stew-pan a table-spoonful of good dripping,
+            and let it get quite hot—which is when it begins to
+            smoke. Slice the largest onion and fry it in the hot
+            dripping till very brown; then lay in the mutton and
+            fry all the pieces well, lifting them out as they are
+            done. When all are fried, pour the dripping out of the
+            pan, leaving the onions in the bottom. Now mix in a
+            small basin a table-spoonful of flour, a teaspoonful of
+            salt, and a little pepper, with <num type="fraction">1 1/2</num> breakfast-cupfuls of
+            water; stir all well and pour it into the pan, and keep
+            stirring over the fire till it boils up. Strain it into a
+            bowl to keep back the fried onions, and make it smooth.
+            Return it to the pan and lay the chops into it; put on
+            the lid and stew gently for half-an-hour.</p>
+            <p>Peel the 6 small onions, and cut up the carrot and
+            turnip into very neatly-shaped pieces, and put them
+            in the pan; allow the whole to stew 20 minutes
+            longer without stirring it, as the vegetables must not
+            be broken.</p>
+            <p>Dish the meat neatly with the vegetables round, and
+            pour the sauce over all.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Boiled Meat Pudding.</head>
+                     <list>
+                        <item>1 lb. Lean Beef.</item>
+                        <item>1 Mutton Kidney.</item>
+                        <item><num type="fraction">1/2</num> lb. Flour.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item><num type="fraction">1/2</num> teaspoonful Baking Powder.</item>
+                        <item><num type="fraction">1/4</num> lb. Suet.</item>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put the flour into a basin; add to it a pinch of salt
+            and the baking powder; then chop the suet very finely
+            and mix it in, rubbing it into the flour with the fingers.
+            Add as much cold water as will wet it, and make it up
+            into a stiff piece of paste; then flour the table, and roll
+            it out into a round piece scarcely half an inch thick.
+            Take a pudding bowl that holds a pint, rub it inside
+            with clean dripping, line it neatly with the paste, which
+            then cut even round the edges.</p>
+            <p>Mix together on a plate a table-spoonful of flour, a
+            teaspoonful of salt, and half a teaspoonful of pepper for
+            seasoning. Cut the meat in thin slices, dip them in the
+            seasoning, and place them lightly in the basin; split
+            the kidney, skin, and cut it in thin slices; dip them also
+            in the seasoning, and put them into the bowl, and pour
+            in a teacupful of water for gravy. Wet the edges of
+            the paste on the bowl; roll out the scraps that remain
+            large enough to cover the dish; place it on, press down
+            at the edges, and sprinkle a little flour over the top.
+            Now dip a pudding-cloth in boiling water, tie it tightly
+            over the top, and plunge the pudding in plenty of
+            boiling water; then boil it for <num type="fraction">2 1/2</num> hours. Remove
+            the cloth, and turn the pudding out on a dish.</p>
+            <p>Liver and bacon mixed, or mutton, make a good
+            pudding of this kind.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Steak Stewed.</head>
+                     <list>
+                        <item>1 lb. Steak.</item>
+                        <item>1 Carrot.</item>
+                        <item>1 small Turnip.</item>
+                        <item>Flour.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 Onion.</item>
+                        <item>Butter.</item>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Have the steak tender, and cut it about three-quarters
+            of an inch thick; put into a small-sized stew-pan an
+            ounce of butter or dripping—the butter, however, is
+            preferable—and let it become quite hot; cut the onion
+            in rings, and fry it in the butter till it becomes very
+            brown; also scrape and cut up the carrot and fry it as
+            well. This frying of the vegetables brown colours the
+            gravy nicely. When quite brown, lift the vegetables
+            out on a plate, and put the steak in to fry on both
+            sides; it should be fried crisp, so as to shut up the
+            pores of the meat and keep the juice in. If any butter
+            remains in the pan, it should be poured out. The
+            vegetables are then returned to the pan, and the meat
+            placed on the top of them; cut up the turnip in
+            smallish pieces, and add it; a leaf of celery is a great
+            improvement. Now put into a basin a small table-
+            spoonful of flour with salt and pepper to taste, and
+            rub it smooth with a little cold water; when quite
+            smooth, add a breakfast-cupful and a half of cold
+            water, and stir; now pour this into the stew pan, and
+            put it on the fire to come to boiling point; after that
+            it must be allowed to simmer very slowly for an
+            hour-and-a-half. Serve the steak on a hot dish, and
+            strain the sauce over it, as by this time all the
+            substance has been extracted from the vegetables.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Beef Steak Pie.</head>
+                     <list>
+                        <item><num type="fraction">1 1/2</num> lbs. of Steak.</item>
+                        <item>2 Mutton Kidneys.</item>
+                        <item>Seasoning.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item><num type="fraction">1/2</num> lb. Flour.</item>
+                        <item><num type="fraction">1/4</num> lb. Butter.</item>
+                        <item>1 Egg.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Cut the steak very thinly, and dip it in a seasoning
+            made of a table-spoonful of flour, a teaspoonful of salt,
+            and half a teaspoonful of pepper. Roll up the seasones
+            pieces of steak, and lay them in a pie-dish; put a layer
+            of meat in the bottom of the dish; skin the mutton
+            kidneys, or half an ox kidney, and cut them up in
+            thin slices, leaving out the fat in the middle of the
+            kidney; dip them also in the seasoning; repeat till
+            the meat is used up and the dish is full; pile it high
+            in the middle, put in some water in the dish for gravy,
+            and then make the crust as follows:—</p>
+            <p>Beat up an egg on a plate; put on a board half
+            a pound of flour, quarter pound of butter, half a tea-
+            spoonful baking-powder; mix the baking-powder with
+            the flour; chop the butter into pieces the size of a nut
+            among the flour; now pour about a gill of water in the
+            middle of the flour, and the half of the egg; with these
+            make it up into a stiff paste, which roll out length-
+            ways, keeping the edges as straight as possible and
+            about a quarter of an inch thick; fold this piece in
+            three, turn it round, and roll lengthways again; fold in
+            three, turn it round, and roll once more. This time it
+            may be rolled rather larger than the size required for
+            the dish. Wet the edge of the dish, and put a narrow
+            band of paste round; wet the band, place on it the
+            remainder of the paste, which cut to the size of the
+            dish, then notch the edges very neatly, and brush over
+            with the half egg you have left. Make a large hole in
+            the top, and into this put the ends of some leaf-shaped
+            pieces of paste, with an ornament in the centre; egg
+            the leaves, and bake. After the crust begins to brown,
+            cover it with a buttered paper, and bake for <num type="fraction">1 1/2</num> hours.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Steak and Onions Fried.</head>
+                     <list>
+                        <item>1 lb. Steak.</item>
+                        <item>Flour.</item>
+                        <item>3 Onions.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Ketchup.</item>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Take 3 onions, slice them in rings, and put them
+            in a small basin of cold water to soak for an hour to
+            take away some of the strong flavour. Now take a
+            large frying-pan, and put in it an ounce of suet
+            chopped up, or dripping, and, after allowing it to get
+            hot, put in the steak (which should be full half an
+            inch thick) to fry. It should be on a very moderate
+            fire, and turned very often till it is cooked, which it
+            will be in about 8 minutes. If it is firm to the
+            touch when pressed, it is ready. The onions should
+            be drained and put between the folds of a towel to dry,
+            then put in the pan with the steak if there is roo,
+            and fried at the same time; they should have a little
+            colour, without being over-browned. The steak is
+            dished up with the onions round it. Put in the pan a
+            teaspoonful of flour, sprinkled in, a table-spoonful
+            of ketchup, pepper and salt, and a teacupful of water;
+            stir them till they boil, and strain the sauce over the
+            steak. The flour and the ketchup may be omitted.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Hough of Beef Stewed.</head>
+                     <list>
+                        <item>Hough of Beef</item>
+                        <item>Carrot.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Turnip.</item>
+                        <item>Onions.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Have a nice piece of the thick part of the hough,
+            about 4 or 5 lbs.; take all the marrow from the bone,
+            cut it in little bits, and put in a stew-pan on the
+            fire. After the marrow has become quite hot, put in
+            the piece of meat and fry it brown all round, par-
+            ticularly at the ends, to shut up the pores of the meat;
+            when quite well fried, pour off any remains of fat in
+            the pot, and add a pint of water; put the lid closely on,
+            and allow it to stew <hi rend="italic">very</hi> slowly for an hour; now add
+            a carrot cut in quarters, a turnip neatly cut, and 2
+            onions halved. Allow all to stew for an hour-and-a-
+            half longer. Slow stewing makes the muscles of the
+            shin to swell and become very tender; but if cooked
+            too fast, this piece of meat is spoiled. This is a profit-
+            able as well as a very nice dish, if stewed <num type="fraction">2 1/2</num> or 3
+            hours. Put the meat on a dish with the vegetables
+            round, and the gravy poured over.</p>
+            <p><hi rend="italic">N.B.</hi>—Care must be taken that the gravy does not dry
+            up too much, and that the stewing is extremely slow.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Scotch Collop.</head>
+                     <list>
+                        <item>1 lb. Steak.</item>
+                        <item>1 oz. Butter or Dripping.</item>
+                        <item>3 Onions.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 oz. Flour.</item>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Take a pound of shoulder-steak, cut very thinly;
+            put in a stew-pan an ounce of butter or dripping, and
+            let it get quite hot; then put in the steak cut in pieces
+            about 3 inches square or so; let this fry well on
+            both sides till the outside is crisp; sprinkle in a table-
+            spoonful of flour; stir it round till it has mixed well;
+            then add the onions, either cut in rings or chopped up,
+            some pepper and salt, three-quarters of a pint of water,
+            and stir until it boils up; after that let it simmer very
+            slowly for an hour-and-a-half. This stew should be
+            kept quite below boiling point until it is done, as
+            boiling hardens the meat.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Irish Stew.</head>
+                     <list>
+                        <item>1 lb. Mutton.</item>
+                        <item>3 Onions.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item><num type="fraction">1 1/2</num> lbs. Potatoes.</item>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Cut up the meat in rather small pieces, and put it
+            in a stew-pan with a cupful of water, and allow it to
+            stew for half-an-hour. Pare the potatoes and slice
+            them about half an inch thick, and put them in a
+            basin; pour over them plenty of boiling water, and
+            cover them up. The same may be done to the onions
+            if a strong taste is objected to, but for this dish the
+            onions should only be chopped and added. Drain the
+            potatoes when the meat has stewed for a quarter of an
+            hour, and put them in the stew-pan on the top of the
+            meat; add the onions, pepper and salt, a cupful of
+            more water, and stew very slowly for three-quarters of
+            an hour. By this time the potatoes will be cooked,
+            but not pulpy. Dish high in a plate and serve hot.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Toad in a Hole.</head>
+                     <list>
+                        <item><num type="fraction">1/4</num> lb. Flour.</item>
+                        <item>1 pinch Salt.</item>
+                        <item><num type="fraction">1/2</num> lb. Sausages.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 Egg.</item>
+                        <item><num type="fraction">3/4</num> pint Milk.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put into a basin the flour and salt; beat the egg
+            well, and, after mixing it with the milk, pour gradually
+            among the flour, beating it with a spoon. When quite
+            smooth, pour it into a pudding dish; put the sausages
+            in among the batter, and bake for three-quarters of an
+            hour.</p>
+            <p>Pieces of apples, some gooseberries, rhubarb, or pieces
+            of cold meat or fish, may be substituted for the
+            sausages, and all make a good dish. The fruit requires
+            a little sugar, and sugar must also be used along with
+            the pudding.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Scotch Haggis.</head>
+                        <list>
+                           <item>1 Sheep's Pluck.</item>
+                           <item><num type="fraction">1/2</num> lb. Suet.</item>
+                           <item><num type="fraction">1/2</num> lb. Oatmeal.</item>
+                        </list>
+                        <cb/>
+                        <list>
+                           <item>1 Sheep's Stomach.</item>
+                           <item>1 Onion.</item>
+                           <item>Pepper and Salt.</item>
+                        </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Procure a sheep's pluck and stomach-bag; wash the
+            pluck well, and put it on in a pot to boil, allowing the
+            windpipe to hang out of the pot, so that any impurities
+            will come out by it; boil gently from <num type="fraction">1 1/2</num> to 2 hours.</p>
+            <p>Get the stomach-bag nicely cleaned by the butcher;
+            wash it thoroughly, and put it on in cold water, and
+            bring it to the boil, which will cause the bag to contract.
+            Take it out of the pot immediately, wash and scrape
+            it well, and lay it in salt and water until needed.
+            Mince the best part of the lungs and the heart, leaving
+            out all grisly parts; grate the best parts of the liver,
+            and put all in a large basin. Toast well the oatmeal,
+            and add to it the contents of the basin. Chop the suet
+            very finely; add a middling-sized onion very finely
+            chopped up, 2 teaspoonfuls of salt and a teaspoonful
+            of pepper, and a breakfast-cupful of the liquor in which
+            the pluck was boiled to moisten, and mix the whole.</p>
+            <p>Now take up the stomach-bag; keep the fat or
+            smooth side inside, and fill it up, but not quite full;
+            sew up the opening, and put in boiling water to boil
+            gently for 3 hours.</p>
+            <p>Prick the haggis several times with a darning-needle
+            to prevent it from bursting; also put a plate under it
+            to prevent it sticking to the bottom of the pot.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Kidney Pudding.</head>
+                     <list>
+                        <item>3 Mutton Kidneys.</item>
+                        <item>2 teacupfuls of Bread-
+                        crumbs.</item>
+                        <item>1 teaspoonful of Suet.</item>
+                        <item>1 teacupful of Milk.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Nutmeg.</item>
+                        <item>1 Egg.</item>
+                        <item>Parsley.</item>
+                        <item>Herbs.</item>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Skin the kidneys and mince them very finely; also
+            mince the suet, and put both in a basin with the
+            bread-crumbs; add a teaspoonful of chopped parsley,
+            a very little chopped thyme and grated nutmeg, half a 
+            teaspoonful of salt and a quarter teaspoonful of pepper,
+            and mix all well together. Beat up the egg and mix
+            it with the milk; then stir both into the pudding.
+            Pour it into a plain shape or bowl buttered; cover
+            with paper, and steam for an hour. Pour brown sauce
+            over it, and serve hot.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Roast Bullock's Heart.</head>
+                     <list>
+                        <item>1 Bullock's Heart.</item>
+                        <item>6 table-spoonfuls Bread Crumbs.</item>
+                        <item>2 table-spoonfuls Chopped Suet.</item>
+                        <item>1 table-spoonful Chopped Parsley.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item><num type="fraction">1/2</num> table-spoonful Herbs.</item>
+                        <item>2 Eggs.</item>
+                        <item>Salt and Pepper.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Wash out all the cavities of the heart thoroughly
+            both with hot and cold water, and dry the inside.
+            Mix all the above ingredients together, seasoning
+            nicely, adding and mixing the eggs last. Stuff with
+            this all the cavities. Cut some of the flaps at the top
+            off, and sew together the opening. Put the heart into
+            a sauce-pan of hot water, and boil 1 hour. Afterward
+            cover with a thickly-greased paper, and put in the
+            oven to roast for <num type="fraction">1 1/2</num> hours. Serve with brown sauce.</p>
+            <p>The cavities may all be cut into one and a large
+            opening made.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Fowl Trussed and Boiled.</head>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Wipe off all the brown partiles left when singeing;
+            empty the fowl neatly and carefully, removing only
+            the stomach and windpipe at throat end. Wipe the
+            fowl out with hot and cold water—it is best to do this
+            with a cloth dipped in hot water; dry it thoroughly.
+            If the bird is at all "high" it may be rinsed with a
+            little vinegar, afterwards washed with water.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>To Truss it.</head>
+                  </div>
+               </body>
+            </floatingText>
+               <p>Fold back the first point of the wings; take off the
+                  legs, and push the thigh bone well up. Take a skewer,
+                  and with it catch up the end of the wing and the back
+                  joint of the leg; run it over the back, and catch the
+                  other leg and wing in the same way; put a trussing-
+                  needle and a bit of string through the side bone of the
+                  fowl over the ends of the legs, and tie it firmly round
+                  the end of the back-bone.</p>
+               <p>Have a pot with 2 quarts of water boiling, into
+                  which put the fowl with the breast down, and boil it
+                  1 or <num type="fraction">1 1/2</num> hours, according to age. When boiled, take it
+                  up, remove the skewer and string, and pour over it
+                  egg sauce, or any other white sauce preferable.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>A Good Breakfast Dish.</head>
+                     <list>
+                        <item>4 lbs. Pork.</item>
+                        <item>1 Pork Tongue.</item>
+                        <item>Sage.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Onions.</item>
+                        <item>Pepper.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Take a piece of pickled pork, the thin part of the
+            belly, which should be about 8 or 9 inches broad,
+            and rather more than that long; take out the bones
+            and flatten it a little; get a good pork tongue, which,
+            like the pork, has been salted for a few days; sprinkle
+            on the pork a few leaves of sage chopped finely, and a
+            middling-sized onion chopped; also some pepper. Roll
+            the tongue up in the middle of the pork into a nice
+            roll; bind it outside with a long slip of calico, rolled
+            round neatly and tightly. Put it on covered with cold
+            water, and boil gently for 4 or 5 hours, allowing it to
+            become nearly cold in the water, and when quite cold
+            remove the bandage.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head></head>
+                     <list>
+                        <item>1 Sheep's Liver.</item>
+                        <item><num type="fraction">1/4</num> lb. fat Pork Ham.</item>
+                        <item>Flour.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Ketchup.</item>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Wash the liver well, making a few cuts through it
+            in order to allow the blood to be washed out. Dry it
+            well, and cut it into slices about half an inch thick.
+            Mix on a plate some flour with a little salt and pepper,
+            and dip each slice in this mixture.</p>
+            <p>Cut the ham in neat, small pieces, and put it on a
+            hot, clean frying-pan to fry lightly. Take up the
+            pieces of ham on a plate to keep hot; put the liver
+            on the pan to fry—about 8 minutes—turning the
+            slices once. The fat left on the pan, after the ham is
+            fried, should be sufficient to fry the liver. Dish it
+            neatly with a small bit of ham on each piece of liver.</p>
+            <p>Put into the frying-pan a small table-spoonful of
+            flour, a little pepper and salt, and stir till it gets mixed
+            with the remains of the fat; pour in a breakfast-cupful
+            of water and a table-spoonful of ketchup, if to be had,
+            and stir over the fire till it boild. Pour or strain the
+            sauce over the dish of liver and bacon. Onions are
+            frequently fried in the dripping instead of the ham.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Sausage Rolls.</head>
+                     <list>
+                        <item>1 lb. Flour.</item>
+                        <item><num type="fraction">1/4</num> lb. Dripping.</item>
+                        <item>1 teaspoonful Baking
+                        Powder.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item><num type="fraction">3/4</num> lb. Cold Meat.</item>
+                        <item>Ketchup.</item>
+                        <item>1 Egg.</item>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Chop up any kind of cooked meat very finely.</p>
+            <p>On the table where it was chopped, mix with it a
+            table-spoonful of flour, a teaspoonful of salt, and a little
+            pepper. Put nearly a teacupful of water into a pan,
+            and a table-spoonful of ketchup, or a little gravy if to
+            be had; add the mixture of meat and flour, and stir
+            over the fire till it comes to boiling heat, when the
+            flour is cooked; afterwards turn it out on a plate to
+            get cool. This mixture should be made very tasty and
+            nice, and quite a thick paste.</p>
+            <p>Put in a basin a pound of flour, a pinch of salt, and
+            the baking powder; add the dripping broken into
+            pieces the size of a small nut; make it into a stiff paste
+            with water; roll it out lengthways and quite thin;
+            then fold it in three, turn it roung, and roll it again
+            lengthways; fold it in three and turn it round, and
+            roll once more. This time roll it in any way most
+            convenient, and about one-eighth of an inch thick.
+            Cut the sheet of paste into pieces 5 inches square;
+            wet the edges of each square and place on each a
+            spoonful of the meat; turn one side of the paste over
+            on the meat, and overlap it with the other side; press
+            the ends down with the back of a knife, and place the
+            sausage rolls on a greased oven plate. Brush them
+            over with a beaten egg, and bake about a quarter of an
+            hour in a quick oven.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Curried Rabbit.</head>
+                     <list>
+                        <item>1 Rabbit.</item>
+                        <item>2 Onions.</item>
+                        <item>1 oz. Butter.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 Apple.</item>
+                        <item>Curry Powder.</item>
+                        <item>Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Take a nice rabbit, empty and wash it very well,
+            and, after drying it thoroughly, cut it up into small
+            joints. Have a small stew-pan, and put the butter in
+            it to get quite hot; peel and chop up the onions, and fry
+            them a very pale brown; add the pieces of rabbit, and
+            fry them on all sides; peel and chop up the apple,
+            which also add; stir in a teaspoonful of curry powder,
+            a pinch of salt, and mix them well with the meat;
+            add a teacupful of water, and stew for an hour. Dish
+            with a border of boiled rice round it.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Rice, to Boil.</head>
+                  </div>
+               </body>
+            </floatingText>
+            <p>To boil rice dry and light for curry, or even to use
+            with jam, requires a little care. Wash half a pound
+            of rice well, and put it into boiling water with a little
+            salt. Let it boil for 8 minutes, then drain it; pour
+            some cold water over it, and drain it again. Return
+            it to the sauce-pan; put the lid closely on, and let it
+            steam on a slow fire for a quarter of an hour. It will
+            then be found dry and light. Patna rice is best, and
+            is also cheapest.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Tripe and Onions.</head>
+                     <list>
+                        <item>3 lbs. Tripe.</item>
+                        <item>1 pint Milk.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>3 Onions.</item>
+                        <item>Flour, Pepper, and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Get the tripe cleaned by the butcher, if possible,
+            but wash it well. Put it on a sauce-pan covered
+            with cold water, and bring it to the boil. When
+            it just boils, take out the pieces of tripe and put them
+            in a basin of cold water to wash again; take each
+            piece out on a table and scrape it well on both sides,
+            and cut it up in pieces about 3 inches square.
+            When well scraped, washed, and cut up, put it on again,
+            covered with cold water, and bring to the boil, and
+            allow it to boil gently for 5 hours. It is absolutely
+            necessary to keep it boiling for this length of time to
+            make the tripe tender enough. Now pour off the
+            water (which can be used to make soup), and replace it
+            with the milk, which bring to the boil. Have the
+            onions parboiled; chop them up, and add them to the
+            tripe and milk.</p>
+            <p>Put into a small basin a dessert-spoonful of flour,
+            a little pepper and salt, and rub them smooth
+            with a little cold milk; add the flour, etc., to
+            the sauce-pan containing the tripe, and allow all
+            to boil for a quarter of an hour. Dish up, and serve
+            very hot.</p>
+            <p>Tripe is very nutritious and also very digestible,
+            taking a much shorter time to digest than any other
+            animal food, and is consequently an excellent food for
+            the convalescent.</p>
+            <p>The liquor in which tripe has been boiled makes
+            excellent potato or pea soup.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Tripe Stewed.</head>
+                     <list>
+                        <item>3 lbs. Tripe.</item>
+                        <item>3 Onions.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Flour.</item>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>If the tripe is preferred brown, put into a stew-
+            pan an ounce of dripping, and make it quite hot;
+            slice the onions, and fry them in the dripping a
+            brown colour; sprinkle in a table-spoonful of flour,
+            and stir till quite mixed and a little brown; now
+            add three-quarters of a pint of water, with pepper
+            and salt, and the pieces of tripe (prepared and cut
+            up exactly as in the preceding recipe), and stew
+            gently for half-an-hour.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Tripe, to Clean.</head>
+                  </div>
+               </body>
+            </floatingText>
+            <p>If the tripe cannot be got cleaned, empty and wash
+            it thoroughly with cold water; then put it in a pot
+            with cold water, in which there is a good piece of soda;
+            let it get hot, but on no account must it be allowed to
+            boil; then take it out and scrape it white. Let it lie
+            all night in cold water with a little butter milk in it,
+            and next day it will be ready to be cooked.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Sea Pie.</head>
+                     <list>
+                        <item>1 lb. Meat.</item>
+                        <item>1 Onion.</item>
+                        <item>1 Carrot.</item>
+                        <item>1 Turnip.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item><num type="fraction">1/2</num> teaspoonful Baking Powder.</item>
+                        <item><num type="fraction">1/2</num> lb. Flour.</item>
+                        <item><num type="fraction">1/4</num> lb. Suet.</item>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put the meat, cut in rather small pieces, into
+            middling-sized stew-pan; cut up the carrot and turnip
+            in small pieces, and sprinkle them over the meat, and
+            also the onion, chopped finely; then pepper and salt
+            to taste. Pour in water to cover the meat and vege-
+            tables; set the stew-pan on the fire, and bring to the
+            boil.</p>
+            <p>Put into a basin the flour and suet chopped very
+            finely, and rub them together; add a pinch of salt and
+            half a teaspoonful of baking powder, and mix all well.
+            Make this into a paste with cold water; roll it out
+            into a round cake the size of the stew-pan, and put it
+            neatly upon the top of the meat and vegetables; cover
+            closely with the lid, and let it stew gently for an hour-
+            and-a-half. Lift the paster carefully off, dish the meat
+            and vegetables, and place the cake of paste on the top,
+            and serve.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Cold Meat Rolls.</head>
+                     <list>
+                        <item><num type="fraction">1/2</num> lb. Cooked Meat.</item>
+                        <item>8 Cooked Potatoes.</item>
+                        <item>1 Onion.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Butter.</item>
+                        <item>Flour.</item>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Chop up the cooked meat and the onion (also
+            cooked) very finely, and season with pepper and salt.</p>
+            <p>Mash the potatoes smoothly, and add to them a tea-
+            spoonful of butter or dripping melted, then whisk
+            them over the fire to dry.</p>
+            <p>Turn the whole out on the table, and add as much
+            flour as the potatoes will take up, and roll the potato
+            paste out about a quarter of an inch thick. Cut it
+            into pieces about 6 inches square. Place on each piece
+            a spoonful of the chopped meat; wet the edges, and
+            double the paster over one side above the other, and
+            press the ends down. Place these oblong rolls on a
+            greased tin, and bake till they become a light brown
+            colour, or fry them in hot fat in a frying-pan.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Mutton Cutlets.</head>
+                     <list>
+                        <item>1 lb. of Mutton from the ribs.</item>
+                        <item>1 Egg.</item>
+                        <item>Some find Bread-crumbs.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Pepper and Salt.</item>
+                        <item>Some Mashed Potatoes.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>The mutton for this dish should be cut from the
+            back ribs above the loin, and is best not to be too
+            heavy mutton. The same part of lamb may be used
+            instead of mutton. The cutlets should have a bone
+            in each, and the bone should be 5 or 6 inches long.
+            Saw or chop off the chine bone, that, is the bone at the
+            thick end, as it spoils the shape of the cutlet. Then
+            flatten each with a wetter chopper; afterwards trim
+            them neatly, leaving half an inch of bone bare at the
+            top. Sprinkle a little pepper and salt over each: now
+            beat up the egg on a plate, and dip the cutlets in this
+            and then into the bread-crumbs. Pat each cutlet
+            either with the hand or a knife, to put the bread-
+            crumbs smooth and firmly into it.</p>
+            <p>Now put a table-spoonful of sweet dripping into a
+            frying-pan; when it is quite hot, put in the cutlets and
+            fry a golden colour on each side.</p>
+            <p>Have the potatoes nicely boiled and mashed; make
+            them into a heap in the centre of a dish, and put the
+            cutlets neatly round; some good brown or tomato
+            sauce may be served with the dish.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Cold Meat Mince.</head>
+                     <list>
+                        <item>1 lb. Cooked Meat.</item>
+                        <item>2 Eggs.</item>
+                        <item>Bread.</item>
+                        <item>Milk.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Onion, Carrot and Turnip.</item>
+                        <item>Flour.</item>
+                        <item>Ketchup.</item>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Take a pound of lean cooked meat and chop it up
+            very finely; soak a thick slice of bread in milk, and
+            press the milk well out when quite soaked; beat it up
+            with a fork, add it to the beef, and mix all well
+            together; add pepper and salt to taste; now beat up
+            one egg, and mix it with the meat and bread. Have a
+            nice deep pudding-dish, butter it well inside, and cut
+            up, in small pieces, a hard-boiled egg. Ornament the
+            bottom and sides of the pudding-dish very neatyl with
+            the egg; press the mixture in, and when baked for an
+            hour, turn it out gently. Make a sauce as in recipe
+            for Brown Sauce (page 91); use the bones to make
+            the stock for it.</p>
+         </div>
+         <div n="58" type="chapter" xml:id="veg">
+            <head>VEGETABLES.</head>
+            <p>VEGETABLES are most valuable food, and can easily
+            sustain life and promote health without the aid of
+            animal food, or (more properly speaking) butcher meat.
+            Vegetable food, however, generally requires the addition
+            of milk, butter, or cheese, which are animal foods.
+            Many vegetables, such as grain, beans, peas, lentils, etc.,
+            are highly nitrogenous or flesh-forming; they all contain
+            a large proportion of mineral substances, and many are
+            carbonaceous, or body-warming foods in a high degree;
+            so that in vegetable diet the wants of the body, under
+            ordinary circumstances, are all supplied. All green
+            vegetables are anti-scorbutic, or blood-purifiers; they
+            help to dissolve other food in the stomach and assist
+            digestion, and, as they contain a great deal of water,
+            are particularly suitable to be used in hot weather.
+            The blood contains a great many mineral substances as
+            well as salts; and vegetables and water supply some of
+            those necessaries. Wheat contains more of the mineral
+            matter of which the bones are formed than any other
+            food; and all growing children should have a dietary
+            consisting of bread or food largely composed of flour.</p>
+            <p>When green vegetables, such as cabbage, leeks, etc.,
+            are not easily digested, or seem to disagree with the
+            stomach, let them be boiled half the necessary time,
+            the water in which they are being boiled should then
+            be thrown away and replaced with fresh boiling water,
+            and the requisite time completed; by doing this,
+            vegetables will be found to agree with very delicate
+            stomachs. The same process may be advantageously
+            followed with potatoes that are old and out of season,
+            and will remove the bitter taste and rather injurious
+            juice which their age engenders.</p>
+            <p>Vegetables require sufficient and very careful
+            cooking, their flavour and appearance being easily
+            spoiled by want of attention. Every country abounds
+            with the vegetables most suited to its climate, and
+            they are so obviously intended for the use of the
+            inhabitants that it is impossible to avoid the inference
+            that they ought to form a very large proportion of our
+            diet. In hot countries extremely watery vegetables and
+            fruits abound, such as melons, pumpkins, etc., for the
+            comfort and pleasure of the inhabitants; and in our
+            own country, the vegetables that are most abundant
+            are precisely those that are most valuable for our food.
+            Fruits also ought to enter largely into our diet. If
+            ripe, they cannot be too freely partaken of by all, the
+            young especially; and when not quite ripe, subjected
+            to some process of cooking.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Green Vegetables, to Boil.</head>
+                     <list>
+                        <item>1 Cabbage.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Soak the cabbage (after it has been well washed and
+            the withered leaves removed from the outside) in salt
+            and water for an hour. This makes all insects come
+            out and freshens the cabbage. If the cabbage is large
+            and firm, cut the stalk about 3 inches deep,
+            or rather more, and then cut again in the opposite
+            direction; this opens up the heart of the cabbage and
+            allows the water to penetrate; have a sauce-pan with
+            plenty of boiling water, having in it a table-spoonful
+            of salt, and a little carbonate of soda the size of a
+            pea, or a very little sugar; put the cabbage in head
+            downwards, holding it down till it sinks to the bottom;
+            when the water boils again, take the lid off and let it
+            boil the rest of the time with the lid off (this preserves
+            the colour), from 20 minutes to half-an-hour. When
+            so tender in the stalk that you can easily put a fork
+            in, it is ready; lit it out on a drainer and press the
+            water well out of it. It may be served with French
+            sauce or plain melted butter.</p>
+            <p><hi rend="italic">N.B.</hi>—A piece of bread, tied in a linen rag and put
+            in the water, prevents the unpleasant smell the boiling
+            of green vegetables causes in a house.</p>
+            <div n="60" type="section">
+               <head>To Boil Green Peas.</head>
+               <p>Shell and wahs the peas, and put them in boiling
+               water with a little sugar, salt, and a sprig of mint in
+               it; let them boil for about 20 minutes, or perhaps
+               a little longer if the peas are old. Drain them in a
+               cullender, take out the mint, and shake a small bit of
+               butter and a little pepper and salt among them, and
+               serve.</p>
+            </div>
+            <div n="60" type="section">
+               <head>Cauliflower, to Boil.</head>
+               <p>Wash carefully, and allow the cauliflower to lie in
+               salted water for an hour at least; then trim the leaves
+               even with the top of the flower, removing the coarser
+               outside leaves altogether.</p>
+               <p>Put it head downwards in plenty of boiling water,
+               salted (just enough salt to taste the water), and a small
+               pinch of carbonate of soda, or half a teaspoonful of
+               sugar. Let it boil rapidly for about a quarter of an
+               hour, with the lid off the pot to allow the gas to escape
+               from the cooking vegetable. When a fork can be put
+               into one of the outside leaves easily, it is ready. Take
+               it up in a cullender to drain, and send it to table with
+               white sauce or melted butter over it.</p>
+            </div>
+            <div n="61" type="section">
+               <head>To Stew Carrots.</head>
+               <p>Scrape the carrots and cut them in nicely-shaped
+               pieces, about an inch long, or in the form of young
+               carrots; put them in a saucepan with as much stock
+               as will cover them, and a teaspoonful of sugar; let
+               them stew gently till tender—about an hour; pile
+               them high in a dish, add a little chopped parsley to
+               the stock, which should be much reduced, and pour it
+               over them, and serve.</p>
+            </div>
+            <div n="61" type="section">
+               <head>Turnips, to Boil and Mash.</head>
+               <p>Peel the turnips thickly, taking off all the fibrous
+               skin, and cut them in quarters, or in smaller pieces.
+               Put them in boiling water, with salt, and boil quickly
+               about three-quarters of an hour; drain them dry and
+               mash them well, either with a fork, or rub them
+               through an iron sieve. Return them to a clean
+               sauce-pan with half an ounce of butter, pepper, and
+               salt, and stir till hot and dry; add a little cream, and
+               dish in a pyramid, on a plate.</p>
+            </div>
+            <div>
+               <floatingText>
+               <body>
+                  <div>
+                     <head>Brussels Sprouts.</head>
+                     <list>
+                        <item>1 lb. Brussels Sprouts.</item>
+                        <item>1 oz. Butter.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            </div>
+            <div>
+               <p>Put the sprouts in plenty of cold water to wash
+               them well. Take each sprout and trim the stalk,
+               cutting off any withered leaves on the outside, and put
+               them in a basin of clean cold water. Have plenty
+               of boiling water (salted), and small pinch of car-
+               bonater of soda in it; drain the sprouts, and put
+               them in the pot to boil, with the lid off, for about 10
+               minutes; drain them in a cullender, and return them
+               to the pot with half an ounce of butter and a little
+               pepper and salt. Shake them about in the pot gently
+               to send the butter quite over them; dish them neatly
+               ina pile on a dish, and serve.</p>
+               <floatingText>
+                  <body>
+                     <div>
+                        <head>Haricot Beans Boiled.</head>
+                        <list>
+                           <item><num type="fraction">1/2</num> lb. Beans.</item>
+                           <item>1 dessert-spoonful of Dripping.</item>
+                           <item><num type="fraction">1/2</num> oz. Butter.</item>
+                        </list>
+                        <cb/>
+                        <list>
+                           <item>1 table-spoonful of Chopped
+                           Parsley.</item>
+                           <item>Pepper and Salt.</item>
+                        </list>
+                     </div>
+                  </body>
+               </floatingText>
+               <p>Soak the beans in cold water for 24 hours. Put
+               them on to boil in 3 breakfast-cupfuls of cold water,
+               with a dessert-spoonful of dripping in it, or a small
+               piece of any fresh fat. Let them boil about an hour,
+               till the beans are soft, but not broken. Drain them,
+               and add the butter and parsley, pepper and salt, and
+               shake them about in the pan till the butter and parsley
+               are well mixed over them; then serve.</p>
+               <p>No salt must be used when boiling the beans, as it
+               would make them hard and tough. Melted butter or
+               tomato sauce may be poured over the beans, in which
+               case they make an excellent substitute for meat.</p>
+               <floatingText>
+                  <body>
+                     <div>
+                        <head>Spanish Onions Boiled.</head>
+                        <list>
+                           <item>1 Onion.</item>
+                           <item>1 teacupful of Milk.</item>
+                        </list>
+                        <cb/>
+                        <list>
+                           <item>1 dessert-spoonful of Flour.</item>
+                           <item>Pepper and Salt.</item>
+                        </list>
+                     </div>
+                  </body>
+               </floatingText>
+               <p>Take the outside skin neatly from the onion, and
+               put in plenty of boiling water (salted) and with half
+               a teaspoonful of sugar, and allow it to boil. An onion
+               weighing 1 lb. requires to boil an hour-and-a-half;
+               weighing <num type="fraction">3/4</num> of a lb., 1 hour; <num type="fraction">1/2</num> a lb., three-quarters of
+               an hour. Drain the onion from the water, and mix
+               the flour and milk, salt and pepper, together. Put the
+               mixture in a small pan to boil, stirring it constantly,
+               then pour it over the onion, and serve.</p>
+            </div>
+            <div n="63" type="section">
+               <head>Potatoes Boiled.</head>
+               <p>Potatoes are a most valuable article of food, and
+               undoubtedly deserve and require great care in their
+               preparation. The skin is designed and fitted to preserve
+               the valuable juices which the potato contains, and that
+               potato is not well cooked which allows those juices to
+               excape. All succulent vegetables possess anti-scorbutic
+               or blood-purifying powers—the potato possesses such
+               properties in a high degree. A potato cooked, keeping
+               the skin entire, will digest much more quickly than if
+               the skin is broken and the juices allowed to flow into
+               the water in the pot; and a potato roasted in its skin
+               is by far the lightest and most digestible way in which
+               to prepare it for an invalid.</p>
+               <p>Potatoes are really best to be boiled in their skins,
+               although there are two exceptions to this rule—one is
+               when the potatoes are unripe, when they just come in;
+               and the second is when they are old and out of season,
+               in the spring and early summer. In the first of those
+               cases the potato is very watery, being unripe, and
+               is best to have the skin scraped off and put in boiling
+               water and boiled rapidly, as this draws out some of
+               the water and makes the potato better food. In the
+               second case, the potato acquires a bitter taste when it
+               gets old, and is better pared and even soaked for a
+               short time in cold water, before boiling in the usual
+               way. Potatoes, however, should <hi rend="italic">never</hi> be soaked longer
+               than 1 or 2 hours, as one of the principal components
+               of the potato is starch, and with soaking in water the
+               starch gradually loosens, comes out into the water, and
+               is lost, as may be seen in the white sediment that
+               remains in the bottom of a basin in which the potatoes
+               have been soaked.</p>
+               <p>A few simple rules may be given now for the boiling
+               of the potatoes:—</p>
+               <list rend="numbered">
+                  <item>Select the potatoes all one size, or as nearly as
+                  possible. It is impossible to boil small and large
+                  potatoes properly together.</item>
+                  <item>Barely cover the potatoes with water.</item>
+                  <item>Add as much salt as tastes the water.</item>
+                  <item>Bring them slowly to the boil.</item>
+                  <item>Boil the potatoes slowly; the larger the potatoes
+                  are the slower they should be boiled, because the heat
+                  takes longer to penetrate to the heart. For very large
+                  potatoes a little cold water may be added once or twice,
+                  to prolong the boiling.</item>
+                  <item>Drain them before the skin cracks in the least,
+                  but not <hi rend="italic">quite</hi> dry.</item>
+                  <item>Allow them to steam 5 or 10 minutes with the
+                  lid on, and a few minutes with it off. They may now
+                  be quickly peeled and dished up.</item>
+               </list>
+            </div>
+            <div n="65" type="section">
+               <head>Potatoes Mashed.</head>
+               <p>The best way to mash potatoes, in a plain way, is to
+               take a strong fork and whisk them with it till
+               they become smooth and light. The longer they are
+               whisked the lighter they become. Add a very little
+               sweet milk, and stir them well; then dish them up
+               very neatly in a heap.</p>
+               <p>When potatoes are pared before boiling, it should be
+               very thinly indeed, as the best part is next the skin;
+               then put into cold water at once, and boil according to
+               the directions given.</p>
+            </div>
+            <div>
+               <floatingText>
+               <body>
+                  <div>
+                     <head>Leeks, to Boil.</head>
+                     <list>
+                        <item>6 Leeks.</item>
+                        <item><num type="fraction">1/2</num> oz. Butter.</item>
+                        <item><num type="fraction">1/2</num> oz. Flour.</item>
+                        <item><num type="fraction">1/2</num> teaspoonful of Sugar.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Pepper and Salt.</item>
+                        <item><num type="fraction">3/4</num> pint Milk.</item>
+                        <item>1 slice Toast.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Select leeks about the thickness of a finger, and cut
+            them all about the same length, leaving scarcely any
+            of the green part on, and wash them very carefully
+            and trim them neatly. Tie them in a bundle, and put
+            into a small stew-pan, with boiling water and a little
+            salt, to parboil for 5 minutes, when they should be
+            drained and afterwards put into a clean sauce-pan, with
+            enough milk to cover, and the sugar. Let them stew
+            in this till tender, about 20 minutes or more,
+            according to age, and dish them on toast. Thicken
+            the milk with half an ounce of butter and half an
+            ounce of flour kneaded together, which season to taste,
+            and, after allowing it to boil, pour over the leeks.
+            They may be cut in inch-lengths if preferred, and
+            piled high on the toast.</p>
+               <floatingText>
+                  <body>
+                     <div>
+                        <head>Parsnips, to Boil.</head>
+                        <list>
+                           <item>4 Parsnips.</item>
+                           <item>1 teaspoonful Flour.</item>
+                           <item>1 teaspoonful Butter.</item>
+                        </list>
+                        <cb/>
+                        <list>
+                           <item><num type="fraction">1/2</num> teacupful of Milk.</item>
+                           <item>Pepper and Salt.</item>
+                        </list>
+                     </div>
+                  </body>
+               </floatingText>
+            <p>Wash the parsnips clean, scraping away the
+            discoloured parts. Have a sauce-pan with plenty of
+            boiling waiter, and enough salt to taste the water well,
+            into which put the parsnips, and boil them for about
+            three-quarters of an hour, or till tender; then drain
+            them, scrape the skin entirely off, and cut them into
+            slices. Mix the flour and butter together, and put
+            both in a small stew-pan, with the milk, pepper, and
+            salt, and stir till boiling; add the parsnips, and shake
+            over the fire till they are well heated up, and serve
+            very hot.</p>
+               <floatingText>
+                  <body>
+                     <div>
+                        <head>Parsnips, to Mash.</head>
+                        <list>
+                           <item>4 Parsnips.</item>
+                           <item><num type="fraction">1/2</num> oz. Butter.</item>
+                        </list>
+                        <cb/>
+                        <list>
+                           <item>Pepper and Salt.</item>
+                           <item>Vinegar.</item>
+                        </list>
+                     </div>
+                  </body>
+               </floatingText>
+               <p>Wash an boil the parsnips as described above;
+               when sufficiently boiled, scrape clean, and mash up
+               thoroughly with a fork. Put them into a small sauce-
+               pan, with the butter, pepper, salt, and a few drops of
+               vinegar; stir over the fire till they are quite hot. Dish
+               in a pile, and serve hot.</p>
+               <p>A table-spoonful of tomato improves the parsnips,
+               and may be used instead of vinegar.</p>
+            </div>
+            <div n="66" type="section">
+               <head>Red Cabbage, to Pick.</head>
+               <p>Take a nice, firm red cabbage and wash it well,
+               taking off the coarse outside leaves. Shred the cabbage
+               up finely into very slender slips, and put a layer of
+               the cabbage on a sieve or basket; sprinkle salt rather
+               plentifully over it, and repeat till the whole is finished.
+               Allow it to remain thus for 2 days, turning it over
+               several times that it may drain; then put it into a jar.
+               Boil a pint of vinegar with a teaspoonful of pepper
+               corns, a blade of mace, and 6 cloves, and pour boiling
+               over the cabbage in the jar; add a few slices of
+               beetroot if convenient, which will improve the colour.</p>
+               <p>Cover up tightly when cold.</p>
+            </div>
+            <div>
+               <floatingText>
+                  <body>
+                     <div>
+                        <head>Beetroot, to Pickle.</head>
+                        <list>
+                           <item>6 Beetroots.</item>
+                           <item>2 pints Vinegar.</item>
+                           <item><num type="fraction">1/2</num> oz. Ginger.</item>
+                        </list>
+                        <cb/>
+                        <list>
+                           <item><num type="fraction">1/2</num> oz. Peppercorns.</item>
+                           <item>1 blade Mace.</item>
+                           <item>1 doz. Cloves.</item>
+                        </list>
+                     </div>
+                  </body>
+               </floatingText>
+               <p>Wash the beetroots gently, taking care not to break
+               the fibres, as they will bleed and lose their colour. Put
+               them into a sauce-pan, with boiling water tasted with
+               salt, to boil for an hour-and-a-half. Peel and cut them
+               in slices one-eighth inch thick, and put them in a jar.</p>
+               <p>Boil a pint of of vinegar with the peppercorns, mace,
+               cloves, ginger, and, when boiled, add to it a pint of
+               cold vinegar. Pour the whole over the beetroots in
+               the jar, and when quite cold cover tightly.</p>
+            </div>
+         </div>
+         <div n="68" type="chapter">
+            <head>PUDDINGS.</head>
+         </div>
+         <div type="indexGroup">
+            <div type="index" n="1">
+               <head type="main">INDEX.</head>
+               <floatingText>
+                  <body>
+                     <div>
+                        <head>Beverages—</head>
+                        <list>
+                           <item>Apple Water,</item>
+                           <item><seg xml:id="barleyWat">Barley Water</seg>,</item>
+                           <item><seg copyOf="#barleyWat">"</seg> Clear,</item>
+                           <item>Black Currant Jam Water,</item>
+                           <item>Boston Cream,</item>
+                           <item>Cocoa,</item>
+                           <item>Coffee,</item>
+                           <item><seg xml:id="lem">Lemonade</seg>,</item>
+                           <item><seg copyOf="#lem">"</seg> without Lemon,</item>
+                           <item>Lemon Syrup,</item>
+                           <item>Lemon Whey,</item>
+                           <item>Orange Syrup,</item>
+                           <item><seg xml:id="rasp">Raspberry</seg> Syrup,</item>
+                           <item><seg copyOf="#rasp">"</seg> Vinegar,</item>
+                           <item>Rice Water,</item>
+                           <item>Strawberry Syrup,</item>
+                           <item>Tea,</item>
+                           <item>Toast and Water,</item>
+                           <item>Treacle Posset,</item>
+                        </list>
+                        <cb/>
+                        <list>
+                           <item>117</item>
+                           <item>116</item>
+                           <item>116</item>
+                           <item>115</item>
+                           <item>117</item>
+                           <item>122</item>
+                           <item>121</item>
+                           <item>115</item>
+                           <item>115</item>
+                           <item>118</item>
+                           <item>118</item>
+                           <item>119</item>
+                           <item>119</item>
+                           <item>119</item>
+                           <item>117</item>
+                           <item>119</item>
+                           <item>120</item>
+                           <item>116</item>
+                           <item>118</item>
+                        </list>
+                     </div>
+                  </body>
+               </floatingText>
+            </div>
+         </div>
+      </body>
+  </text>
+</TEI>
