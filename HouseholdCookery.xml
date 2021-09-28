@@ -2839,6 +2839,61 @@
          </div>
          <div n="68" type="chapter">
             <head>PUDDINGS.</head>
+            <p>THE most important article that enters into the composition
+            of puddings is milk. It is a perfect food, and
+            contains all the substances necessary to sustain life,
+            and in the young of animals does sustain life for a 
+            lengthened period. It is converted into solid food in
+            the stomach on the same principle by which milk is
+            converted into cheese. The gastric juices in the
+            stomach separate the milk, so that there is a solid part
+            like curd, and a liquid like whey. Two cupfuls of
+            new milk contain as much nourishment as a mutton
+            chop, and the same quantity of milk makes an ounce
+            of chees; so that an ounce of cheese contains as
+            much nourishment or nitrogenous food as a mutton
+            chop. This gives an idea of the value of milk as food.
+            The cream of the milk is carbonaceous, and milk itself
+            contains a large proportion of mineral food.</p>
+            <p>Eggs are much used in the composition of puddings,
+            and it is desirable that their value be well
+            understood. They are very nutritious, and contain 
+            a great deal of nitrogenous food in a remarkably
+            concentrated form.</p>
+            <p>A hen's egg of averag size weighs <num type="fraction">1 3/4</num> ounces, and
+            contains water, albumen, fat, oil, and mineral matter.
+            It is said that 18 eggs contain as much flesh-forming
+            substance and other nutrients as would suffice for an
+            adult man for a day, and it would be necessary to
+            consume 70 lbs. of fruit, such as a pear, to provide the
+            same amount of albumen or nitrogenous food. This
+            very strikingly shows the concentrated nourishment
+            to be found in an egg. Eggs contain as much heat-giving
+            and glesh-forming substance as an equal weight
+            of butcher meat.</p>
+            <p>Puddings composed principally of milk and eggs
+            should be very gently cooked, as a very strong heat will
+            cause them to curdle. Puddings with suet should be
+            well cooked, as suet takes a long time to combine with
+            the other materials of which puddings are composed.</p>
+            <p><hi rend="bold">Rice</hi> makes excellent puddings, and although in itself
+            not nitrogenous food, yet, combined with milk and eggs,
+            is sufficiently nourishing, and very light. Rice is principally
+            composed of starch, and is carbonaceous; on
+            that account it is excellent for the young and old,
+            who require food that is warming and easily digested.</p>
+            <p><hi rend="bold">Macaroni</hi> is a composition of wheaten flour made
+            into a kind of paste. There are many varieties of this,
+            which go under the name of Italian Pastes. Macaroni
+            is the cheapest and most useful article which can be
+            used for puddings. It is nitrogenous, because it is
+            made of wheat, and on that account is much more
+            strengthening than rice. The nitrogenous principle
+            in wheat is called gluten. Combined with cheese,
+            macaroni is particularly good, and in that form is much
+            used in foreign countries, and it is well worthy of
+            being more extensively used in this country than it
+            has formerly been.</p>
          </div>
          <div type="indexGroup">
             <div type="index" n="1">
@@ -2846,49 +2901,271 @@
                <floatingText>
                   <body>
                      <div>
-                        <head>Beverages—</head>
+                        <head>Beverages—</head><!-- for questions -->
                         <list>
-                           <item>Apple Water,</item>
-                           <item><seg xml:id="barleyWat">Barley Water</seg>,</item>
-                           <item><seg copyOf="#barleyWat">"</seg> Clear,</item>
-                           <item>Black Currant Jam Water,</item>
-                           <item>Boston Cream,</item>
-                           <item>Cocoa,</item>
-                           <item>Coffee,</item>
-                           <item><seg xml:id="lem">Lemonade</seg>,</item>
-                           <item><seg copyOf="#lem">"</seg> without Lemon,</item>
-                           <item>Lemon Syrup,</item>
-                           <item>Lemon Whey,</item>
-                           <item>Orange Syrup,</item>
-                           <item><seg xml:id="rasp">Raspberry</seg> Syrup,</item>
-                           <item><seg copyOf="#rasp">"</seg> Vinegar,</item>
-                           <item>Rice Water,</item>
-                           <item>Strawberry Syrup,</item>
-                           <item>Tea,</item>
-                           <item>Toast and Water,</item>
-                           <item>Treacle Posset,</item>
+                           <item>Apple Water, . . . 117</item>
+                           <item><seg xml:id="barleyWat">Barley Water . . . 116</seg>,</item>
+                           <item><seg copyOf="#barleyWat">"</seg> Clear, . . 116</item>
+                           <item>Black Currant Jam Water, . 115</item>
+                           <item>Boston Cream, . . . 117</item>
+                           <item>Cocoa, . . . . . 122</item>
+                           <item>Coffee, . . . . . 121</item>
+                           <item><seg xml:id="lem">Lemonade . . . . 115</seg>,</item>
+                           <item><seg copyOf="#lem">"</seg> without Lemon, 115</item>
+                           <item>Lemon Syrup, . . . 118</item>
+                           <item>Lemon Whey, . . . 118</item>
+                           <item>Orange Syrup, . . . 119</item>
+                           <item><seg xml:id="rasp">Raspberry</seg> Syrup,. . . 119</item>
+                           <item><seg copyOf="#rasp">"</seg> Vinegar, . . 119</item>
+                           <item>Rice Water, . , . . 117</item>
+                           <item>Strawberry Syrup, . . 119</item>
+                           <item>Tea, . . . . . 120</item>
+                           <item>Toast and Water, . . 116</item>
+                           <item>Treacle Posset, . . . 118</item>
                         </list>
-                        <cb/>
+                        </div>
+                     <div>
+                        <head>Cakes and Baking—</head>
                         <list>
-                           <item>117</item>
-                           <item>116</item>
-                           <item>116</item>
-                           <item>115</item>
-                           <item>117</item>
-                           <item>122</item>
-                           <item>121</item>
-                           <item>115</item>
-                           <item>115</item>
-                           <item>118</item>
-                           <item>118</item>
-                           <item>119</item>
-                           <item>119</item>
-                           <item>119</item>
-                           <item>117</item>
-                           <item>119</item>
-                           <item>120</item>
-                           <item>116</item>
-                           <item>118</item>
+                           <item>Baking Powder, . . . 96</item>
+                           <item>Bread, . . . . . 96</item>
+                           <item>Buns with Yeast,. . . 98</item>
+                           <item>Cream Scones, . . . 108</item>
+                           <item>Currant Cake, . . . 104</item>
+                           <item>German Sponge Cake,. . 100</item>
+                           <item>Ginger Biscuits, . . . 100</item>
+                           <item>Gingerbread Cake, . . 99</item>
+                           <item>Good Plum Cake, . . 101</item>
+                           <item>London Buns, . . . 106</item>
+                           <item>Oatmeal Biscuits, . . 107</item>
+                           <item>Rock Cakes,. . . . 105</item>
+                           <item>Seed Cake, . . . . 100</item>
+                           <item>Shortbread, . . . . 107</item>
+                           <item><seg xml:id="soda">Soda</seg> Scones, . . . 108</item>
+                           <item><seg copyOf="#soda">"</seg> <seg xml:id="cake">Cake</seg>, . . . . 103</item>
+                           <item>Sultana <seg copyOf="#cake">"</seg> . . . . 102</item>
+                           <item><seg xml:id="teacakes">Tea Cakes</seg>, . . . . 105</item>
+                           <item><seg copyOf="#teacakes">"</seg> Light, . . . 103</item>
+                           <item>Victoria Biscuits,. . . 101</item>
+                           <item>White Cake, . . . 102</item>
+                        </list>
+                     </div>
+                     <div>
+                        <head>Fish—</head>
+                        <list>
+                           <item><seg xml:id="hadd">Haddock</seg> or Cod, Boiled, . 27</item>
+                           <item><seg copyOf="#hadd">"</seg> Baked, . . . 27</item>
+                           <item><seg xml:id="herr">Herrings</seg>, Baked,. . . 30</item>
+                           <item><seg copyOf="#herr">"</seg> Fired,. . . 40</item>
+                           <item>Salmon, to Boil,. . . 31</item>
+                           <item><seg xml:id="saltfish">Salt Fish</seg>, to Cook, . . 28</item>
+                           <item><seg copyOf="#saltfish">"</seg> Pie, . . . 29</item>
+                           <item>To Fry Fish, etc., . . 25</item>
+                           <item>To Stew Fish, . . . 28</item>
+                        </list>
+                     </div>
+                     <cb/>
+                     <div>
+                        <head>Meats—</head>
+                        <list>
+                           <item>A Good Breakfast Dish, . 50</item>
+                           <item>Beef Steak Pie, . . . 43</item>
+                           <item>Boiled Meat Pudding,. . 41</item>
+                           <item>Breast of Beal Stuffed and
+                           Rolled, . . . . 39</item>
+                           <item>Cold Meat Mince, . . 57</item>
+                           <item>Cold Meat Rolls,. . . 56</item>
+                           <item>Curried Rabbit, . . . 52</item>
+                           <item>Dutch Stew,. . . 37</item>
+                           <item>Fowl Trussed and Boiled, . 49</item>
+                           <item>Haricot Mutton, . . . 40</item>
+                           <item>Hough Stewed, . . . 45</item>
+                           <item>Irish Stew, . . . . 46</item>
+                           <item>Kidney Pudding,. . . 48</item>
+                           <item>Liver and Bacon,. . . 51</item>
+                           <item>Mutton Cutlets, . . . 56</item>
+                           <item>Mutton Stuffed and Rolled, 38</item>
+                           <item>Ox Kidney Stewed, . . 35</item>
+                           <item>Ox Tail Stewed, . . . 34</item>
+                           <item>Rabbit Stewed, . . . 35</item>
+                           <item>Roast Bullock's Heart, . 49</item>
+                           <item>Sausage Rolls, . . . 51</item>
+                           <item>Scotch Collop, . . . 46</item>
+                           <item>Scotch Haggis, . . . 47</item>
+                           <item>Sea Pie, . . . . 55</item>
+                           <item><seg xml:id="steak">Steak</seg> and Onions Fried, . 44</item>
+                           <item><seg copyOf="#steak">"</seg> Stewed, . . . 42</item>
+                           <item><seg copyOf="#steak">"</seg> Stuffed and Rolled, . 36</item>
+                           <item>Toad in a Hole, . . . 47</item>
+                           <item><seg xml:id="tripe">Tripe</seg> and Onions, . . 53</item>
+                           <item><seg copyOf="#tripe">"</seg> Stewed, . . . 54</item>
+                           <item><seg copyOf="#tripe">"</seg> to Clean, . . . 55</item>
+                        </list>
+                     </div>
+                     <div>
+                        <head>Miscellaneous—</head>
+                        <list>
+                           <item>Omelette, . . . . 128</item>
+                           <item>Porridge, . . . . 128</item>
+                        </list>
+                     </div>
+                     <div>
+                        <head>Preserves—</head>
+                        <list>
+                           <item>Apple Jelly,. . . . 123</item>
+                           <item>Bramble Jelly, . . . 127</item>
+                           <item>Candied Peel, . . . 127</item>
+                           <item>Gooseberries, to Bottle, . 125</item>
+                           <item><seg xml:id="gooseber">Gooseberry</seg> Jam,. . . 123</item>
+                           <item><seg copyOf="#gooseber">"</seg> Jelly,. . . 123</item>
+                           <item>Orange Marmalade, . . 126</item>
+                           <item>Red Currant Jelly, . . 124</item>
+                           <item>Strawberry Jam,. . . 125</item>
+                        </list>
+                     </div>
+                     <div>
+                        <head>Puddings—</head>
+                        <list>
+                           <item>Apple and Orange Fritters,. 85</item>
+                           <item>Apple and Rice Meringue, . 87</item>
+                           <item>Apple Dumplings, Baked, . 84</item>
+                        </list>
+                     </div>
+                     <div>
+                        <head>Puddings—<hi rend="italic">Con.</hi></head>
+                        <list>
+                           <item>Apple Dumplings, Boiled, . 83</item>
+                           <item>Apple Pudding, Boiled, . 82</item>
+                           <item>Batter and Fruit Pudding, . 80</item>
+                           <item>Black <seg xml:id="cappudd">Cap Pudding,</seg> . . 79</item>
+                           <item>Bread <seg copyOf="cappudd">"</seg> . . 70</item>
+                           <item>Bread and Jam Pudding, . 74</item>
+                           <item>Cheese Fritters, . . . 90</item>
+                           <item>Corn Flour Shape, . . 81</item>
+                           <item>Custard Pudding, . . 87</item>
+                           <item>Eve's <seg xml:id="pudd">Pudding,</seg> . . . 90</item>
+                           <item>Fig <seg copyOf="#pudd">"</seg> . . . 76</item>
+                           <item>Fish <seg copyOf="#pudd">"</seg> . . . 26</item>
+                           <item>Fruit Tart, . . . . 81</item>
+                           <item>Lemon Cream, . . . 88</item>
+                           <item>Macaroni and Cheese, . 89</item>
+                           <item>Marmalade Pudding,. . 74</item>
+                           <item>Pancakes, . . . . 84</item>
+                           <item>Plum Pudding, . . . 72</item>
+                           <item>Rice <seg copyOf="#pudd">"</seg> . . . 77</item>
+                           <item>Rice and Cheese,. . . 88</item>
+                           <item>Rice Pudding without Eggs, 77</item>
+                           <item>Roly-Poly Pudding, . . 78</item>
+                           <item>Rothesay <seg copyOf="#pudd">"</seg> . . 72</item>
+                           <item>Sago <seg copyOf="#pudd">"</seg> . . 79</item>
+                           <item>Sago and Fruit Pudding, . 85</item>
+                           <item>Scrap Bread <seg copyOf="#pudd">"</seg> . 71</item>
+                           <item>Semolina <seg copyOf="#pudd">"</seg> . 76</item>
+                           <item>Stewed Prunes, . . . 86</item>
+                           <item>Tapioca Pudding, . . 75</item>
+                           <item>Treacle <seg copyOf="#pudd">"</seg> . . . 73</item>
+                           <item>Urney <seg copyOf="#pudd">"</seg> . . . 75</item>
+                           <item>Yorkshire <seg copyOf="#pudd">"</seg> . . . 80</item>
+                        </list>
+                     </div>
+                     <div>
+                        <head>Sauces—</head>
+                        <list>
+                           <item>Apple,. . . . . 91</item>
+                           <item>Brown,. . . . . 91</item>
+                           <item>Clear, . . . . . 92</item>
+                           <item>Custard, . . . . 92</item>
+                           <item>Egg, . . . . . 92</item>
+                           <item>French,. . . . . 91</item>
+                           <item>Melted Butter, . . . 93</item>
+                           <item>Mint, . . . . . 93</item>
+                           <item>Onion or Soubise, . . 94</item>
+                           <item>Sweet Melted Butter,. . 93</item>
+                           <item>Tomato, . . . . 94</item>
+                        </list>
+                     </div>
+                     <div>
+                        <head>Sick-Room Cookery—</head>
+                        <list>
+                           <item>Apple Fool,. . . . 113</item>
+                           <item>Arrowroot, . . . . 114</item>
+                           <item><seg xml:id="beeft">Beef Tea</seg>, . . . . 110</item>
+                           <item><seg copyOf="#beeft">"</seg> Raw, . . . 111</item>
+                           <item><seg copyOf="#beeft">"</seg> Pudding, . . 112</item>
+                           <item>Egg Drink, . . . . 113</item>
+                           <item>Flour for Infants' Food, . 112</item>
+                           <item>Gruel, . . . . . 114</item>
+                        </list>
+                     </div>
+                     <cb/>
+                     <div>
+                        <head>Sick-Room Cookery—<hi rend="italic">Con.</hi></head>
+                        <list>
+                           <item>Milk Jelly, . . . . 113</item>
+                           <item>Suet and Milk, . . . 114</item>
+                           <item>Veal Jelly, . . . . 111</item>
+                        </list>
+                     </div>
+                     <div>
+                        <head>Soups—</head>
+                        <list>
+                           <item>Carrot,. . . . . 18</item>
+                           <item>Chicken, . . . 21</item>
+                           <item>Cottage, . . . . 13</item>
+                           <item>Fisherman's Rice, . . 19</item>
+                           <item>German, . . . . 15</item>
+                           <item>Green Pea,. . . . 16</item>
+                           <item>Haricot Bean, . . . 12</item>
+                           <item>Hotch-Potch, . . . 23</item>
+                           <item>Kidney, . . . . 21</item>
+                           <item>Lentil,. . . . . 14</item>
+                           <item>Mutton Broth, . . . 16</item>
+                           <item>Onion, . . . . . 22</item>
+                           <item>Potato,. . . . . 17</item>
+                           <item>Rice, . . . . . 18</item>
+                           <item>Skirt, . . . . . 15</item>
+                           <item>Stock from Bones, . . 19</item>
+                           <item>Tomato, . . . . 20</item>
+                           <item>Windsor Milk, . . . 14</item>
+                        </list>
+                     </div>
+                     <div>
+                        <head>Vegetables—</head>
+                        <list>
+                           <item>Beetroot, to Pickle, . . 67</item>
+                           <item>Brussels Sprouts,. . . 62</item>
+                           <item>Carrots, to Stes,. . . 61</item>
+                           <item>Cauliflower, to Boil, . . 60</item>
+                           <item>Green, to Boil, . . . 59</item>
+                           <item>Green Peas, to Boil, . . 60</item>
+                           <item>Haricot Beans Boiled,. . 62</item>
+                           <item>Leeksm to Boil, . . . 65</item>
+                           <item><seg xml:id="pars">Parsnips,</seg> to Boil,. . . 66</item>
+                           <item><seg copyOf="#pars">"</seg> to Mash, . . 66</item>
+                           <item><seg xml:id="potat">Potatoes,</seg> to Boil, . . 63</item>
+                           <item><seg copyOf="#potat">"</seg> to Mash, . . 65</item><item></item>
+                           <item>Red Cabbage, to Pickle, . 66</item>
+                           <item>Spanish Onions, to Boil, . 63</item>
+                           <item>Turnips, to Boil and Mash,. 61</item>
+                        </list>
+                     </div>
+                     <div>
+                        <head>Laundry Work—</head>
+                        <list>
+                           <item>WASHING— . . . . 131</item>
+                           <item>Arrangements for, . . 129</item>
+                           <item>Crewel Work, . . . 136</item>
+                           <item>Flannel, . . . . 132</item>
+                           <item>Lace, . . . . . 135</item>
+                           <item>Paraffin Washing, . . 136</item>
+                           <item>Prints,. . . . . 134</item>
+                           <item>Stockings, . . . . 133</item>
+                           <item><seg xml:id="whiteclo">White Clothes,</seg> . . . 137</item>
+                           <item><seg copyOf="#whiteclo">"</seg> to Boil, . 138</item>
+                           <item>STARCHING— . . . 139</item>
+                           <item>Cold-Water Starch, . . 141</item>
+                           <item><seg xml:id="shirt">Shirt,</seg> to Starch a, . . 141</item>
+                           <item><seg copyOf="#shirt">"</seg> to Iron a, . . . 142</item>
                         </list>
                      </div>
                   </body>
