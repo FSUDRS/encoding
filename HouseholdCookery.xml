@@ -2893,6 +2893,17 @@
                      </div>
                   </body>
                </floatingText>
+	    <table>
+           	<row role="label"><cell>Beverages</cell><cell>page</cell></row>
+              	<row>
+                  <cell>Apple Water</cell>
+                  <cell>117</cell>
+               </row>
+               <row>
+                  <cell>Barley Water</cell>
+                  <cell>116</cell>
+               </row>
+            </table>
             </div>
          </div>
       </body>
