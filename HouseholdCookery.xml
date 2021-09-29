@@ -26,7 +26,7 @@
             <item><ref target="#fish">Fish</ref>, . . . . . . . . . . . <num>24</num></item>
             <item><ref target="#meat">Meat</ref>, . . . . . . . . . . . <num>32</num></item>
             <item><ref target="#veg">Vegetables</ref>, . . . . . . . . . . <num>58</num></item>
-            <item><ref>Puddings</ref>, . . . . . . . . . . <num>68</num></item>
+            <item><ref target="#puddings">Puddings</ref>, . . . . . . . . . . <num>68</num></item>
             <item><ref>Sauces</ref>, . . . . . . . . . . . <num>91</num></item>
             <item><ref>Cakes and Baking</ref>, . . . . . . . . <num>95</num></item>
             <item><ref>Sick-Room Cookery</ref>, . . . . . . . . <num>109</num></item>
@@ -2837,7 +2837,7 @@
                the jar, and when quite cold cover tightly.</p>
             </div>
          </div>
-         <div n="68" type="chapter">
+         <div n="68" type="chapter" xml:id="puddings">
             <head>PUDDINGS.</head>
             <p>THE most important article that enters into the composition
             of puddings is milk. It is a perfect food, and
@@ -2894,6 +2894,550 @@
             used in foreign countries, and it is well worthy of
             being more extensively used in this country than it
             has formerly been.</p>
+            <p><hi rend="bold">Semolina</hi> resembles ground rice in its grain, but is
+            of a yellow colour, and is a portion of wheat which is
+            not finely ground. It makes very good puddings, and
+            can be used in any form in which rice is used, and is
+            much more strengthening.</p>
+            <p><hi rend="bold">Corn Flour</hi> is almost wholly starch, and on that account
+            is fattening and warming, but not strengthening.
+            It is not sufficiently nitrogenous to be the constant
+            food of infants as it does not develop the muscles and
+            flesh sufficiently. Boiled or baked flour is much better
+            food for infants than corn flour.</p>
+            <p>Puddings are much lighter steamed than boiled.
+            Steaming means that a very little water is put into a
+            pot or pan, having a close lid. When the water boils,
+            the pudding is put in, and it cooks in the steam.
+            There should only be enough water to keep steam in
+            the pot; but care must be taken that it does not all
+            evaporate, and the pudding as well as the pot get
+            burned. Boiling means that a pudding is covered
+            with either a cloth or lid, and plunged overhead in
+            boiling water, and cooked so for the necessary time.
+            This generally makes a pudding heavier and less
+            digestible. A lid is particularly to be avoided, as it so
+            hermetically seals the pudding that none of the gas
+            engendered by the cooking escapes, and it cannot be
+            either so light or wholesome.</p>
+            <p>Puddings with suet, much butter, or fat of any kind,
+            are greatly improved by having a sauce served with
+            them; as cold milk or cream is liable to congeal the
+            fat and render it unpleasant. A few recipes for
+            Pudding Sauces will be given in their place.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Bread Pudding.</head>
+                     <list>
+                        <item>2 thick slices of Bread.</item>
+                        <item>2 table-spoonfuls of Marmalade.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 breakfast-cupful of Milk.</item>
+                        <item>2 Eggs.</item>
+                        <item>1 table-spoonful of Sugar.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Cut the crust from the bread, and break the soft
+            part into a basin. Boil the milk and pour it over the
+            bread. Cover the basin with a plate, and stand it
+            aside for ten minutes. Then with a fork whisk it
+            up till it forms a pulp. Beat up the eggs, and
+            stir them in, mixing well; to which add a table-spoonful
+            of marmalade and mix all together. Butter a
+            basin or plain mould, and spread a table-spoonful of
+            marmalade over the bottom of it. Pour in the pudding
+            and cover it with a buttered paper; then steam for an
+            hour. Turn it our on a plate and allow the marmalade
+            to pour round it like sauce.</p>
+            <p>Raisins may be mixed with the pudding instead of
+            marmalade, and the mould ornamented with raisings
+            instead of having the marmalade in the bottom.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Scrap Bread Pudding.</head>
+                     <list>
+                        <item><num type="fraction">1/2</num> lb. scraps of Bread.</item>
+                        <item>1 table-spoonful chopped Suet
+                        or Dripping.</item>
+                        <item>1 handful Currants or Raisins.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 table-spoonful of Sugar.</item>
+                        <item><num type="fraction">1/2</num> teaspoonful of Ground Ginger.</item>
+                        <item>1 teacupful of Milk.</item>
+                        <item>1 Egg.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Keep all scraps of bread that are clean, and neatly
+            cut from them all the brown crust. Put the bread into
+            a basin of water to soak for an hour. Less time is
+            required if the bread is not very hard.</p>
+            <p>Have very clean hands, and after squeezing the
+            water entirely out, put the bread in a dry basin, and
+            add to it the sugar, the dripping or suet, and the fruit.
+            Boil the milk, and pour it over the bread, etc., in the
+            basin, and whisk it well up with a fork. Beat up the
+            egg and add it, also the ground ginger. Butter a
+            basin, into which put the pudding, and allow it to
+            steam for <num type="fraction">1 1/2</num> hours.</p>
+            <p>Serve with sweet sauce.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Plum Pudding.</head>
+                     <list>
+                        <item><num type="fraction">1/4</num> lb. Bread-crumbs.</item>
+                        <item><num type="fraction">1/2</num> lb. Flour.</item>
+                        <item><num type="fraction">1/2</num> lb. Suet.</item>
+                        <item><num type="fraction">1/2</num> lb. Sugar.</item>
+                        <item><num type="fraction">1/2</num> lb. Currants.</item>
+                        <item><num type="fraction">1/2</num> lb. Valentia Raisins.</item>
+                        <item><num type="fraction">1/4</num> lb. Orange Peel.</item>
+                        <item>1 Lemon.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 salt-spoonful of Salt.</item>
+                        <item>1 Apple or 1 Carrot.</item>
+                        <item>2 Eggs.</item>
+                        <item><num type="fraction">1/2</num> pint Milk.</item>
+                        <item>2 teaspoonfuls Mixed Spice.</item>
+                        <item><num type="fraction">1/2</num> teaspoonful Nutmeg.</item>
+                        <item><num type="fraction">1/2</num> teaspoonful Baking Powder.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>For this pudding the currants ought to be washed
+            and dried, the raisins stoned, and the orange-peel cut up
+            in small pieces; grate the lemon rind, and squeeze out
+            the juice. If an apple is used, it must be peeled and
+            chopped finely, and if a carrot, the red part of it grated.</p>
+            <p>Put into a basin all the dry ingredients, including
+            the apple, the lemon rind and juice, and mix them them all
+            together. Beat the eggs welll, add to them the milk,
+            and pour both among the ingredients in the basin,
+            mixing thoroughly. Butter a pudding basin or mould
+            and pour the pudding in; cover it with a piece of
+            buttered paper, and steam for 4 hours.</p>
+            <p>Serve hot with either custard or sweet melted butter
+            sauce.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Rothesay Pudding.</head>
+                     <list>
+                        <item><num type="fraction">1/4</num> lb. Flour.</item>
+                        <item><num type="fraction">1/4</num> lb. Bread-crumbs.</item>
+                        <item><num type="fraction">1/4</num> lb. Suet chopped.</item>
+                        <item>1 teacupful of Rasperry Jam.</item>
+                        <item>1 teacupful of Milk.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 dessert-spoonful of Sugar.</item>
+                        <item>1 Egg.</item>
+                        <item><num type="fraction">1/2</num> teaspoonful Carbonate of
+                        Soda.</item>
+                        <item><num type="fraction">1/2</num> teaspoonful of Vinegar.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Mix in a basin the flour, bread-crumbs, sugar, and
+            suet. Stir in the jam and mix well; beat up the egg
+            and add the milk to it, and it also into the
+            pudding. Wet the carbonate of soda with a very
+            little vinegar, just enough to moisten it, and stir it
+            thoroughly through all the other ingredients. Pour all
+            into a buttered shape. Cover with a buttered paper
+            and steam for 2 hours.</p>
+            <p>Serve hot with sweet sauce. This pudding is good
+            with either white or red gooseberry jam.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Treacle Pudding.</head>
+                     <list>
+                        <item>1 breakfast-cupful of Grated
+                        Bread.</item>
+                        <item>1 breakfast-cupful of Flour.</item>
+                        <item><num type="fraction">1/4</num> lb. Currants.</item>
+                        <item><num type="fraction">1/4</num> lb. Suet.</item>
+                        <item>1 table-spoonful Sugar.</item>
+                        <item><num type="fraction">1/2</num> teaspoonful Salt.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 teaspoonful Ground Ginger.</item>
+                        <item><num type="fraction">1/2</num> teaspoonful Carbonate of Soda.</item>
+                        <item><num type="fraction">1/4</num> teaspoonful Cream of Tartar.</item>
+                        <item>1 Egg.</item>
+                        <item>Water.</item>
+                        <item><num type="fraction">1/2</num> lb. Treacle.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Wash and dry the currants, and chop up the suet
+            very finely.</p>
+            <p>Put into a basin all the dry ingredients—the bread,
+            flour, sugar, currants, suet, salt, ginger, carbonate of
+            soda, and cream of tartar— and mix them well, after
+            which add the treacle, stirring it about. Beat up the
+            egg and mix it with a teacupful of water; pour this
+            in and mix all well together. It should be quite moist
+            without being at all sloppy.</p>
+            <p>Put it into a shape or basin well rubbed with
+            dripping or butter, and cover with a buttered paper.
+            Place it in a pot in which there is half an inch of
+            boiling water. Put the lid <hi rend="italic">closely</hi> on the pot and
+            steam for <num type="fraction">2 1/2</num> hours; then turn out and serve with
+            sweet sauce.</p>
+            <p><hi rend="italic">N.B.</hi>—If more water is required to moisten the
+            pudding properly, it must be added, but it is best not
+            to put more among the egg, in case it should not be
+            required.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Bread and Jam Pudding.</head>
+                     <list>
+                        <item>Bread.</item>
+                        <item>Jam.</item>
+                        <item>2 Eggs.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item><num type="fraction">3/4</num> pint Milk.</item>
+                        <item>Sugar.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Have a plain round tin or basin that will hold a pint
+            and a half (three breakfast-cupfuls), and grease it well
+            inside with sweet dripping or butter. Take some very
+            thin slices of bread, and spread them with jam; then
+            cut them up in slips about 1 inch wide and 3 long.
+            Place them lightly in the mould, filling it very nearly
+            full. Now beat up 2 eggs well, to which add a
+            table-spoonful of sugar and the milk, and after mixing
+            all well together, pour into mould. Allow it to
+            stand for half-an-hour to soak; then cover the mould
+            with a greased paper and place it in a sauce-pan with
+            boiling water (the water must reach only half-way up
+            the mould); steam for an hour and turn out.</p>
+            <p>The pudding must steam very slowly, or the eggs
+            will curdle, which would spoil the pudding. Marmalade
+            may be substituted instead of jam in this pudding, and
+            the bread may be buttered before the jam is put on if
+            a richer pudding is desired.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Marmalade Pudding.</head>
+                     <list>
+                        <item><num type="fraction">3/4</num> lb. Bread-crumbs.</item>
+                        <item><num type="fraction">1/2</num> lb. Marmalade.</item>
+                        <item><num type="fraction">1/4</num> lb. Suet.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 table-spoonful of Sugar.</item>
+                        <item>1 teaspoonful Carbonate of Soda.</item>
+                        <item>Butter-milk.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Grate the bread put in a basin; add the suet
+            and sugar, and mix well together; then add the
+            carbonate of soda, taking care that the lumps are
+            rubbed out. Now add the marmalade, and mix; also
+            as much butter-milk as will wet the whole, but it
+            should not be very moist.</p>
+            <p>Grease a basin or mould well and put the pudding
+            in; cover with a greased paper, and steam for <num type="fraction">2 1/2</num>
+            hours; turn out and serve with sweet sauce, with
+            some marmalade mixed to flavour it.</p>
+            <p>This pudding, having no egg, is suitable when the
+            eggs are objected to, or in winter, when they are very
+            expensive.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Urney Pudding.</head>
+                     <list>
+                        <item>2 Eggs.</item>
+                        <item>Flour.</item>
+                        <item>Butter.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Sugar.</item>
+                        <item>Jam.</item>
+                        <item>Carbonate of Soda.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Take 2 eggs, with their weight in butter and flour,
+            and the weight of 1 egg in sugar. Put the butter
+            and sugar in a basin, and beat them to a cream, add
+            the eggs and beat smooth; then add the flour, in which
+            should be mixed half a teaspoonful of carbonate of
+            soda. Mix till smooth, and add a table-spoonful of
+            strawberry or raspberry jam; pour into a buttered
+            mould, which cover with a piece of greased paper, and
+            steam gently for <num type="fraction">1 1/2</num> hours. Turn out and serve
+            with arrowroot sauce.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Tapioca Pudding.</head>
+                     <list>
+                        <item><num type="fraction">1/4</num> lb. Tapioca.</item>
+                        <item>2 breakfast-cupfuls of Milk.</item>
+                        <item>1 large table-spoonful of Sugar.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>2 Eggs.</item>
+                        <item>1 teaspoonful of Butter.</item>
+                        <item>A little Flavouring.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Soak the tapioca for a quarter of an hour in a
+            breakfast-cupful of hot water. Put the milk on to boil,
+            and when it boils stir in the soaked tapioca, and let it
+            also boil, stirring it constantly for nearly 10 minutes.</p>
+            <p>Take it off the fire and stir in the sugar, the butter,
+            and flavouring; beat up the eggs and add them, stirring
+            till quite mixed; then pour into a pudding-dish, and
+            bake for half-an-hour.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Fig Pudding.</head>
+                     <list>
+                        <item>1 breakfast-cupful of Bread-crumbs.</item>
+                        <item><num type="fraction">1/2</num> lb. Figs.</item>
+                        <item><num type="fraction">1/4</num> lb. Suet.</item>
+                        <item>1 breakfast-cupful of Milk.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 teacupful of Flour.</item>
+                        <item>2 Eggs.</item>
+                        <item><num type="fraction">1/4</num> lb. Sugar.</item>
+                        <item>Nutmeg.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Chop up the figs rather finely, and put them in a 
+            sauce-pan, with the milk, to stew for a quarter of an
+            hour. Put into a basin the bread, flour, and suet
+            chopped up finely; also the sugar and a very little
+            nutmeg, and mix them well. Add the figs and milk,
+            then the eggs well beaten, and whisk all thoroughly
+            up with a fork. Butter a basin or shape, and pour
+            the pudding in. Place it in a sauce-pan containing a
+            little boiling water, and steam for <num type="fraction">1 1/2</num> hours. Serve
+            with sweet sauce.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Semolina Pudding.</head>
+                     <list>
+                        <item><num type="fraction">1/4</num> lb. Semolina.</item>
+                        <item><num type="fraction">1 1/4</num> pints of Milk.</item>
+                        <item><num type="fraction">1/2</num> oz. Butter.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>2 Eggs.</item>
+                        <item>2 oz. of Sugar.</item>
+                        <item>Flavouring.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put <num type="fraction">1 1/4</num> pints of milk in a nice clean sauce-pan to
+            boil; then sprinkle in the semolina and boil,
+            stirring constantly for 5 minutes or rather more;
+            then add the sugar and the butter, and mix
+            well. Allow it to stand a few minutes in the sauce-pan
+            to cool; then beat up the eggs and stir them in,
+            mixing thoroughly; add a little flavouring to taste (a
+            little grated orange ring or lemon is very pleasant for
+            flavouring). Have a plain mould well buttered, and
+            ornamented with cherries or raisins; pour the pudding
+            in, cover it with buttered paper, and steam for an
+            hour; then turn out gently.</p>
+            <p>Ground rice is made into a pudding in precisely the
+            same way and in the same proportions. Almond flavouring
+            is good with rice, or a bay leaf boiled with the milk.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Rice Pudding.</head>
+                     <list>
+                        <item>1 tea-cupful of Whole Rice.</item>
+                        <item>2 breakfast-cupfuls of Milk.</item>
+                        <item>1 table-spoonful of Sugar.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 table-spoonful of Marmalade.</item>
+                        <item>2 Eggs.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Wash the rice well, and put it on to boil in a small
+            pan with a breakfast-cupful of water. Let it boil for
+            5 minutes; then pour in the milk, and allow it to boil
+            for half-an-hour without stirring it.</p>
+            <p>Take the pan from the fire and add the sugar and
+            the marmalade, and stir well. Beat up the eggs, and
+            add them last, mixing all together; then pour into a
+            pudding dish, and bake in the oven or in front of the
+            fire for half-an-hour. A hanful of currants may be
+            used instead of the marmalade, but they must first be
+            washed and dried.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Rice Pudding without Eggs.</head>
+                     <list>
+                        <item><num type="fraction">1/4</num> lb. Rice.</item>
+                        <item>1 table-spoonful of Suet.</item>
+                        <item>1 table-spoonful of Sugar.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Nutmeg.</item>
+                        <item>1 handful of Currants.</item>
+                        <item>2 breakfast-cupfuls of Milk.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Wash the rice, and put it either into a small pudding-dish
+            or pudding-basin; chop up the suet, and add it;
+            also the sugar, a very little grated nutmeg and a handful
+            of currants well washed. Pour the milk over, and
+            put it in a slow oven for <num type="fraction">1 1/2</num> hours; or cover the basin
+            with a buttered paper, and place it in a sauce-pan
+            with a little water, and steam for an hour.</p>
+            <p>This pudding cooks anywhere near the fire where
+            the rice can get gradually heated and cooked. Skimmed
+            milk does very well, as the suet supplies the want of
+            fat both in the rice and te milk, and makes a very
+            very rich and good pudding at a small cost. The currants 
+            may be omitted.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Roly-Poly Pudding.</head>
+                     <list>
+                        <item>1 breakfast cupful of Flour.</item>
+                        <item><num type="fraction">1/4</num> lb. of Suet finely chopped.</item>
+                        <item><num type="fraction">1/4</num> teaspoonful of Salt.</item>
+                        <item>1 teaspoonful of Sugar.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item><num type="fraction">3/4</num> teaspoonful Baking Powder.</item>
+                        <item><num type="fraction">1/2</num> lb. of Jam.</item>
+                        <item>Butter Milk or Water.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put the flour into a basin along with the suet
+            chopped <hi rend="italic">very</hi> finely, to which add the salt, sugar, and
+            baking powder, and mix all well together.</p>
+            <p>Now add as much of either butter milk or water as
+            will make a stiff paste, gathering up all the flour in the
+            basin. Turn it out on the board, and roll it into a thin
+            sheet. Take a bowl or plain shape (a melon shape is
+            best) and rub it well inside with dripping. Take as
+            much of the paste as will line the shape, and fit it
+            nicely all round, cutting the edges even. Now put a
+            spoonful of jam in the bottom of the shape, and cover
+            it with a piece of the paste last, which wet
+            round the edges a little to make it adhere. Cover the
+            top with a buttered paper, and put the shape into a
+            pot with half-an-inch of boiling water in it; put the
+            lid of the pot closely on, and steam for 2 hours; then
+            turn out.</p>
+            <p><hi rend="italic">N.B.</hi>—The scraps of paste left after lining the shape
+            may be rolled out again, or just put in between the
+            layers of jam as they are. Leave a piece the size of
+            the top till the last.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Sago Pudding.</head>
+                     <list>
+                        <item><num type="fraction">1/4</num> lb. of Sago.</item>
+                        <item>2 breakfast-cupfuls of Milk.</item>
+                        <item>1 table-spoonful of Sugar.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>2 Eggs.</item>
+                        <item>1 teaspoonful of Butter.</item>
+                        <item>Ground Cinnamon.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Wash the sago and pour off the water; then soak it
+            in a teacupful of warm water for 10 minutes. Put on
+            2 breakfast-cupfuls of skimme dmilk to boil; when it
+            boils, stir in the sago and boil for 5 minutes, sittring
+            constantly, by which time the sago will be cooked
+            enough and quite clear; take the pan from the fire, and
+            stir in the sugar and butter. Now beat up the eggs
+            and add them, mixing well, and pour the whole into a
+            pudding-dish; sprinkle a little ground cinnamon over
+            it, and put it on a toaster in front of the fire to brown
+            on the top and cook; turn it round once or twice to
+            cook evenly, or put it in an oven for half-an-hour.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Black Cap Pudding.</head>
+                     <list>
+                        <item><num type="fraction">1/2</num> lb. of Flour.</item>
+                        <item>1 table-spoonful Currants.</item>
+                        <item>1 pint Milk.</item>
+                        <item>2 Eggs.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 dessert-spoonful of Sugar.</item>
+                        <item><num type="fraction">1/2</num> teaspoonful Salt.</item>
+                        <item><num type="fraction">1/2</num> teaspoonful Baking Powder.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
          </div>
          <div type="indexGroup">
             <div type="index" n="1">
