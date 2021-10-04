@@ -28,7 +28,7 @@
             <item><ref target="#veg">Vegetables</ref>, . . . . . . . . . . <num>58</num></item>
             <item><ref target="#puddings">Puddings</ref>, . . . . . . . . . . <num>68</num></item>
             <item><ref target="#sauces">Sauces</ref>, . . . . . . . . . . . <num>91</num></item>
-            <item><ref>Cakes and Baking</ref>, . . . . . . . . <num>95</num></item>
+            <item><ref target="#cakes">Cakes and Baking</ref>, . . . . . . . . <num>95</num></item>
             <item><ref>Sick-Room Cookery</ref>, . . . . . . . . <num>109</num></item>
             <item><ref>Beverages</ref>, . . . . . . . . . . <num>115</num></item>
             <item><ref>Preserves</ref>, . . . . . . . . . . <num>123</num></item>
@@ -4112,6 +4112,722 @@
             mustard, and a few drops of either vinegar, ketchup,
             or Harvey sauce; boil all for a minute. Strain it
             to keep back the onion.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Apple Sauce.</head>
+                     <list>
+                        <item>4 Apples.</item>
+                        <item>1 teaspoonful of Butter.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 teaspoonful of Sugar.</item>
+                        <item>1 table-spoonful of Water.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Pare and slice up the apples, and put them in a
+            sauce-pan with the sugar, butter, and water. Boil for
+            10 minutes, or until they are quite soft, and mash all
+            well together with a fork, and serve hot.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>French Sauce (for Vegetables or Fish)</head>
+                     <list>
+                        <item>1 oz. Butter.</item>
+                        <item>1 oz. Flour.</item>
+                        <item><num type="fraction">1/2</num> pint Milk.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Pepper and Salt.</item>
+                        <item>2 yolks Eggs.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put the butter and flour in a small sauce-pan, and
+            rub them together till quite mixed; then add the milk,
+            and stir over the fire till it boils. After seasoning
+            with salt and white pepper to taste, take off the
+            fire; stir in the yolks of 2 raw eggs, which mix
+            thoroughly, and serve.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Egg Sauce.</head>
+                     <list>
+                        <item>1 oz. Butter.</item>
+                        <item>1 oz. Flour.</item>
+                        <item>1 Egg.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 breakfast-cupful of Milk.</item>
+                        <item>A little Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Boil the egg hard, <hi rend="italic">i.e.</hi>, for 10 minutes; take off the
+            shell, and chop it up.</p>
+            <p>Put into a small sauce-pan the butter and flour, and
+            mix over the fire; then pour in a breakfast-cupful of
+            milk, and stir till it boils; then add to it the chopped-
+            up egg, which mix well, and serve.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Clear Sauce.</head>
+                     <list>
+                        <item>1 teaspoonful of Arrowroot.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 dessert-spoonful of Sugar.</item>
+                        <item>1 table-spoonful of Jelly.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Moisten the arrowroot with a little water; then add
+            a gill of water, and stir over the fire till it boils. Add
+            the sugar and a table-spoonful of red-coloured jelly,
+            and stir till it boils. Serve it with a pudding.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Custard Sauce.</head>
+                     <list>
+                        <item>Milk.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Eggs.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Sugar.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put half a pint of milk in a small sauce-pan, and
+            add to it 2 eggs well beaten, and a spoonful of
+            sugar. Mix well, and stir over the fire till it begins
+            to thicken, but it must not be allowed to boil; then
+            flavour to taste.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Melted Butter.</head>
+                     <list>
+                        <item>1 oz. Butter.</item>
+                        <item>1 oz. Flour.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 breakfast-cupful of Water.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put into a small sauce-pan the butter and the flour,
+            and stir over the fire till the butter has absorbed the
+            flour; add a breakfast-cupful of water, weak broth, or
+            milk, and stir till it boils and thickens; season with
+            pepper and salt, and serve very hot. This mode of
+            proceeding insure the melted butter being perfectly
+            smooth.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Sweet Melted Butter Sauce.</head>
+                     <list>
+                        <item>Butter.</item>
+                        <item>Flour.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Sugar.</item>
+                        <item>Flavouring.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put <num type="fraction">1/2</num> oz. of butter and <num type="fraction">1/2</num> oz. of flour in a small
+            sauce-pan, and stir over the fire till smooth; add
+            half a pint of water, and stir till it boils and thickens;
+            then add a table-spoonful of sugar and some essence
+            of cloves or cinnamon, or any flavouring preferred,
+            and serve in a sauce-tureen. Pudding sauces should
+            be rather thicker than good cream.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Mint Sauce.</head>
+                     <list>
+                        <item>1 table-spoonful of Green Mint.</item>
+                        <item>1 dessert-spoonful of Sugar.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 gill of Vinegar.</item>
+                        <item>1 table-spoonful of Hot Water.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Wash and pick the mint carefully, and chop it up.
+            Mix the sugar, vinegar, and water in the sauce-tureen,
+            and stir in the mint. It is better to be made an hour
+            before being required, in order to flavour the vinegar
+            well with the mint.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Tomato Sauce.</head>
+                     <list>
+                        <item>2 Tomatoes.</item>
+                        <item>1 oz. Bacon.</item>
+                        <item>1 small Onion.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Small bit of Carrot and Turnip.</item>
+                        <item>1 dessert-spoonful of Flour.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Cut up the bacon in small bits and fry it. Then
+            add the onion, carrot, and  turnip chopped up, and fry
+            them. Add the tomatoes, cut up in small pieces, and
+            cook for a short time; then add the flour, and cook
+            over the fire. Add a teacupful of stock or water,
+            and a little pepper and salt. Rub the sauce through
+            a fine sieve or strainer, taking care to put the tomatoes
+            through. See that it is not too thick. Make it hot,
+            and use.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Onion or Soubise Sauce.</head>
+                     <list>
+                        <item>1 oz. Butter.</item>
+                        <item><num type="fraction">3/4</num> oz. Flour.</item>
+                        <item><num type="fraction">1/2</num> pint Milk and Water.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>4 Onions.</item>
+                        <item><num type="fraction">1/2</num> teaspoonful Sugar.</item>
+                        <item>Pepper and Salt.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Skin the onions and put them in a sauce-pan of
+            cold water, and bring them to the boil. Drain and
+            wash them, and put them on again in boiling water
+            and a little salt. Boil till tender, perhaps half-an-hour
+            or less. If cut in halves they are more quickly
+            boiled. Chop them up finely. Put the butter and
+            flour in a sauce-pan and mix over the fire; then add
+            the milk and water, and stir till it boils. Add the
+            salt, pepper, and sugar, and the onions. Boil 3 minutes
+            and serve.</p>
+         </div>
+         <div n="95" type="chapter" xml:id="cakes">
+            <head>CAKES AND BAKING.</head>
+            <p>CAKES, buns, biscuits, etc., form pleasant adjuncts to
+            the necessaries of the household, and are only of
+            secondary importance to that of bread baking. They
+            are well worthy of attention, as they can be easily
+            and cheaply made at home.</p>
+            <p>Solid cakes, such as seed, pound, and ginger cakes,
+            require a rather hot oven. It is better to protect the
+            cake with a good many folds of paper in the bottom of
+            the pan and a paper cover on the top, than by putting
+            the cake in a slow oven, to allow the fruit to sink to
+            the bottom, and the cake to become heavy.</p>
+            <p>Light sponge cakes, and all light cakes, must have a
+            quiet oven, as well as all large cakes which contain
+            much baking powder. The lighter the cake is, in
+            general the quieter the oven should be.</p>
+            <p>When baking powder is not to be had, a substitute
+            can easily be made by putting in the required quantity
+            of carbonate of soda and some acid to counteract it.
+            Soda alone is never good in a cake where there is butter
+            or dripping, unless some substance containing acid is
+            along with it. Treacle is one of those substances containing
+            acid. The best carbonate of soda is a decided
+            advantage over the common kind.</p>
+            <p>The following tests for trying the temperature of
+            the oven may be found useful:—</p>
+            <list rend="numbered">
+               <item>If a sheet of paper burns when thrown in, the
+               oven is too hot.</item>
+               <item>When the paper becomes dark brown, it is
+               suitable for pastry.</item>
+               <item>When light brown, it does for pies.</item>
+               <item>When dark yellow, for cakes.</item>
+               <item>When light yellow, for puddings, biscuits, and
+               small pastry.</item>
+            </list>
+            <p>Cakes ought to be baked until they are firm and
+            dry in the middle. It is better to press the fingers
+            on the centre of the cake, and not make an opening
+            with a skewer, until one is pretty sure it is ready.</p>
+            <p>For light cakes the tin may be well greased with
+            dripping and thickly dusted with flour, instead of
+            using paper, but even if paper is used, it ought to
+            be greased and dusted with flour. Flour is a non-conductor
+            of heat, and protects the cake from burning.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Baking Powder.</head>
+                     <list>
+                        <item>2 oz. of Carbonate of Soda.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>2 oz. of Rice Flour.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>2 oz. of Tartaric Acid.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put all the ingredients in a basin and mix them well;
+            then rub the mixture through a sieve or cullender
+            several times to take out the lumps.</p>
+            <p>Put it into a bottle or jelly-can, and keep for use.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Bread.</head>
+                     <list>
+                        <item>3 lbs. of Flour.</item>
+                        <item>1 oz. of German Yeast.</item>
+                        <item>Lukewarm Water.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 teaspoonful of Salt.</item>
+                        <item>1 teaspoonful of Sugar.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put into a basin <num type="fraction">2 1/2</num> lbs. flour, and sprinkle in round
+            the edges a teaspoonful of salt; gather the flour up to
+            the sides of the basin, leaving a hollow in the middle.</p>
+            <p>Put into a smaller basin an ounce of German yeast
+            and a teaspoonful of soft sugar; mix it to a smooth
+            paste with a little lukewarm water as starch is mixed;
+            when quite smooth pour in <num type="fraction">2 1/2</num> breakfast-cupfuls of
+            lukewarm water, and mix thoroughly; now pour all
+            this liquid into the basin of flour, and with a spoon
+            mix it thoroughly. All the flour should be wet, but
+            not in the least sloppy, and it should be the thickness
+            of a good paste. It may be necessary to add a
+            little more water; if so, add it carefully. When
+            the whole is mixed well, knead it a little with the
+            hand, and sprinkle a little flour on the top. Cover
+            the basin with a plate, and put it where it will
+            keep at the same heat, to "rise" for <num type="fraction">1 1/2</num> hours. Then
+            add a little flour to the dough in the basin to help to
+            gather it from the sides, and, still adding a very little
+            flour, punch and knead it well. When the paste is
+            well gathered into a mass, and not sticking to the
+            basin, turn it out on a table and knead it for 10
+            minutes, always adding a little flour—at least half a
+            pound of flour will be added during this kneading
+            process. Divide this paste into 4 loaves, which either
+            make up shaped like cottage loaves and put them on a
+            floured oven plate, or make like pan loaves and put
+            them in shapes floured inside.</p>
+            <p>See the loaves in a warm place to rise for 20 minutes
+            or a quarter of an hour. Then put them into a rather
+            quick oven to bake for about half-an-hour.</p>
+            <p>The quantity of water that is required to make bread
+            depends greatly on the flour used. Fine flour requires
+            more water than coarse, and consequently it makes a
+            larger quantity of bread; but it requires also a little
+            more yeast. The above recipe is for ordinary flour.</p>
+            <p>Yeasts of all kinds require a warm temperature to
+            encourage fermentation, or, in other words, to make
+            them "rise;" consequently, the secret of making bread
+            light is to have everything connected with it warm
+            during the process of baking. Bake in a warm place,
+            set it to rise in a warm place, and from beginning to
+            end of the process let the bread get no chill. Setting
+            the bread to rise on a kitchen fender is not a good
+            plan at all, as the fire always draws a current of air
+            from the door or window, and consequently must chill
+            the outside of the basin with the dough or the loaves
+            when set to rise. The best way is to set them up near
+            the fire and quite out of the draught. The temperature
+            of the oven for baking bread should be about
+            260°</p> <!-- How would I go about denoting temperature? Is it fine to just leave the ° symbol? -->
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Buns with Yeast.</head>
+                     <list>
+                        <item>1 lb. Flour.</item>
+                        <item>1 table-spoonful of Sugar.</item>
+                        <item>1 cup of Milk.</item>
+                        <item><num type="fraction">1/4</num> lb. Currants or Raisins.</item>
+                        <item>1 pinch Salt.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>2 Eggs.</item>
+                        <item>1 dessert-spoonful of Butter.</item>
+                        <item>1 oz. German Yeast.</item>
+                        <item>Flavouring.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Mix in a basin the flour, sugar, salt, and currants:
+            then warm the butter and milk a little, just lukewarm,
+            and mix the yeast smoothly with it; also beat up the
+            eggs and mix them. Pour all into the flour, etc., in
+            the basin, and mix with a spoon till the flour is all
+            wet. More milk may be required, but the flour is to
+            be just wet. When well mixed, set to rise near the fire
+            for half-an-hour, as bread is raised. Then with well-
+            floured hands make the dough up into buns either
+            large or small as required, and place them on a
+            buttered and floured oven tin, and set to rise again
+            for 10 minutes near the fire. then brush the tops
+            over with egg or sugar and water; dust with sugar,
+            and bake for 10 minutes, less or more according to
+            the size.</p>
+            <p>To make hot cross buns, spices, such as cinnamon,
+            mace, and cloves, may be put into those buns and the
+            currants left out, and a cross may be formed on the
+            top. Lemon essence and peel substituted for raisins
+            and currants will increase the variety of the buns.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Gingerbread Cake.</head>
+                     <list>
+                        <item><num type="fraction">1/2</num> lb. Flour.</item>
+                        <item><num type="fraction">1/4</num> lb. Butter.</item>
+                        <item><num type="fraction">1/4</num> lb. Treacle.</item>
+                        <item><num type="fraction">1/4</num> lb. Sugar.</item>
+                        <item><num type="fraction">1/4</num> lb. Raisins.</item>
+                        <item>2 oz. Almonds.</item>
+                        <item>2 Eggs.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item><num type="fraction">1/2</num> teaspoonful Carbonate
+                        of Soda.</item>
+                        <item><num type="fraction">1 1/2</num> teaspoonfuls between
+                        Ground Cinnamon and Cloves.</item>
+                        <item>1 teaspoonful Ground Ginger.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put the flour, carbonate of soda, the spices, raisins
+            stoned, and almonds blanched and split up, into a
+            basin, and mix them well together.</p>
+            <p>Put into a sauce-pan the butter, sugar, and treacle,
+            and bring them to the boil.</p>
+            <p>Beat up the eggs and pour the boiling treacle, etc.,
+            among them, stirring vigorously all the time; pour all
+            in among the ingredients in the basin, and beat up
+            the whole thoroughly. Pour it into a buttered cake
+            tin and bake for about an hour, when the cake should
+            be ready.</p>
+            <p>Almonds are blanced by putting them on in cold
+            water and boiling them a few minutes, then washing
+            them in cold water and rubbing the skins off. they
+            should then be rubbed in a towel and split up.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Ginger Biscuits.</head>
+                     <list>
+                        <item><num type="fraction">1/2</num> lb. Flour.</item>
+                        <item><num type="fraction">1/4</num> lb. Butter.</item>
+                        <item><num type="fraction">1/4</num> lb. Fine Sugar.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 teaspoonful Ground Ginger.</item>
+                        <item>1 Egg.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Rub the butter in among the flour with the fingers;
+            put the sugar and ginger in and mix it; then beat up
+            the egg, and with it make the whole into a firm,
+            smooth paste. Knead the paste well, and roll it out
+            pretty thinly. Cut with a small round cutter into
+            biscuits of the desired size, and put them on a greased
+            oven-shelf to bake till a pale-yellow colour.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Seed Cake.</head>
+                     <list>
+                        <item><num type="fraction">1/2</num> lb. Flour.</item>
+                        <item>6 oz. of Butter.</item>
+                        <item>6 oz. of Sugar.</item>
+                        <item>2 teaspoonfuls of Caraway Seeds.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 teaspoonful of Baking Powder.</item>
+                        <item>3 Eggs.</item>
+                        <item>2 table-spoonfuls of Milk.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put butter and sugar in a basin, and beat them
+            light and white with a wooden spoon; then add the
+            eggs, very well beaten, and the milk. Mix the seeds
+            and the baking powder with the flour, and stir them
+            in. Mix thoroughly, and pour into a prepared tin, and
+            bake till ready in a quiet oven. Carawat seeds are
+            good for dyspeptic people, but in this cake <num type="fraction">1/2</num> lb. of
+            sultanas may be used instead.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>German Sponge Cake.</head>
+                     <list>
+                        <item>6 Eggs.</item>
+                        <item><num type="fraction">1/2</num> lb. Fine Flour.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item><num type="fraction">1/2</num> lb. Fine Sugar.</item>
+                        <item><num type="fraction">1/2</num> teaspoonful Essence of Lemon.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put the eggs and the sugar in a basin, and put them
+            over a sauce-pan with hot water, and beat for about
+            10 minutes with a whisk, till they are creamy. Remove
+            to a table and beat a few minutes longer, till the
+            mixture is a little cool. Then have the flour sifted
+            and a little warm; stir it in very gently with a spoon;
+            add at last the flavouring.</p>
+            <p>Butter a cake-tin and dust it with fine sugar; pour
+            in the mixture, and bake in a very quiet oven till
+            ready—about half-an-hhour, perhaps. This mixture
+            may be put in patty-tins and baked.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Victoria Biscuits.</head>
+                     <list>
+                        <item><num type="fraction">1/2</num> lb. Flour.</item>
+                        <item><num type="fraction">1/4</num> lb. Butter.</item>
+                        <item><num type="fraction">1/4</num> lb. Fine Sugar.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item><num type="fraction">1/2</num> teaspoonful Essence of Vanilla.</item>
+                        <item>1 Egg.</item>
+                        <item><num type="fraction">1/4</num> teaspoonful Carbonate of Soda.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Rub the butter among all the dry ingredients till
+            quite like fine crubs; beat up the egg and add the
+            essence of vanilla; thir this in and moisten lightly with
+            it. Lay it in rough lumps on a greased oven-shel,
+            and a little apart from each other, and bake in a slow
+            oven till ready.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Good Plum Cake.</head>
+                     <list>
+                        <item><num type="fraction">1/2</num> lb. Flour.</item>
+                        <item>4 Eggs.</item>
+                        <item>6 oz. Butter.</item>
+                        <item>6 oz. Pale-yellow Sugar.</item>
+                        <item><num type="fraction">1/2</num> gill of Milk.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 lb. Currants.</item>
+                        <item><num type="fraction">1/4</num> lb. Candied Peel.</item>
+                        <item>2 oz. Almonds.</item>
+                        <item>2 oz. Treacle.</item>
+                        <item><num type="fraction">1/4</num> teaspoonful Carbonate of Soda.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Beat the sugar and butter with a wooden spoon till
+            they are smoothly mixed and light; add the treacle
+            and mix it in; beat up the eggs in a small basin and
+            stir them in a little at a time, beating all the time;
+            then add the milk and mix it.</p>
+            <p>Have the cuttants washed in cold water, dried
+            thoroughly, and picked, and the candied peel cut up in
+            thin slips; stir them in and mix. Mix the carbonate
+            of soda with the flour, and stir it in gently, not
+            beating, but only mixing; pour it into a prepared
+            cake tin, and bake in a slow oven; it will take at least
+            2 hours. It is best not to be cut for a month at least.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>White Cake.</head>
+                     <list>
+                        <item>1 teacupful Butter.</item>
+                        <item>2 teacupfuls Sugar.</item>
+                        <item>3 teacupfuls Flour.</item>
+                        <item>1 teacupful Milk.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>3 Eggs.</item>
+                        <item><num type="fraction">1 1/2</num> teaspoonfuls Baking Powder.</item>
+                        <item>1 teaspoonful Essence of Lemon.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put the sugar and butter into a basin, and with a
+            wooden spoon beat them till they are the thickness of
+            cream; then add the eggs well beaten, and mix in very
+            thoroughly; after which add the milk. Mix the baking
+            powder with the flour, and add it next; then the essence
+            of lemon, and beat the whole thoroughly. Line a cake-tin
+            with buttered paper, into which pour the cake, and
+            bake for an hour or till ready.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Sultana Cake.</head>
+                     <list>
+                        <item><num type="fraction">3/4</num> lb. Flour.</item>
+                        <item><num type="fraction">1/4</num> lb. Sultana Raisins.</item>
+                        <item><num type="fraction">1/4</num> lb. Butter.</item>
+                        <item>1 teaspoonful Essence of Lemon.</item>
+                        <item>6 oz. Sugar.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>2 oz. Orange Peel.</item>
+                        <item>2 Eggs.</item>
+                        <item>1 teaspoonful of Baking Powder.</item>
+                        <item>Milk.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put the flour in a basin, and rub the butter carefully
+            into it. Wash and dry the raisins and add them; then
+            the sugar, the orange peel cut in thin slips, the baking
+            powder, and the essence of lemon, mixing all well.
+            Separate the yolks and whites of the ggs, putting the
+            yolks in a small basin, the whites on a plate; beat the
+            yolks and mix with them a teacupful of milk, and pour
+            this among the ingredients in the basin, which should
+            be just wet like a stiff paste. With a clean knife beat
+            the whites of the eggs up very stiffly, and add them
+            last of all, mixing them gently in; then pour all into a
+            well-greased cake-tin, and bake for <num type="fraction">1 1/2</num> hours; but this
+            time depends on the heat of the oven.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Light Tea Cake.</head>
+                     <list>
+                        <item>1 teacupful Flour.</item>
+                        <item>1 teacupful Sugar.</item>
+                        <item>2 teaspoonfuls Baking Powder.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>3 Eggs.</item>
+                        <item>1 table-spoonful Milk.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Mix in a basin the flour, sugar, and baking powder;
+            then beat up the eggs in a small bowl, and add the
+            milk to them. Stir all quickly, but thoroughly, into
+            the basin, and mix till quite smooth. Have a shallow
+            tin buttered, into which pour the cake, and bake for a
+            quarter of an hour.</p>
+            <p>Cut up the cake in square pieces, or it may be split
+            up, and jam spread inside.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Soda Cake.</head>
+                     <list>
+                        <item><num type="fraction">1/2</num> lb. Flour.</item>
+                        <item><num type="fraction">1/2</num> lb. Vvalencia Raisins (stoned).</item>
+                        <item><num type="fraction">1/2 </num> lb. Currants.</item>
+                        <item><num type="fraction">1/2</num> lb. Brown Sugar,</item>
+                        <item>2 Eggs.</item>
+                        <item><num type="fraction">1/4</num> lb. Orange Peel.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 teacupful of Milk.</item>
+                        <item>2 oz. Butter.</item>
+                        <item>1 teaspoonful Carbonate of Soda.</item>
+                        <item>1 teaspoonful Ground Ginger.</item>
+                        <item>1 teaspoonful Ground Cinnamon.</item>
+                        <item><num type="fraction">1/2</num> Nutmeg (grated).</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put into a basin the flour, sugar, currants, raisins,
+            orange peel, carbonate of soda, the spices, and mix
+            well.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Rock Cakes.</head>
+                     <list>
+                        <item><num type="fraction">1/2</num> lb. Flour.</item>
+                        <item><num type="fraction">1/4</num> lb. Sultana Raisins.</item>
+                        <item>1 large table-spoonful of Sugar.</item>
+                        <item>1 table-spoonful of Butter.</item>
+                        <item>1 Egg.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item><num type="fraction">1 1/2</num> teaspoonfuls of Baking
+                        Powder.</item>
+                        <item>1 teaspoonful of Ground
+                        Ginger.</item>
+                        <item>A little Milk.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
          </div>
          <div type="indexGroup">
             <div type="index" n="1">
