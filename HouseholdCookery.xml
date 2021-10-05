@@ -29,7 +29,7 @@
             <item><ref target="#puddings">Puddings</ref>, . . . . . . . . . . <num>68</num></item>
             <item><ref target="#sauces">Sauces</ref>, . . . . . . . . . . . <num>91</num></item>
             <item><ref target="#cakes">Cakes and Baking</ref>, . . . . . . . . <num>95</num></item>
-            <item><ref>Sick-Room Cookery</ref>, . . . . . . . . <num>109</num></item>
+            <item><ref target="#sickroom">Sick-Room Cookery</ref>, . . . . . . . . <num>109</num></item>
             <item><ref>Beverages</ref>, . . . . . . . . . . <num>115</num></item>
             <item><ref>Preserves</ref>, . . . . . . . . . . <num>123</num></item>
             <item><ref>Miscellaneous</ref>, . . . . . . . . . <num>128</num></item>
@@ -4633,7 +4633,7 @@
             add at last the flavouring.</p>
             <p>Butter a cake-tin and dust it with fine sugar; pour
             in the mixture, and bake in a very quiet oven till
-            ready—about half-an-hhour, perhaps. This mixture
+            ready—about half-an-hour, perhaps. This mixture
             may be put in patty-tins and baked.</p>
             <floatingText>
                <body>
@@ -4828,6 +4828,273 @@
                   </div>
                </body>
             </floatingText>
+            <p>Put into a basin the flour and sugar, among which
+            rub in the butter; add the raisins after being well
+            washed and dried; also the baking powder and ginger,
+            and mix all well together. Beat up an egg well, add
+            to it 2 or 3 table-spoonfuls of milk, and mix; use
+            more milk if necessary, but the ingredients in the basin
+            must be just barely wet. Have an oven-tin greased
+            and warm; with a spoon or fork lift small portions of
+            this mixture, about half the size of an apple, on to the
+            tin, leaving an inch between each. Dust some sugar
+            over, and bake quickly for about 10 minutes.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Tea Cakes.</head>
+                     <list>
+                        <item>1 lb. Flour.</item>
+                        <item>1 large teaspoonful Sugar.</item>
+                        <item>1 small breakfast-cupful Sweet Milk.</item>
+                        <item><num type="fraction">1 1/2</num> teaspoonfuls Baking Powder.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 table-spoonful Butter.</item>
+                        <item>2 Eggs.</item>
+                        <item><num type="fraction">1/4</num> lb. Sultana Raisins.</item>
+                        <item>1 teaspoonful Essence of Lemon.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put into a basin the flour, sugar, baking powder, and
+            raisins, well washed and dried and the sticks picked off
+            and mix them well. Melt the butter, and to it add
+            the milk, which will then be as warm as new milk;
+            beat up the eggs and add them to the milk and butter,
+            then add the essence of lemon. Stir all this liquid
+            among the dry contents of the basin, and with a spoon
+            mix well. The flour should just be wet. Take up a
+            piece; with floured hands make it round, the size of a
+            small saucer, and put it on a greased oven-pan; repeat
+            till all are made up. The cakes should be set 2
+            inches apart on the pan. Take up a little beaten egg,
+            and brush the tops over. Sprinkle some sugar over,
+            and bake in a quick oven for about half-an-hour. A
+            little of the egg in the cakes may be kept out to brush
+            the tops over. These cakes should be quickly made
+            and baked to render them light, and may be brushed
+            over with milk instead of egg.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>London Buns.</head>
+                     <list>
+                        <item>1 lb. Flour.</item>
+                        <item><num type="fraction">1/4</num> lb. Butter.</item>
+                        <item><num type="fraction">1/4</num> lb. Sugar.</item>
+                        <item><num type="fraction">1/4</num> lb. Orange Peel.</item>
+                        <item>3 Eggs.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Butter-milk.</item>
+                        <item>Essence of Lemon.</item>
+                        <item>Lump Sugar.</item>
+                        <item>Baking Powder.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put the flour into a basin with the sugar and <num type="fraction">1 1/2</num>
+            teaspoonfuls of baking powder, and mix all together.
+            Add the butter, and crumble it down till the whole is
+            like bread-crumbs; also add the orange peel cut in
+            dices about the size of a pea. Beat up 3 eggs in a
+            basin, and add them to the other ingredients, keeping
+            back about a table-spoonful, and mix well. Now add
+            a little butter-milk, but only enough to wet the
+            ingredients in the basin, as the paste must be very
+            stiff; use a spoon, and stir till thoroughly mixed and
+            wet. Grease a flat tin and take a piece of the paste,
+            about the size of an egg; roll it round like a ball and
+            place it on the tin, and repeat till all the paste is used
+            up. Use a little flour to keep the hands from sticking.
+            Keep the buns 2 inches apart, and brush the tops
+            over with the egg kept back for this purpose, and put
+            a few pieces of lump sugar, broken in small pieces, on
+            the top of each. Bake in a smart oven for about 15
+            minutes, till they are a nice brown colour and
+            sufficiently cooked.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Shortbread.</head>
+                     <list>
+                        <item>7 oz. Flour.</item>
+                        <item>1 oz. Rice Flour.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item><num type="fraction">1/4</num> lb. Butter.</item>
+                        <item>2 oz. Sugar.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put all on a table, and knead the butter and sugar
+            together, then gradually draw in the flour, kneading
+            well and keeping the lump firm in both hands. When
+            all is worked up into a stiff paste, cut it in 2 or
+            3 pieces, and make each piece round or oval, as
+            desired, and about half an inch thick; pinch the edges,
+            dust some sugar on the top, and place some caraays
+            or slips of candied peel on the top, and bake in a slow
+            oven till they are a nice brown colour. The time
+            depends on the thickness of the cakes—from a quarter
+            to half-an-hour.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Oatmeal Biscuits or Cakes.</head>
+                     <list>
+                        <item>1 breakfast-cupful of Flour.</item>
+                        <item>1 teacupful of Oatmeal.</item>
+                        <item>1 large table-spoonful of Sugar.</item>
+                        <item>1 small table-spoonful of Lard.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item><num type="fraction">1/2</num> teaspoonful Carbonate of Soda.</item>
+                        <item>1 Egg.</item>
+                        <item>A little Cold Water.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Mix in a basin the flour, meal, sugar, and soda, with
+            the lumps well rubbed down. Melt the lard, and beat
+            up the egg with a little water. Pour the hot lard
+            among the dry ingredients, and mix well, then the
+            beaten egg, and just enough water to wet all well.
+            Knead it a little; and roll out quite thinkly; cut in small
+            rounds or quarters of large ones, and bake in the oven
+            for 10 minutes, or till the cakes are a pale-brown
+            colour.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Soda Scones.</head>
+                     <list>
+                        <item>1 lb. Flour.</item>
+                        <item><num type="fraction">1/2</num> teaspoonful Salt.</item>
+                        <item><num type="fraction">1/2</num> teaspoonful Tartaric Acid.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item><num type="fraction">3/4</num> teaspoonful Carbonate of Soda.</item>
+                        <item>Butter-milk.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put the flour in a basin, with the salt, carbonate of
+            soda, and tartaric acid, and mix together. Make it all
+            into a very soft paste with butter-milk; sprinkle
+            plenty of flour on the bake-board, and turn the paste
+            out on it. Roll it less than half an inch thick, and cut
+            with a lid or round cutter. Have a griddle or hot
+            plate, on which place the scones, and bake for 5 minutes
+            on each side.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Cream Scones.</head>
+                     <list>
+                        <item><num type="fraction">1 1/2</num> breakfast-cupfuls of Flour.</item>
+                        <item>Piece of Butter size of egg, or
+                        half that size if cream is used.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 teaspoonful of Sugar.</item>
+                        <item>1 teaspoonful Baking Powder.</item>
+                        <item>1 cup of Sweet Milk or Cream.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put the flour into a basin, with the baking powder
+            and sugar. Add the butter, and rub it in till it is
+            quite powdered in the flour; then make the whole into
+            a paste with the milk. Divide it in 2 pieces. take
+            1 piece and roll it out quite thin and round. Cut the
+            edges smooth and even; then cut in 8, similar to the
+            divisions of a wheel. Have a perfectly clean griddle
+            very warm. Bake about 5 minutes altogether, turning
+            the scones once. If cream can be had instead of the
+            milk, the butter is unnecessary, or only a small bit
+            need be used.</p>
+         </div>
+         <div n="109" type="chapter" xml:id="sickroom">
+            <head>SICK-ROOM COOKERY.</head>
+            <p>SICK nursing is even more essentially women's work
+            than housekeeping, and requires knowledge, combined
+            with tenderness and care, a feeling heart, and skilful
+            hands.</p>
+            <p>Fresh-air is most essential to a sick-room, as many
+            forms of sickness cause the air to become very impure,
+            and impure aire, being lighter than pur, ascends to the
+            roof of the room; therefore let the window be open a
+            little at the top to permit the foul air to escape.
+            A good fire is also necessary in order to keep up
+            the temperature, as well as to induce a current of
+            fresh air.</p>
+            <p>Cleanliness in the arrangement of the room is as
+            essential as fresh air; and in the cooking and serving
+            of food great care ought to be taken that everything
+            is so nicely arraged that the fastidious eye of the
+            invalid may be refreshed and the appetite stimulated.
+            A rustling dress or a heavy foot should never enter a
+            sick room, nor a loud voice be heard. A sick person's
+            nerves are morbidly acute, and trifling noises that
+            would not be noticed in health cause positive pain to
+            an invalid.</p>
+            <p>The food of the sick should be varied as much as
+            possible, and prepared in the very best manner that
+            the materials will admit of. Beef tea particularly 
+            requires skilful preparation, as life and returning
+            health often depend upon it.</p>
+            <p>Nice toast or grated bread may be used with beef
+            tea, as well as other things of the same kind.</p>
+            <p>It may also be coloured a little brown with either
+            ketchup or Harvey sauce to make it look appetising,
+            as what commends itself to the eye is usually more
+            easily digested than what is taken unwillingly, or is
+            repulsive in appearance; at the same time it should
+            be remembered that the body is nourished not by what
+            is eaten, but by what is digested.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Beef Tea—Simple Way.</head>
+                     <list>
+                        <item><num type="fraction">1/2</num> lb. Lean Beef.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Small pinch of Salt.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item><num type="fraction">1 1/2</num> breakfast-cupfuls of Water.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Chop up the beef as finely as possible, and put it
+            into a jelly-can, with the salt and the water, sitrring it
+            with a fork for a few minutes. Cover the jelly-can
+            with a paper, and putit into a sauce-pan containing a
+            little boiling water, and put it on the fire to steam for
+            20 to 30 minutes, with the lid of the pot on; after
+            which strain it through a coarse strainer, or pour it
+            off, holding back the meat with a knife, otherwise the
+            part of the beef tea which is food for the invalid is
+            lost. The very best lean beef should be used for
+            beef tea.</p>
          </div>
          <div type="indexGroup">
             <div type="index" n="1">
