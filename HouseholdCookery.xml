@@ -31,7 +31,7 @@
             <item><ref target="#cakes">Cakes and Baking</ref>, . . . . . . . . <num>95</num></item>
             <item><ref target="#sickroom">Sick-Room Cookery</ref>, . . . . . . . . <num>109</num></item>
             <item><ref target="#bev">Beverages</ref>, . . . . . . . . . . <num>115</num></item>
-            <item><ref>Preserves</ref>, . . . . . . . . . . <num>123</num></item>
+            <item><ref target="#preserves">Preserves</ref>, . . . . . . . . . . <num>123</num></item>
             <item><ref>Miscellaneous</ref>, . . . . . . . . . <num>128</num></item>
             <item><ref>Laundry Work</ref>, . . . . . . . . . <num>129</num></item>
          </list>
@@ -888,9 +888,9 @@
             healthy people and invalids.</p>
             <div n="25" type="section">
                <head>To Fry Fish, Etc.</head>
-               <p>   All fish are fried in a somewhat similar manner, and
+               <p>All fish are fried in a somewhat similar manner, and
                a few general directions may be given.</p>
-               <p>   Fish that are to be fried should be made perfectly
+               <p>Fish that are to be fried should be made perfectly
                dry, and, to accomplish this, must be covered either
                with flour or bread-crumbs. The fat should be perfectly
                hot, <hi rend="italic">i.e.</hi>, at the temperature of at least <num>345°</num> Fahr. This
@@ -906,9 +906,8 @@
                put them on a cloth or coarse paper before the fire to
                drain. Those rules of the heat of fat refer to all kinds
                of frying, fritters, etc.</p>
-               <floatingText>
-                  <body>
-                     <div>
+               
+               <div>
                         <list>
                            <item>3 Small Whittings or
                            Haddocks.</item>
@@ -920,9 +919,7 @@
                            <item>Pepper and Salt.</item>
                            <item>Lard or Dripping.</item>
                         </list>
-                     </div>
-                  </body>
-               </floatingText>
+                     
                <p>   Have nice fresh haddocks or whitings; wash and
                fry them well, and rub them with a little flour in which
                is mixed some pepper and salt; beat up an egg on a
@@ -942,9 +939,9 @@
                may be served with them. Haddocks are the better of
                being skinned; but the skin of whiting is very delicate,
                and does not require to be removed</p>
-               <floatingText>
-                  <body>
-                     <div>
+                  </div>
+               <div>
+                  
                         <head>Fish Puddding.</head>
                         <list>
                            <item>1 lb. Fish.</item>
@@ -956,9 +953,7 @@
                            <item>1 Egg.</item>
                            <item>Pepper and Salt.</item>
                         </list>
-                     </div>
-                  </body>
-               </floatingText>
+               
                <p>   Take any remains of boiled fish; carefully remove
                the flesh from the bones, and cut it up into small dice,
                and have equal bulk of mashed potatoes. Put both
@@ -972,7 +967,7 @@
                cakes. Flour them well outside. Put a table-spoonful
                of dripping in a frying pan to get quite hot; put in a
                few cakes at a time to fry a brown colour on both sides.
-               Then drain and serve. They are a breakfast dish.</p>
+               Then drain and serve. They are a breakfast dish.</p></div>
                <floatingText>
                   <body>
                      <div>
@@ -5354,7 +5349,7 @@
             <floatingText>
                <body>
                   <div>
-                     <head>Lemondade.</head>
+                     <head>Lemonade.</head>
                   </div>
                </body>
             </floatingText>
@@ -5596,6 +5591,335 @@
             it to cool, and bottle for use.</p>
             <p>This syrup is delightful, and will keep for any
             length of time.</p>
+            <p>It may be used either with water or potash water.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Orange Syrup.</head>
+                     <list>
+                        <item>8 Valentia Oranges.</item>
+                        <item><num type="fraction">3 1/2</num> lbs. Sugar.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 oz. Citric Acid.</item>
+                        <item>6 breakfast-cupfuls Water.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>This syrup is made precisely in the same way as the
+            lemon syrup, with this exception that the rind of only 4
+            of the oranges is used. The rind must be pared very
+            thinly. The oranges are best in December and January
+            for making this syrup, when the fruit is heavy and sour.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Raspberry or Strawberry Syrup.</head>
+                     <list>
+                        <item>2 lbs. Raspberries or Strawberries.</item>
+                        <item><num type="fraction">1 3/4</num> lbs. White Sugar.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 oz. Citric Acid.</item>
+                        <item><num type="fraction">1 1/2</num> breakfast-cupfuls Water.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Mix the citric acid and the water together, and pour
+            both over the fruit; let it stand thus for 24 hours, and
+            strain it through a jelly-bag. Now add the sugar, and
+            dissolve it over the fire, or merely allow it to stand for
+            a day till quite dissolves. When cold, bottle for use.</p>
+            <p>Syrups may be made from different varieties of fruit
+            in a similar manner to the foregoing, and, if well corked,
+            will keep for years.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Raspberry Vinegar.</head>
+                     <list>
+                        <item><num type="fraction">2 1/2</num> lbs. Raspberries.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 bottle Vinegar.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Sugar.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put the raspberries in a basin and pour over them
+            the vinegar, bruising the berries well with a spoon;
+            allow it to stand thus for 2 or 3 days. Strain it
+            then through a jelly-bag without pressure, and to each
+            breakfast-cupful of juice allow half a pound of white
+            sugar. After boiling for 5 minutes, skim it, and when
+            quite cold, bottle it for use.</p>
+            <div n="120" type="section">
+               <head>Tea.</head>
+               <p>Much has been said and written regarding the uses
+               of tea. Without presuming to discuss its effects
+               upon the system, we may remark that it is certainly
+               possible to abuse the use of tea, as many other blessings
+               are abused. Many men and women, however, tired in
+               brain or body, have gratefully acknowledged the
+               blessings and comfort of "a cup of tea." Tea contains
+               a volatile oil, which has a peculiar effect upon the
+               nerves, reviving the body, and driving away drowsiness;
+               while at the same time it has a soothing effect on
+               the heart and circulation, and is thus beneficial in
+               removing nervous headaches. It also contains a
+               peculiar substance called theine, which Liebig says
+               "plays a part in the nourishment of the body." IT
+               causes perspiration, and weak tea is useful on that
+               account to persons suffering from cold. Tea is nearly
+               always acceptable to invalids, to whom it is extremely
+               refreshing. It can also be used as a means of conveying
+               nourishment when necessary, such as a well-beaten
+               egg in addition to milk or instead of it.</p>
+               <p><hi rend="bold">To Make Tea Well.</hi>—The teapot should be perfectly
+               clean and hot. The water should be soft, as hard
+               water will spoil the best tea. If the kettle boils for
+               any length of time, the water becomes hard, and consequently
+               does not make good tea. Have the teapot
+               hot, put in the quantity of tea desired, and immediately
+               the kettle boils infuse it. The time required for infusing
+               must be judged by the quality of the tea. It
+               sometimes requires 10 minutes, sometimes only 5 to
+               make it good. On no account should it boil or infuse
+               a long time, as in that case it is no better than stewed
+               tea leaves. The quantity of tea used must be judged
+               also by the quality of the tea and the strength required.
+               The traditional teaspoonful to each person and one over
+               for the teapot is a very fair proportion. The abuse of
+               tea consists in taking it too frequently, too strong,
+               and too hot; and in all these cases it has a pernicious effect.</p>
+               <p>An excellent mode of using tea, which is becoming
+               common, and is particularly acceptable for invalids, is
+               to make it in the usual way, but not too strong, and to
+               each breakfast-cupful of tea add a very thin slice of a
+               small lemon. Allow it to stand a few minutes; then
+               sweeten and use it.</p>
+            </div>
+            <div n="121" type="section">
+               <head>Coffee.</head>
+               <p>Coffee has mor nutritive powers than tea, and is to
+               most people not so stimulating. Taken very strong it
+               is a stimulant; but generally it has a sedative effect
+               on the nerves, and is on that account good to take
+               late in the evening.</p>
+               <p>Coffee is best when newly roasted and ground, and
+               cannot be really good unless it is so. Only those who
+               can procure such can secure the proper flavour of
+               coffee.</p>
+               <p>Have a perfectly clean and dry coffee-pot. Make it
+               hot, and put in the coffee in the proportion of 1
+               table-spoonful to 2 breakfast-cupfuls of boiling
+               water, and allow it to infuse for 10 minutes. Pour out
+               a cupful and pour it quickly back again, and allow it
+               to stand by the fire a minute or two longer; then pour
+               it out for use. The milk ought to be boiled before
+               being put into the coffee, as boiled milk imparts a
+               peculiarly pleasant flavour to the coffee. Coffee should
+               never be boiled, only infused, and the best white sugar
+               used, as coarse sugar spoiled the flavour.</p>
+               <p>As it is sold frequently mixed with chicory, the
+               adulteration can easily be discovered by putting a
+               little of the mixture in a glass of cold water. If
+               there is chicory, it colours the water red and sinks to
+               the bottom of the glass, whereas pure coffee floats on
+               the top.</p>
+            </div>
+            <div n="122" type="section">
+               <head>Cocoa.</head>
+               <p>Cocoa is a very nourishing beverage, and very suitable
+               for those persons of nervous temperament for whom
+               tea or coffee is too stimulating. It is sometimes found
+               to be a little indigestible through nourishing.</p>
+               <p>Put 2 teaspoonfuls of cocoa in a breakfast-cup, and
+               moisten it with a little cold milk or water; then fill up
+               the cup with boiling milk and water in about equal
+               proportions; stir well, and sweeten to taste. Cocoa is
+               very much adulterated, and, indeed, to such an extent,
+               that prepared cocoa is frequently sold at a cheaper rate
+               than the nibs can be procured at. For this reason
+               many persons use cocoa nibs, which must be bruised
+               and boiled for about 3 or 4 hours; then the floating
+               fat removed from the top. It yields a very pleasant
+               and much lighter beverage than the other.</p>
+            </div>
+            <div>
+               <p>Water which has been boiled for any length of time
+               should not be used for any kind of food or drink, as
+               long boiling causes the water to lose its gases, and its
+               mineral substances get deposited on the bottom and
+               sides of the kettle, making the water insipid and less
+               nourishing.</p>
+            </div>
+         </div>
+         <div n="123" type="chapter" xml:id="preserves">
+            <head>PRESERVES.</head>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Gooseberry Jam.</head>
+                     <list>
+                        <item>4 lbs. Gooseberries.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>4 lbs. Sugar.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Pick the stalks and stems from the gooseberries, and
+            wash them well. Put them on in a preserving pan
+            with the sugar, half a pint of currant juice or water,
+            and stir frequently till boiling. Allow them to boil
+            for a quarter of an hour; then skim and fill the pots.</p>
+            <p>Raspberry, damson, and black currant jams are
+            made in the same way as gooseberry.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Gooseberry Jelly.</head>
+                     <list>
+                        <item>4 lbs. Gooseberries.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item><num type="fraction">1/2</num> lb. Red Currants.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Sugar.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Wash the gooseberries and currants, and put them
+            in a preserving pan with 4 breakfast-cupfuls of water;
+            bring it to boiling point, and after boiling gently for 5
+            minutes, pour all into a pointed flannel jelly-bag, and
+            allow it to drain quite dry.</p>
+            <p>Measure the juice, and to each pint of juice add 1 lb.
+            of sugar; put the pan on the fire, and stir frequently
+            till it boils, allowing it to boil for 10 minutes; then
+            skim and pot.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Apple Jelly.</head>
+                     <list>
+                        <item>4 lbs. Apples.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 Stalk Rhubarb.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Sugar.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Wipe and quarter the apples, remove the stalks and
+            the seeds; wipe the rhubarb, and cut it up in pieces;
+            put all on in a preserving pan with 4 breakfast-cupfuls
+            of water, and boil gently for a quarter of an hour, or
+            till the apples are quite a mash; pour it then into a
+            pointed jelly-bag, and allow it to drain without pressure.
+            Measure the juice, and to each pint add 1 lb.
+            of sugar; put the preserving pan on the fire, and bring
+            to the boil, stirring frequently. Boil for a quarter of
+            an hour, after which skim and pot.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Red Currant Jelly.</head>
+                     <list>
+                        <item>4 lbs. Currants.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 lb. Raspberries.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>Sugar.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Pick the larger stalks and leaves from the currants
+            and raspberries, and wash the currants in cold water.
+            Put all on in a jelly-pan with 4 breakfast-cupfuls of
+            water, and allow them to heat gradually to boiling
+            point, stirring frequently; then let them boil gently for
+            about 10 minutes.</p>
+            <p>Pour the whole into a pointed flannel jelly-bag to
+            drain till all the juice has run out without pressure.</p>
+            <p>Measure the juice, and to each pint allow 1 lb. of
+            sugar, and add half a pound more. Put this on the
+            fire, and stir frequently till it boils; allow it to boil
+            for 5 minutes, then skim and pot.</p>
+            <p>Three black currant leaves added to this quantity
+            and boiled with the currants at first, give a fine
+            flavour; in that case, leave out the raspberries.</p>
+            <p>The currants may be put in the pan again with a
+            little more water and heated; then squeezed through
+            a coarse linen cloth, and boiled in the same way with
+            sugar, which makes a secondary kind of jelly.</p>
+            <div>
+               <p>A pint is 2 very small breakfast-cupfuls.</p>
+               <p>Crystallised sugar is best for preserves.</p>
+               <p>The best way to pot preserves is to have clean pots
+               quite ready; papers cut the proper size, with the name
+               of the preserve written thereon; and a little common
+               paste made. Have the papers rubbed round with
+               paste, and as each jar is filled, let the paper be <hi rend="italic">instantly</hi>
+               put on, when it may be wiped and stored past. If not
+               <hi rend="italic">instantly</hi> covered, then they must stand till quite cold.</p>
+            </div>
+            <div>
+               <floatingText>
+               <body>
+                  <div>
+                     <head>Strawberry Jam.</head>
+                     <list>
+                        <item>4 lbs. Strawberries.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>4 lbs. Sugar.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+               <p>Pick the strawberries nicely, and put some of them
+               in a deep basin; springle sugar pretty thickly over
+               them; then repeat strawberries and sugar till all are
+               used up, and allow them to stand thus for 24 hours.
+               There will be a good deal of liquid in the basin, which
+               pour off into the preserving pan, and bring to boiling
+               point, stirring frequently; then add the strawberries,
+               and boil for 20 minutes; after which skim and pot.</p>
+               <p>Some varieties of strawberries do very well to be
+               picked and put on at once with the sugar; in that
+               case, an improvement is to put on with the strawberries
+               and sugar a cupful of currant or other fruit
+               juice, or even water, to moisten the sugar, as the fruit
+               gets too much broken when all is dry at first.</p>
+            </div>
          </div>
          <div type="indexGroup">
             <div type="index" n="1">
@@ -5841,7 +6165,7 @@
                            <item>Green, to Boil, . . . 59</item>
                            <item>Green Peas, to Boil, . . 60</item>
                            <item>Haricot Beans Boiled,. . 62</item>
-                           <item>Leeksm to Boil, . . . 65</item>
+                           <item>Leeks to Boil, . . . 65</item>
                            <item><seg xml:id="pars">Parsnips,</seg> to Boil,. . . 66</item>
                            <item><seg copyOf="#pars">"</seg> to Mash, . . 66</item>
                            <item><seg xml:id="potat">Potatoes,</seg> to Boil, . . 63</item>
