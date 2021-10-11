@@ -32,8 +32,8 @@
             <item><ref target="#sickroom">Sick-Room Cookery</ref>, . . . . . . . . <num>109</num></item>
             <item><ref target="#bev">Beverages</ref>, . . . . . . . . . . <num>115</num></item>
             <item><ref target="#preserves">Preserves</ref>, . . . . . . . . . . <num>123</num></item>
-            <item><ref>Miscellaneous</ref>, . . . . . . . . . <num>128</num></item>
-            <item><ref>Laundry Work</ref>, . . . . . . . . . <num>129</num></item>
+            <item><ref target="#misc">Miscellaneous</ref>, . . . . . . . . . <num>128</num></item>
+            <item><ref target="#laundry">Laundry Work</ref>, . . . . . . . . . <num>129</num></item>
          </list>
          </div>
          <div n="7" type="intro" xml:id="intro">
@@ -941,7 +941,6 @@
                and does not require to be removed</p>
                   </div>
                <div>
-                  
                         <head>Fish Puddding.</head>
                         <list>
                            <item>1 lb. Fish.</item>
@@ -968,7 +967,8 @@
                of dripping in a frying pan to get quite hot; put in a
                few cakes at a time to fry a brown colour on both sides.
                Then drain and serve. They are a breakfast dish.</p></div>
-               <floatingText>
+               <div>
+                  <floatingText>
                   <body>
                      <div>
                         <head>Boiled Haddock or Cod.</head>
@@ -995,7 +995,9 @@
                after it is boiled spoils it; dish it on napkin with some
                parsley to garnish, and serve with melted butter in a
                sauceboat, separately.</p>
-               <floatingText>
+               </div>
+               <div>
+                  <floatingText>
                   <body>
                      <div>
                         <head>Baked Haddock.</head>
@@ -1027,7 +1029,9 @@
                crumbs over, and put it in the oven to bake for
                half-an-hour. It must be frequently basted with fresh
                dripping while baking. Serve with melted butter.</p>
-               <floatingText>
+               </div>
+               <div>
+                  <floatingText>
                   <body>
                      <div>
                         <head>To Stew Fish.</head>
@@ -1060,7 +1064,9 @@
                Skate (which stews very well) takes <num>20</num> minutes, or
                even longer; but, in general, <num>10</num> minutes is quite enough
                time. Serve with the sauce over the fish.</p>
-               <floatingText>
+               </div>
+               <div>
+                  <floatingText>
                   <body>
                      <div>
                         <head>Salt Fish, to Cook.</head>
@@ -1092,7 +1098,9 @@
                the fire; then add a breakfast-cupful of milk, and stir
                till it boils; add the chopped up egg, and mix. Pour
                the whole over the fish, and serve.</p>
-               <floatingText>
+               </div>
+               <div>
+                  <floatingText>
                   <body>
                      <div>
                         <head>Salt Fish Pie.</head>
@@ -1127,7 +1135,9 @@
                marking it neatly. Put the pie into an oven for three-
                quarters of an hour, or on a toaster in front of the fire,
                to brown the potatoes nicely.</p>
-               <floatingText>
+               </div>
+               <div>
+                  <floatingText>
                   <body>
                      <div>
                         <head>Baked Herrings.</head>
@@ -1161,6 +1171,7 @@
                and cook at the side of the fire, or in the over, for half-
                an-hour. The herrings may be served in the dish in
                which they are cooked. They are good either hot or cold</p>
+               </div>
             </div>
             <div n="30" type="section">
                <head>Fried Fresh Herrings.</head>
@@ -1203,8 +1214,8 @@
             <head>To Stew and Roast.</head>
             <p>FOR the cooking of all meat which is not to be made
             into soup, but either stewed, roasted, or broiled, one
-            rule, without exception, applies—namely, that the out-
-            side of the meat be quickly subjected to strong heat,
+            rule, without exception, applies—namely, that the outside
+            of the meat be quickly subjected to strong heat,
             in order to shut up all the pores, after which a slower
             porcess of cooking should be proceeded with, such
             as suits each particular kind of meat.</p>
@@ -1268,8 +1279,8 @@
             cooked, as in that case it gets dry and indigestible.</p>
             <p>Pork takes a longer time, either to roast or fry, than
             other flesh; and it should always be well cooked, as
-            when underdone it is very disagreeable and unwhole-
-            some. White flesh of all kinds, either of animals or
+            when underdone it is very disagreeable and unwholesome. 
+            White flesh of all kinds, either of animals or
             fowls, takes a lot longer time than brown, and requires
             to be more thoroughly cooked.</p>
             <floatingText>
@@ -1300,8 +1311,8 @@
             dripping, and let it get quite hot; then fry the pieces
             of tail all round in it, and lift them out when done.
             Pour out the fat that remains, and return the pieces
-            of tail to the pan with the onion chopped up, <num>2</num> break-
-            fast-cupfuls of water, and the ketchup, and stew
+            of tail to the pan with the onion chopped up, <num>2</num> breakfast-
+            cupfuls of water, and the ketchup, and stew
             gently for an hour-and-a-half. Cut the carrot and
             turnip into very neat pieces, add them, and stew three-
             quarters of an hour longer.</p>
@@ -1414,8 +1425,8 @@
             turkey's egg; roll this neatly into each piece of steak
             and tie it up with string. Each piece should be very
             neatly shaped.</p>
-            <p>Put into a stew-pan a dessert-spoonful of nice drip-
-            ping, and when it has got quite hot, fry the pieces of
+            <p>Put into a stew-pan a dessert-spoonful of nice dripping,
+            and when it has got quite hot, fry the pieces of
             meat in it. Pour off any dripping that remains, and
             put into the pan a cupful and a half of water, and
             allow it to stew for a quarter of an hour; then add
@@ -1449,15 +1460,15 @@
             closely on the pot, and let it stew slowly for three-
             quarters of an hour.</p>
             <p>Take a nice, firm cabbage, wash it, remove the
-            withered leaves, and cut it into 8 pieces length-
-            ways, like the divisions of an orange; place the
+            withered leaves, and cut it into 8 pieces lengthways,
+            like the divisions of an orange; place the
             cabbage in water; peel 6 potatoes and cut them in
             slices half an inch thick, and place them also in the
             water. When the meat has stewed for three-quarters
             of an hour, lift the cabbage, dripping with water, and
             the potatoes, and pack both round the meat; sprinkle
-            over them a teaspoonful of salt and haf a teaspoon-
-            ful of pepper, replace the lid closely and quickly,
+            over them a teaspoonful of salt and haf a teaspoonful 
+            of pepper, replace the lid closely and quickly,
             and stew for three-quarters of an hour. It must be
             cooked slowly, else it will burn. The whole is cooked
             by steam, and is a most delicious as well as profitable
@@ -1718,13 +1729,13 @@
             in the middle, put in some water in the dish for gravy,
             and then make the crust as follows:—</p>
             <p>Beat up an egg on a plate; put on a board half
-            a pound of flour, quarter pound of butter, half a tea-
-            spoonful baking-powder; mix the baking-powder with
+            a pound of flour, quarter pound of butter, half a teaspoonful 
+            baking-powder; mix the baking-powder with
             the flour; chop the butter into pieces the size of a nut
             among the flour; now pour about a gill of water in the
             middle of the flour, and the half of the egg; with these
-            make it up into a stiff paste, which roll out length-
-            ways, keeping the edges as straight as possible and
+            make it up into a stiff paste, which roll out lengthways,
+            keeping the edges as straight as possible and
             about a quarter of an inch thick; fold this piece in
             three, turn it round, and roll lengthways again; fold in
             three, turn it round, and roll once more. This time it
@@ -1794,8 +1805,8 @@
             about 4 or 5 lbs.; take all the marrow from the bone,
             cut it in little bits, and put in a stew-pan on the
             fire. After the marrow has become quite hot, put in
-            the piece of meat and fry it brown all round, par-
-            ticularly at the ends, to shut up the pores of the meat;
+            the piece of meat and fry it brown all round, particularly
+            at the ends, to shut up the pores of the meat;
             when quite well fried, pour off any remains of fat in
             the pot, and add a pint of water; put the lid closely on,
             and allow it to stew <hi rend="italic">very</hi> slowly for an hour; now add
@@ -1803,8 +1814,8 @@
             onions halved. Allow all to stew for an hour-and-a-
             half longer. Slow stewing makes the muscles of the
             shin to swell and become very tender; but if cooked
-            too fast, this piece of meat is spoiled. This is a profit-
-            able as well as a very nice dish, if stewed <num type="fraction">2 1/2</num> or 3
+            too fast, this piece of meat is spoiled. This is a profitable
+            as well as a very nice dish, if stewed <num type="fraction">2 1/2</num> or 3
             hours. Put the meat on a dish with the vegetables
             round, and the gravy poured over.</p>
             <p><hi rend="italic">N.B.</hi>—Care must be taken that the gravy does not dry
@@ -1944,8 +1955,7 @@
                      <head>Kidney Pudding.</head>
                      <list>
                         <item>3 Mutton Kidneys.</item>
-                        <item>2 teacupfuls of Bread-
-                        crumbs.</item>
+                        <item>2 teacupfuls of Bread-crumbs.</item>
                         <item>1 teaspoonful of Suet.</item>
                         <item>1 teacupful of Milk.</item>
                      </list>
@@ -2297,8 +2307,8 @@
             middling-sized stew-pan; cut up the carrot and turnip
             in small pieces, and sprinkle them over the meat, and
             also the onion, chopped finely; then pepper and salt
-            to taste. Pour in water to cover the meat and vege-
-            tables; set the stew-pan on the fire, and bring to the
+            to taste. Pour in water to cover the meat and vegetables;
+            set the stew-pan on the fire, and bring to the
             boil.</p>
             <p>Put into a basin the flour and suet chopped very
             finely, and rub them together; add a pinch of salt and
@@ -2330,8 +2340,8 @@
             </floatingText>
             <p>Chop up the cooked meat and the onion (also
             cooked) very finely, and season with pepper and salt.</p>
-            <p>Mash the potatoes smoothly, and add to them a tea-
-            spoonful of butter or dripping melted, then whisk
+            <p>Mash the potatoes smoothly, and add to them a teaspoonful
+            of butter or dripping melted, then whisk
             them over the fire to dry.</p>
             <p>Turn the whole out on the table, and add as much
             flour as the potatoes will take up, and roll the potato
@@ -2567,8 +2577,8 @@
                them well. Take each sprout and trim the stalk,
                cutting off any withered leaves on the outside, and put
                them in a basin of clean cold water. Have plenty
-               of boiling water (salted), and small pinch of car-
-               bonater of soda in it; drain the sprouts, and put
+               of boiling water (salted), and small pinch of carbonater
+               of soda in it; drain the sprouts, and put
                them in the pot to boil, with the lid off, for about 10
                minutes; drain them in a cullender, and return them
                to the pot with half an ounce of butter and a little
@@ -3744,7 +3754,7 @@
                      </list>
                   </div>                  
                </body>
-            </floatingText><!-- How would I go about continuing this piece without the indented div? Or does the indent not impact it? -->
+            </floatingText>
                <p>Put into a basin a teacupful of flour (which is a
                quarter of a lb.), and add the salt to it.</p>
                <p>Beat up the egg well, and add to it a small breakfast-
@@ -4471,7 +4481,7 @@
             when set to rise. The best way is to set them up near
             the fire and quite out of the draught. The temperature
             of the oven for baking bread should be about
-            260°</p> <!-- How would I go about denoting temperature? Is it fine to just leave the ° symbol? -->
+            260°</p>
             <floatingText>
                <body>
                   <div>
@@ -5196,13 +5206,8 @@
             dish, and bake for a quarter of an hour, or steam gently
             about half-an-hour till it gets firm.</p>
             <p>This is a very nourishing dish for the sick.</p>
-            <floatingText>
-               <body>
-                  <div>
-                     <head>Flour for Infants' Food.</head><!-- Would this be okay to leave like this? Since it becomes its own section for a bit I'm not sure if I should do a section part or just leave it as a header. -->
-                  </div>
-               </body>
-            </floatingText>
+            <div>
+               <head>Flour for Infants' Food.</head>
             <p><hi rend="bold">To Boil.</hi>—Fill a breakfast-cup or small bowl quite
             full with flour, using the knuckles to press it down
             tightly. Tie a cloth over the top and plunge it in a
@@ -5216,7 +5221,8 @@
             <p>Baking or boiling the flour prevents it becoming acid
             on the stomach, and it is more nourishing for infants
             than corn flour. It should be prepared as corn flour is.</p>
-            <floatingText>
+            </div>
+            <div><floatingText>
                <body>
                   <div>
                      <head>Milk Jelly.</head>
@@ -5240,8 +5246,8 @@
             and gently simmer for 2 hours longer. Sweeten with
             the sugar, then strain and pour it into a shape to get
             cold.</p>
-            <p>This is most nourishing for children or invalids.</p>
-            <floatingText>
+            <p>This is most nourishing for children or invalids.</p></div>
+            <div><floatingText>
                <body>
                   <div>
                      <head>Egg Drink.</head>
@@ -5260,8 +5266,8 @@
             the milk and pour it boiling on the egg, stirring vigorously
             all the time.</p>
             <p>This is a most invigorating and strengthening drink,
-            and should be taken when hot.</p>
-            <floatingText>
+            and should be taken when hot.</p></div>
+            <div><floatingText>
                <body>
                   <div>
                      <head>Apple Fool.</head>
@@ -5282,8 +5288,8 @@
             sponge cake crumbled up, and 1 egg well beaten.
             Whisk all together with a fork, stir over the fire
             till it gets hot; then dish it nicely, and use either
-            hot or cold.</p>
-            <floatingText>
+            hot or cold.</p></div>
+            <div><floatingText>
                <body>
                   <div>
                      <head>Suet and Milk.</head>
@@ -5299,8 +5305,8 @@
             </floatingText>
             <p>Boil the milk and suet together for 10 minutes, and
             strain; add either a teaspoonful of sugar or a small
-            pinch of salt. This is excellent for a weak chest.</p>
-            <floatingText>
+            pinch of salt. This is excellent for a weak chest.</p></div>
+            <div><floatingText>
                <body>
                   <div>
                      <head>Arrowroot.</head>
@@ -5324,14 +5330,9 @@
             water is preferable. It is made into a small pudding
             by the addition of 1 well-beaten egg stirred in and
             baked for a quarter of an hour.</p>
-            <p>Arrowroot is best not to be boiled.</p>
-            <floatingText>
-               <body>
-                  <div>
-                     <head>Gruel.</head><!-- Same question here as with the "Flour for Infants' Food" section. -->
-                  </div>
-               </body>
-            </floatingText>
+            <p>Arrowroot is best not to be boiled.</p></div>
+            <div>
+               <head>Gruel.</head>
             <p>Put in a small basin a table-spoonful of Scotch oatmeal,
             and after wetting it with a very little cold water,
             pour over it a pint of boiling water or milk, stirring
@@ -5342,7 +5343,7 @@
             It may be sweetened with honey, sugar, treacle, or
             may be flavoured with salt or a small piece of butter,
             but should be taken very hot.</p>
-                  
+            </div>
          </div>
          <div n="115" type="chapter" xml:id="bev">
             <head>BEVERAGES.</head>
@@ -5364,7 +5365,7 @@
             <floatingText>
                <body>
                   <div>
-                     <head>Lemondade, without Lemon.</head>
+                     <head>Lemonade, without Lemon.</head>
                      <list>
                         <item>1 oz. Cream of Tartar.</item>
                         <item>2 oz. Sugar.</item>
@@ -5920,6 +5921,635 @@
                juice, or even water, to moisten the sugar, as the fruit
                gets too much broken when all is dry at first.</p>
             </div>
+            <div>
+               <head>To Bottle Gooseberries.</head>
+               <p>Make a syrup with 2 breakfast-cupfuls of water
+               and 1 lb. of sugar; boil this together for 5 minutes,
+               and pour it into a basin. Have the gooseberries, before
+               they are quite ripe, gathered in the morning; pick the
+               tops and tails carefully, so as not to break the fruit
+               the least, and fill clean dry bottles with them. Then
+               fill the bottles with the syrup. Cork them tightly,
+               and tie the corks over with string.</p>
+               <p>Put them in a sauce-pan with some hay in the
+               bottom to prevent the bottles breaking; fill the sauce-pan
+               with cold water, put on the lid, and put it on the
+               fire till it comes to boiling point; lift off the fire, and
+               stand till the water is nearly cold.</p>
+               <p>See then that the corks are tight; cover them with
+               sealing wax, and put away. These are excellent for
+               use in winter. If they are ready, they will have risen
+               about an inch from the bottom of the bottle.</p>
+               <p>Currants are preserved in the same way, but must
+               not be quite so long on the fire.</p>
+            </div>
+            <div>
+               <floatingText>
+                  <body>
+                     <div>
+                        <head>Orange Marmalade.</head>
+                        <list>
+                           <item>4 lbs. Bitter Oranges.</item>
+                           <item>5 lbs. Crystallised Sugar.</item>
+                        </list>
+                        <cb/>
+                        <list>
+                           <item>2 Lemons.</item>
+                           <item>Water</item>
+                        </list>
+                     </div>
+                  </body>
+               </floatingText>
+               <p>Wipe the oranges with a hard cloth, and pare the
+               yellow part of the rind very thinly off, and cut it up
+               in extremely slender chips; then put those chips on
+               in a small sauce-pan, with 2 breakfast-cupfuls of
+               water, to boil slowly for half-an-hour.</p>
+               <p>Remove all the skin from the oranges, break the
+               pulp up a good deal, and put it in a jelly-pan with 5
+               breakfast-cupfuls of water to boil gently for half-an-
+               hour, sitrring occasionally; then pour all this into a
+               pointed flannel bag, and let it drain thoroughly.</p>
+               <p>Put all the liquid thus obtained, the chips, the liquid
+               in which they were boiled, and 5 lbs. of sugar, on in a
+               clear jelly-pan; stir, and allow it to boil for a quarter
+               of an hour; then skim and pot.</p>
+            </div>
+            <div>
+               <floatingText>
+                  <body>
+                     <div>
+                        <head>Candied Peel.</head>
+                        <list>
+                           <item>Skins of 6 Oranges or Lemons.</item>
+                        </list>
+                        <cb/>
+                        <list>
+                           <item>1 lb. Crystallised.</item>
+                        </list>
+                     </div>
+                  </body>
+               </floatingText>
+               <p>Put the skins in salt and water to soak for a few
+               days; then put them on in a sauce-pan; with fresh cold
+               water, to boil till they are quite soft, which is known
+               by the head of a pin being easily put in. Remove
+               them from the sauce-pan, drain, and put them in a
+               basin. Boil a pound of sugar and a breakfast-cupful
+               of water for a few minutes, and pour it over the peel in
+               the basin, and allow it to stand thus for about a week.
+               Pour the syrup into the sauce-pan and allow it to boil
+               up; put the peel in and let it boil gently till it looks
+               clear, which will be in about a quarter of an hour or
+               20 minutes. Take it out and spread it on a dish, put
+               a little of the syrup in the hollows, dust some fine
+               sugar over, and put it in the sun or a warm place till
+               dry and candied. When dry, put away in a jar.</p>
+            </div>
+            <div>
+               <head>Bramble Jelly.</head>
+               <p>Gather the brambles in a dry weather if possible.
+               Pick them, and put them into a jelly-pan.</p>
+               <p>To about 4 lbs. of brambles, put 1 lb. apples, cut up
+               in small bits. The apples had better be washed, and
+               need not be pared. Put them in the jelly-pan with
+               the brambles; add as much cold water as covers all
+               the fruit. Boil this gently for perhaps 15 or 20
+               minutes, till all the fruit is quite a pulp. Put it into
+               a pointed jelly bag, and allow it to drip perhaps all
+               night. Measure the juice then, and to each pint add
+               1 lb. sugar; boil from 10 to 15 minutes, and put in
+               jars.</p>
+            </div>
+         </div>
+         <div n="128" type="chapter" xml:id="misc">
+            <head>MISCELLANEOUS.</head>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Porridge.</head>
+                     <list>
+                        <item>1 teacupful of Oatmeal.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item><num type="fraction">3/4</num> teaspoonful of Salt.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>3 breakfast-cupfuls of Water.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put the water in a clean pot, and when it boils stir
+            the oatmeal very gradually in among it, and allow it
+            to boil very gently for half-an-hour, stirring frequently;
+            then sprinkle the salt in and boil for 10 minutes longer;
+            dish in a plate or bowl.</p>
+            <p>If porridge is preferred rather thick, a little more
+            meal may be used.</p>
+            <floatingText>
+               <body>
+                  <div>
+                     <head>Omelette.</head>
+                     <list>
+                        <item>1 table-spoonful Flour.</item>
+                        <item>1 table-spoonful Sugar.</item>
+                        <item>2 Eggs. 1 pinch of Salt.</item>
+                     </list>
+                     <cb/>
+                     <list>
+                        <item>1 teacupful Milk.</item>
+                        <item>A few drops of Essence of Lemon.</item>
+                     </list>
+                  </div>
+               </body>
+            </floatingText>
+            <p>Put the flour, sugar, and salt into a basin, and mix
+            them together; then put the yolks of the eggs into a
+            bowl, stir them till they are a little light, and add the
+            milk to them. Add both gradually to the flour in the
+            basin, taking care to prevent it getting into lumps.
+            Beat the whites to snow, and add them gently
+            with the essence to the rest of the mixture. Melt a
+            piece of butter the size of a walnut in a frying-pan;
+            then pour in all the mixture, and hold it over a very
+            gentle fire for 10 minutes or a quarter of an hour, till
+            set and well risen; then hold it in front of the bars to
+            brown the top, or bake it in an oven for a quarter of
+            an hour.</p>
+         </div>
+         <div n="129" type="chapter" xml:id="laundry">
+            <head>LAUNDRY WORK.</head>
+            <div n="129" type="section">
+               <head>To arrange for the actual Washing.</head>
+               <p><hi rend="bold">Preparation.</hi>—The family linen must be looked over
+               the day before the washing, and people in Scotland
+               usually prefer Tuesday to be that very important day—
+               first, because it is best to the washing early in
+               the week, so that is all finished and put away before
+               Saturday; second, because it better to have Monday
+               to look out and mend the clothes, soak, remove stains,
+               etc., and of course that cannot be done if we wash on
+               Monday, as Saturday is too far away, and the clothes
+               would lie too long if soaked on Saturday; and Sunday,
+               of course, is out of the question.</p>
+               <p>There is a Scotch saying that only lazy wives wash
+               on Saturday. That may or may not be true—as a rule
+               it is not desirable.</p>
+               <p>First, melt some soap, and have it ready. Second,
+                  look out all the flannel articles to be washed—worsted
+               stockings, under-garments, etc.; give them all a good
+               shaking to remove dust, and put them by themselves.
+               Then gather together prints that are not fast colours,
+               and put them aside dry; they much not be soaked:
+               then lace, silk, fine sewed work, etc.; put them also
+               aside.</p>
+               <p>We come now to body clothing and bed linen. This
+               class requires some explanation, so that a teacher or
+               hoursewife may thoroughly understand her business.
+               All garments that have touched the skin at all have
+               some grease on them when they are soiled, because the
+               pores of the skin are constantly giving out grease and
+               refuse from the body. The is the case with all human
+               beings alive. Now <hi rend="italic">cold water has no effect upon grease
+               whatever</hi>—it simply makes the garment blacker—and
+               the object of washing is to make the article clean
+               without injury to the fabric, and with as small a
+               proportion of labour as possible.</p>
+               <p>We must also repeat that <hi rend="italic">rubbing</hi> causes the most
+               tear and wear; naturally that is only commonsense, as
+               it is rubbing that wears out anything, so if we must
+               rub linen a great deal we wear it in proportion.</p>
+               <p>We therefore soak body linen and bed linen in <hi rend="italic">hot</hi>
+               water, in which we put melted soap and a little washing
+               powder. The water should be quite hot, and to
+               about 2 gallons add 1 large table-spoonful of washing
+               powder. Put in body and bed linen—the finer in one
+               tub, the more soiled in another—and leave them so all
+               night. The clothes ought to soak a few hours at least.
+               Washing powder has the property of extracting grease
+               and dirt, and so saves rubbing and labour.</p>
+               <p>Pocket handkerchiefs are best dealt with separately,
+               unless when very little soiled, in which case they can
+               be soaked with the finer body clothes. When influenza
+               or a bad cold is prevalent in the hourse, the pocket
+               handkerchiefs used by the patient are full of germs,
+               and must not be put among the linen of the household,
+               or certainly the disease will spread. They should be
+               sprinkled over with plenty of slat, then immersed in
+               cold water, and allowed to lie so for a few hours.
+               Then wash out, and afterwards wash by themselves in
+               the usual way. You will thus remove the germs.
+               The body clothes of the same patient had better be
+               put into cold water at the bedroom door with some of
+               the best disinfectant among the water, and afterwards
+               washed like the handkerchiefs.</p>
+               <p>Blinds, window-curtains very much soiled, counterpanes,
+               etc.—anything, in fact, that has been exposed
+               to dust or smoke—must be put in plenty of cold
+               water to soak for some hours, for cold water washes
+               off the soot and dust, keeping them hard till they are
+               washed off, whereas hot water turns the dust speedily
+               into mud, and simply soils and discolours the article.</p>
+               <p>Kitchen towels and dusters should be soaked and
+               washed in the different waters previously used for the
+               body and table linen. This is done to use up and save
+               needless waste. A sensible mistress or maid shows her
+               good sense and capacity for her situation by economy
+               in this department as in all others, so as to secure the
+               best results with the least expenditure of time and
+               money.</p>
+            </div>
+            <div n="131" type="section">
+               <head>Washing.</head>
+               <p>If possible, 1 or 2 hours ought to be added to the
+               day at the beginning of the washing day, to prevent
+               the wheels of the household machinery getting out of
+               gear before the day is over, and prevent the bread-
+               winners from feeling unnecessary discomfort.</p>
+               <p>First light the boiler fire and fill the boiler; then
+               make and take a cup of tea, which is the best and a
+               necessary refreshment before starting hard work at an
+               early hour. By this time the water is warm. If the
+               day be dry, it is best to wash the flannels first, as
+               they must be dried quickly, and are best dried in the
+               open air.</p>
+               <p><hi rend="bold">To Wash Flannel.</hi>—Prepare two tubs, into which
+               put warm or tepid, but <hi rend="italic">not hot</hi>, water. Add to this, in
+               the first water, a large table-spoonful of melted soap
+               and a dessert-spoonful of ammonia; but only add the
+               ammonia when you are quite ready to begin to use
+               the water. Into the second tub put less soap, and if
+               the flannels are not quite dirty, do not add ammonia.</p>
+               <p>Ammonia is an alkali which helps quickly to remove
+               grease and dirt, and does not leave the flannel hard, as
+               it evaporates.</p>
+               <p>Having had your flannel well shaken out, put one
+               article at a time into the first water, and wash it
+               quickly. It must not be rubbed with soap or with the
+               hand, but dumped up and down and moved about
+               under the hands, as rubbing makes the fibres and wool
+               of the flannel go into a hard thick mass and shrink.
+               The only parts that should be rubbed are any cotton
+               bands or button-holes; these may require to be rubbed
+               with soap and with the hands also.</p>
+               <p>When the first washing is finished, put the same
+               garment into the second water, wash quickly, and
+               wring out. A wringer is of great benefit to flannels,
+               as twisting the flannel in the process of wringing has
+               been found to make it shrink. A wringer is, therefore,
+               a valuable utensil in the laundry. If the flannel
+               be clean and nice, shake out very well, fold and clap,
+               and leave in the fold for 5, but not more than 10,
+               minutes. If not quite clean, put through a third
+               tepid water with scarcely any soap and no ammonia.
+               Repeat this process, putting only one article into the
+               water at a time.</p>
+               <p>Flannels should be hung out in warm sunshine or,
+               at least, on a bright day, and dried very quickly. If
+               such an atmosphere is not to be had, then hang up
+               near a good fire and dry quickly. It makes flannels
+               thick and hard to leave them long damp.</p>
+               <p>While the garments are drying, take them down
+               and shake well, if possible between two persons; at all
+               events shake two or three times during the process of
+               drying, and hang up again. If the garment be a
+               knitted one, then pull it into shape backwards and forwards,
+               here and there, and hang up again, putting the
+               peg in a different place each time. Thus you will keep
+               the flannel soft and woolly, which is as it ought to be.</p>
+               <p>Coloured flannels must be quickly washed in the
+               same way, and if the colour is suitable, a little vinegar
+               may be added to the last warm water, as it fastens
+               and brightens certain colours.</p>
+               <p><hi rend="bold">Stockings.</hi>—All flannel garments and stockings
+               ought to be washed on the right side in the first water,
+               then, in the second, turned outside in and washed
+               again. Stockings may have soap rubbed on heels and
+               toes, otherwise soap should not be rubbed; then wring
+               out across the stocking—that is, roll it up from the toe
+               to the top, and wring so. When turned and washed
+               in the second water, wring, shake out, fold, and clap.</p>
+               <p>New flannels are generally a little more troublesome
+               to wash, and require care, else they are never quite
+               nice. There is a good deal of sulphur used in finishing
+               flannel for the market, and this sulphur makes water
+               so hard that it quite counteracts an ordinary amount
+               of saponine matter in soap.</p>
+               <p>One plan is to soak flannel in cold water, which
+               certainly extracts some of the sulphur, but that plan
+               is very troublesome, and not a very good one for large
+               articles, such as blankets, etc. The best plan is to rub
+               the article over with melted soap—that is, take melted
+               soap in the hand and rub it over the suface of the
+               garment; then make a lather with rather hotter water
+               than for other flannel, plenty of melted soap, and a
+               little washing powder, which, being an alkali, counteracts
+               the effect of the sulphur; wash the flannel quickly
+               in this (be sure to get the lather to rinse), and there
+               will be no more difficulty with the flannel. Finish
+               exactly like other flannels.</p>
+               <p><hi rend="bold">To Wash Prints.</hi>—Prints require great care in
+               washing, or they will lose their colour and look very
+               bad. Prints with fast colours should be washed thus:—
+               Put enough melted soap in warm, but not at all hot,
+               water; have a second water ready with a little melted
+               soap—also warm. There must be no alkali at all.
+               Wash the article quickly in the first water, and then
+               in the second. Then rinse thoroughly, fold, clap, and
+               hang up to dry. Repeat this till all are finished.
+               Prints with doubtful colours are washed the same
+               way in the first two waters. Into the rinsing water
+               put a handful of salt, which helps to fasten the
+               colour. If the water looks dirty in the case of black
+               prints, repeat the rinsing again and again until it
+               looks clean.</p>
+               <p>If blue, green, pink, and red prints put vinegar in
+               the rinsing water, which brightens those colours. If
+               the print is desired stiff, make some hot-water starch.
+               and starch it while wet. Turn the wrong side out, and
+               hang up in the air, but not in the sun, as the sun takes
+               the colour out. Take down before dry, sprinkles
+               with water those parts that require damping, fold, and
+               clap ready for ironing. Iron with a hot iron on the
+               right side.</p>
+               <p>The linings of body and sleeves of a dress ought to
+               be ironed first, then sleeves and body, and finish with
+               the skirt, which requires a skirt-board to do it well.
+               The skirt-board is put between two tables, and the
+               dress hung over it.</p>
+               <p><hi rend="bold">To Wash Lace.</hi>—Lace requires great care and nicety
+               in washing. In the first place, good lace should on no
+               account be rubbed or even squeezed. It may be laid
+               in a lather of melted soap and warm water, put near
+               the fire, and allowed to heat, by which means the dirst
+               is extracted—the water being changed now and again;
+               soapy water and placed in the sun. The sun extracts
+               the dirt and bleaches the lace. When clean, rinse the
+               same way without rubbing or squeezing. Then put
+               into a little very thin starch, press between the folds
+               of a towel, and proceed to iron.</p>
+               <p>Place the lace on an ironing-table with the wrong
+               side up; put a piece of muslin across it, and go over it
+               once or twice with a c ool iron. Then take off the
+               muslin, and, beginning at the right hand side, pick out
+               all the edges and slightly iron the lace. A hot iron
+               will make it too stiff, nd a heavy iron will flatten it
+               too much. It ought to be lightly ironed, and the edges
+               and other parts nicely picked out. If you pull it
+               gently from side to side and slightly press it, you can
+               make old lace look quite new again.</p>
+               <p>Tatting may be easily dressed, but it must simply
+               be left in water by the fire until it is clean,
+               and never touched with the hand, or it will be
+               impossible to pick out the loops. When rinsed
+               and starched, fold it in a towel, and proceed to iron
+               it like lace.</p>
+               <p><hi rend="bold">To Wash Crewel Work.</hi>—Crewel work, sewed
+               worsted work, and embroidery with silk or coloured
+               wools that have many colours, require the utmost care
+               in washing, else some of the colours will fade and the
+               work be spoiled.</p>
+               <p>Soap containing an alkali which will extract colour,
+               so for these materials we use bran, which has a soapy
+               substance sufficient for the purpose, but no alkali.</p>
+               <p>Have the bran prepared, and enough warm water
+               added for the purpose. Have two basins or tubs with
+               bran water, and a third with clean, cold water. Wash
+               quickly through each water, and, when finished and
+               tightly rung out, fold, clap, and hang up to dry. Do
+               each article all through and then begin another, as
+               allowing it to lie damp an instant loosens the colour.
+               If the piece of work is very dirt, a little melted soap
+               may be added, but it is better not if it can be avoided.
+               Into the rinsing water put a little vinegar if the
+               colours are blue, green, pink, or red. Vinegar
+               restores and brightens those colours. When nearly
+               dry, proceed at once to iron.</p>
+               <p>NEVER touch wool work or silk with an iron on the
+               right side. The piece of work may be ironed on the
+               wrong side, and afterwards on the right side, with a
+               muslin between the work and the iron.</p>
+               <p>Cretonnes have so many bright colours that they are
+               best washed in the same way, only they should be
+               ironed on the right side. There is enough starch in the
+               bran to render them stiff enough.</p>
+               <p><hi rend="bold">Paraffin Washing.</hi>—This method of washing has
+               been much spoken against, and has a few disadvantages,
+               but it has also many advantages, both to the clothes
+               and in saving labour in families where there is much
+               work. The only clothes that can be washed in this
+               way are white cotton or linen, as it would spoil the
+               colour of prints.</p>
+               <p>Fill an ordinary boiler rather less than half-full—
+               say about 2 gallons of water; put in a quarter of a
+               pound of a yellow soap cut up into thin shavings, and
+               1 large table-spoonful of paraffin. Let them boil up.
+               Then shake out the clothes and put them in dry,
+               pushing them down with a stick. When as many are
+               in as can conveniently be covered by the water, let all
+               boil for half-an-hour, pressing the clothes at intervals
+               down with the stick. Take them out into a tub with
+               cold water; wash through this, then through another
+               water; rinse, blue, and finish in the usual way.</p>
+               <p>Put coarser articles into the boiler, to which add
+               more soap and paraffin.</p>
+               <p>The precautions necessary are, that the water in the
+               boiler must be really boiling before the clothes go in;
+               and it must be kept in ebullition, as paraffin is an oil
+               and floats on the top, and will be apt to discolour the
+               clothes. Also, care must be taken when putting it in,
+               for if it gets into the the fire it will blaze dangerously.
+               Finally, plenty of water must be used to rinse, so that
+               the smell be removed.</p>
+               <p>Paraffin soap is now made, and serves much the same
+               purpose as a cleansing agent, and of course is not in
+               danger of blazing by contact with fire; but it seems
+               to have no other advantage.</p>
+               <p><hi rend="bold">Washing of White Clothes.</hi>—We have already
+               treated on the sorting of the clothes. We now proceed
+               to have them washed. They were to be soaked either
+               since the evening, or at all events for some time. Now
+               we add to the soaking water enough hot water out of
+               the boiler to make it quite hot. Proceed to wash them
+               out. It will be found very easy, and you had better
+               not use a rubbing or washing, because that, like
+               all rubbing, wears the fabric. Also, do not rub your
+               hands, but hold the cloth in such a way that cloth rubs
+               on cloth, and not on your bare hands. When this is
+               finished, prepare another water with very little melted
+               soap in it, and pretty warm. Wash the clothes through
+               this, and before boiling give them a good rinse in
+               a tub with plenty of clean, cold water; wring out,
+               and they are ready for the boiler. It is very good and
+               necessary to rinse the clothes (it need only be a rough
+               rinse) before boiling them, because it takes all the
+               dirty water away. If any remaints, it is apt to boil
+               into them and discolour them. Repeat this process
+               with the coarser articles, and finally use up the soapy
+               water to soak and wash out kitchen towels and dusters.</p>
+               <p><hi rend="bold">To Boil White Clothes.</hi>—Put about 3 gallons of
+               water in the boiler, and add 2 table-spoonfuls of melted
+               soap and 1 dessert-spoonful of paraffin. Let this all
+               boil up; put in the finest clothes to fill the boiler, press
+               them down with a stick, and allow them to boil for
+               half-an-hour. The water must be boiling when the
+               clothes go in, and be kept boiling, else the paraffin will
+               stain. This quantity of either paraffin or turpentine
+               is excellent for cleansing—whitening and disinfecting—
+               and does no harm whatever. After the boiling is
+               finished, take the out into cold water, rub out, rinse
+               again in more water, and the clothes are ready to blue.</p>
+               <p>If fine muslins or many small articles are to be
+               boiled, they might with advantage be put in a bag, as
+               they are apt to get torn when being taken from the
+               boilers.</p>
+            </div>
+            <div n="139" type="section">
+               <head>Starching.</head>
+               <p>There are two different ways of making starch, and
+               it is just a question of convenience and sustainability
+               which would be used.</p>
+               <p>One kind is called boiled starch, or boiling-water
+               starch; the other cold-water starch. Now it is only
+               when starch of any kind comes to boiling heat that it
+               has any stiffening property whatever; therefore, in the
+               one case the stiffening property is brought out by the
+               boiling water, in the other case the stiffening property
+               is only brought out by the heat of the iron. So it is
+               plain that a good hot iron serves the purpose of cooking
+               the starch, and so bringing out its stiffening
+               properties.</p>
+               <p>It will be quite plain that all articles that are heavy,
+               or that are wanted to be very stiff, or where a very
+               hot iron can be used, are better starched with cold-
+               water starch. In the case of lace, or fine muslin, or
+               sewed muslin, or any article that should be flexible
+               and not very stiff, a hot iron would not do at all, and
+               so the starch woul not be cooked, but would have a
+               floury appearance, because the starch granules would
+               not be cooked.</p>
+               <p>For much the same reason articles starched with
+               cold-water starch must not be allowed to dry, as
+               of course a hot iron could not cook or stiffen dry
+               starch; it requires moisture as well as heat. Then
+               fine, thin goods had better have hot-water starch,
+               and firm goods, that require to be very stiff, cold
+               water.</p>
+               <p>Cold-water starch may be made any stiffness to suit
+               the article.</p>
+               <p>A good way to make this starch for ordinary
+               purposes it to put 2 teacupfuls of water and 1 teaspoonful
+               of borax to each table-spoonful of starch.
+               Mix all thoroughly and use. If too stiff for
+               the purpose required, add a little more water to
+               reduce it.</p>
+               <p>The following will be found an excellent recipe for
+               cold-water starch for collars, shirts, etc.:—</p>
+               <floatingText>
+                  <body>
+                     <div>
+                        <list>
+                           <item>3 table-spoonfuls Starch.</item>
+                           <item>1 large teacupful Cold Water.</item>
+                           <item>1 teaspoonful Borax.</item>
+                        </list>
+                        <cb/>
+                        <list>
+                           <item>1 teaspoonful Melted White
+                           Curd Soap.</item>
+                           <item>1 dessert-spoonful Turpentine.</item>
+                        </list>
+                     </div>
+                  </body>
+               </floatingText>
+               <p>Scrape down a little white curd soap, put it in a
+               small, clean jar, and add as much water as will cover
+               it. Put the jar near the fire, or in a sauce-pan with a
+               little boiling water, and leave near the fire till the
+               soap is melted. It may be kept in this jar, covered
+               over, for future use.</p>
+               <p>Now put the starch in a basin, add to it the cold
+               water, and mix with a spoon till quite smooth. It
+               requires to be well stirred, as not the smallest lump
+               must remain. Then put into the teacup the borax
+               and melted soap, and mix with them rather more than
+               half-a-teacupful of boiling water; mix this thoroughly
+               and add to the contents of the basin. Lastly add the
+               turpentine, and mix.</p>
+               <p>This starch is excellent, and just the proper stiffness
+               for shirts, collars, and cuffs. Care must be taken,
+               however, to measure the different ingredients very
+               carefully, else it will not come right.</p>
+               <p>Also remember that the article that is starched with
+               this starch must be <hi rend="italic">wet</hi>. If the article were dry, it
+               would be much too stiff.</p>
+               <p><hi rend="bold">Cold-water Starch</hi> is often made by soaking the
+               starch in cold water several days before it is to be
+               used. It may be made thus:—</p>
+               <p>Take any quantity of starch you wish, and put it in
+               a jar suffieciently large. Cover it with plenty of cold
+               water, and leave it for several days, or even a week or
+               two. It ought to be covered carefully, both with cloth
+               and lid, to exclude all dust.</p>
+               <p>When the starch is to be used, pour off all the water 
+               that may be on the top, and take of the starch 1
+               table-spoonful; put this in a basin and add to it 1
+               breakfast-cupful of cold water, and thoroughly mix
+               them; dissolve 1 teaspoonful of borax and 1 teaspoonful
+               of turpentine in a quarter-teacupful of boiling
+               water; add this to the contents of the basin, and use.</p>
+               <p>The advantage of thus soaking the starch beforehand
+               is this, that it gives it plenty of time to dissolve,
+               and so becomes very smooth and nice. What starch
+               remains in the jar should have plenty more cold water
+               poured on, and be left till again required, and used in
+               the same way.</p>
+               <p>Starch is often old, or long kept and dry, and is
+               therefore difficult to dissolve. Care must always be
+               taken to dissolve it thoroughly.</p>
+               <p><hi rend="bold">To Starch a Shirt.</hi>—Turn the right side out, then
+               gather up the breast and collar neatly in the left
+               hand, dip it in clean cold water, and wring it out.
+               This is to make the part to be starched wet, as the
+               rest of the shirt must dry, else it would not iron at
+               once. Do the smae to the cuffs. Then dip breast and
+               collar in the starch, and give a little rub with the
+               right hand to make the starch go well into it, and then
+               wring out. Next do the very same to the cuffs.
+               Afterwards give a little dry rub to the breast and
+               cuffs, or else take a bit of muslin damped and rub
+               over, in case of rough starch remaining. Wring dry
+               in a towel; fold the shirt up, doubling the breast and
+               spreading out the cuffs, and roll tightly up for a few
+               minutes, when it ready for ironing. If one has a
+               number of shirts, just do them all over, and then begin
+               to iron the first one.</p>
+               <p>All the other articles with which cold-water starch is
+               used must be done practically in the same way, and
+               ironed before they can get dry. If such articles cannot
+               be ironed quite at once, then roll them all up in a wet
+               towel to keep them damp, but they are best ironed at
+               once.</p>
+               <p><hi rend="bold">To Iron a Shirt.</hi>—Take it out of the fold, and iron
+               the back of the sleeve first, then the front, nicely;
+               then the cuff; gloss the cuff and curl it round; do the
+               same to the other sleeve. Now iron the shoulder,
+               taking care not to touch the breast or collar. Next
+               iron the collar. Iron it well, and make it quite dry;
+               now double the back from the button on the collar to
+               the middle of the shirt; iron first on side, then the
+               other; then spread out the shirt on the table, fron
+               uppermost, and iron all the unstarched parts. Put in
+               the shirt-board under the starched breast of the shirt,
+               and iron the upper side first. The iron must be hot
+               and clean. It is best to iron from the front of the
+               breast towards the sides, and the iron must be brought
+               neatly round the edge at the collar; then iron the
+               under side in the same way.</p>
+            </div>
          </div>
          <div type="indexGroup">
             <div type="index" n="1">
@@ -6196,17 +6826,6 @@
                      </div>
                   </body>
                </floatingText>
-	    <table>
-           	<row role="label"><cell>Beverages</cell><cell>page</cell></row>
-              	<row>
-                  <cell>Apple Water</cell>
-                  <cell>117</cell>
-               </row>
-               <row>
-                  <cell>Barley Water</cell>
-                  <cell>116</cell>
-               </row>
-            </table>
             </div>
          </div>
       </body>
