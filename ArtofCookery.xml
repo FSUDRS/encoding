@@ -1,0 +1,1683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Art of Cookery, Made Plain and Easy</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Cookbooks and herbals</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>TO THE READER.</head>
+                <p><hi rend="italic"><hi rend="bold">I</hi> Believe I have attempted a Branch of Cookery, which Nobody
+                has yet thought worth their while to write upon: But as I
+                have both seen, and found by Experience that the Generality
+                of Servants are greatly wanting in that Point, therefore I have
+                taken upon me to instruct them in the best Manner I am capable;
+                and, I dar say, that every Servant who can but read will be
+                capable of making a tolerable good Cook, and those who have the
+                least Notion of Cookery, can't miss of being very good ones.</hi></p>
+                <p><hi rend="italic">If I have not wrote in the high, polite Stile, I hope I shall be
+                forgiven; for my Intention is to instruct the lower Sort, and
+                therefore must treat them in their own Way. For example;
+                when I bid them lard a Fowl, if I should bid them lard with
+                large Lardoons, the would not know what I meant: But when
+                I say they must lard with little Pieces of Bacon, they know
+                what I mean. So in many other Things, in Cookery, the great
+                Cooks have such a high Way os expressing themselves, that the
+                poor Girls are at a Loss to know what they mean: And in all
+                Receipt Books yet printed, there are such an odd Jumble of
+                Things as would quite spoil a good Dish; and indeed some Things
+                so extravagant, that it would be almost a Shame to make Use of
+                them, when a Dish can be made full as good, or better, without
+                them. For Example; when you entertain ten or twelve People,
+                you shall use for a Cullis, a Leg of Veal and a Ham; which,
+                with the other Ingredients, makes it very expensive, and all this
+                only to mix with other Sauce. And again, the Essence of a Ham
+                for Sauce to one Dish; when I will prove it for about three Shillings
+                I will make as rich and high a Sauce as all that will be;
+                when done. For Example; take a large deep Stew-pan, Half a
+                Pound of Bacon, Fat and Lean together, cut the Fat and lay it
+                over the Bottom of the Pan; then take a Pound of Veal, cut it
+                into thin Slices, beat it well with the Back of a Knife, lay it
+                all over the Bacon; then have six Penny-worth of the coarse lean
+                Part of the Beef cut thin and well-beat, lay a Layer of it all
+                over, with some Carrot, then the Lean of the Bacon cut thin and
+                laid over that; then cut two Onions and strew over, a Bundle of
+                Sweet Herbs, four or five Blades of Mace, six or seven CLoves, a
+                Spoonful of Whole Pepper, Black and White together, Half a
+                Nutmeg beat, a Pigeon beat all to Pieces, lay that all over, Half
+                an Ounce of Truffels and Morels, then the rest of your Beef, a
+                good Crust of Bread toasted very brown and dry on both Side:
+                You may add an old Cock beat to Pieces; cover it close, and let it
+                stand over a slow Fire two or three Minutes, then pour in boiling
+                Water enough to fill the Pan, cover it close and let it stew
+                till it is as rich as you would have it, and then strain off all that
+                Sauce. Put all your ingredients together again, fill the Pan with
+                boiling Water, put in a fresh Onion, a Blade of Mace, and a 
+                Piece of carrot; cover it close, and let it stew till it is as strong as
+                you want it. This will be full as good as the Essence of a Ham
+                for all Sorts of Fowls, or indeed most Made-Dishes, mixed with
+                a Glass of Wine, and two or three Spoonfuls of Catchup. When
+                your first Gravy is cool, skim off all the Fat, and keep it for Use.
+                This falls far short of the Expence of a Leg of Veal and a Ham,
+                and answers every Purpose you want.</hi></p>
+                <p><hi rend="italic">If you go to Market, the Ingredients will not come to above
+                Half a Crown; or, for about Eighteen-pence you may make as
+                much good Gravy as will serve twenty People. Take twelve Penny-worth
+                of coarse lean Beef, which will be six or seven Pounds, cut
+                it all to Pieces, flour it well, take a Quarter of a Pound of good
+                Butter, put it into a little Pot or large deep Stew-pan, and put
+                in your Beef; Keep stirring it, and when it begins to look a little
+                Brown, pour in a Pint of boiling Water; stir it together, put in
+                a large Onion, a Bundle of Sweet Herbs, two or three Blades of
+                Mace, five or six Cloves, a Spoonful of Whole Pepper, a Crust of
+                Bread toasted, and a Piece of Carrot; then pour in four or five
+                Quarts of Water, stir all together, cover close, and let it stew till
+                it is as rich as you would have it; when enough, strain it off, mix
+                with it two or three Spoonfuls of Catchup, and Half a Pint of
+                White Wine, then put all the Ingredients together again, and put
+                in two Quarts of boiling Water, cover it close and let it boil till
+                there is about a Pint; strain it off well, add it to the first, and
+                give it a boil all together. This will make a great deal of rich
+                good Gravy.</hi></p>
+                <p><hi rend="italic">You may leave out the Wine, according to what Use you want
+                it for; so that really one might have a genteel Entertainment, for
+                the Price the sauce of one Dish comes to: But, if Gentlemen will
+                have</hi> French <hi rend="italic">Cooks, they must pay for</hi> French <hi rend="italic">Tricks.</hi></p>
+                <p><hi rend="italic">A</hi> Frenchman, <hi rend="italic">in his own Country, would dress a fine Dinner of
+                twenty Dishes, and all genteel and pretty, for the Expence he will
+                put an</hi> English <hi rend="italic">Lord to for dressing one Dish. But then there is
+                the little petty Profit. I have heard of a Cook that used six Pounds
+                of Butter to fry twelve Eggs; when every Body knows (that understands
+                Cooking) that Half a Pound is full enough, or more than
+                need be used: But then it would not be</hi> French. <hi rend="italic">So much is the
+                blind Folly of this Age, that they would rather be impos'd on by a</hi>
+                French <hi rend="italic">Booby, than give Encouragement to a good</hi> English <hi rend="italic">Cook!</hi></p>
+                <p><hi rend="italic">I doubt I shall not gain the Esteem of those Gentlement: However,
+                let that be as it will, it little concerns me; but should I be
+                so happy as to gain the good Opinion of my own Sex, I desire no
+                more, that will be a full Recompence for all my Trouble: And I
+                only beg the Favour of every Lady to read my Book throughout
+                before they censure me, and then I flatter myself I shall have
+                their Approbation.</hi></p>
+                <p><hi rend="italic">I shall not take upon me to meddle in the physical Way farther
+                than two Receipts, which will be of Use to the Publick in
+                general: One is for the Bite of a Mad Dog; and the other, if a
+                Man should be near where the Plague is, he shall be in no Danger;
+                which, if made Use of, would be found of very great Service
+                to those who go Abroad.</hi></p>
+                <p><hi rend="italic">Nor shall I take upon me to direct a Lady in the Oeconomy of
+                her Family, for every Mistress does, or at least ought to know,
+                what is most proper to be done there; therefore I shall not fill my
+                Book with a deal of Nosense of that Kind, which I am very
+                well assur'd none will have Regard to.</hi></p>
+                <p><hi rend="italic">I have indeed given some of my Dishes</hi> French <hi rend="italic">Names to distinguish
+                them, because they are known by those Names: And where
+                there is great Variety of Dishes and a large Table to cover, so there
+                must be Variety of Names for them; and it matters not whether
+                they be called by a</hi> French, Dutch, <hi rend="italic">or</hi> English <hi rend="italic">Name, so
+                they are good, and done with as little Expence as the Dish will
+                allow of.</hi></p>
+                <p><hi rend="italic">Nor shall i take upon me to direct a Lady how to set out her
+                Table; for that would be impertinent, and lessening her Judgment
+                in the Oeconomy of her Family. I hope she will here find
+                every Thing necessary for her Cook, and her own Judgment will
+                tell her how they are to be placed. Nor indeed do I think it
+                would be pretty to see a Lady's Table set out, after the Directions
+                of a Book.</hi></p>
+                <p><hi rend="italic">I shall say no more, only hope my Book will answer the Ends
+                I intend it for; which it to improve the Servants, and save the
+                Ladies a great deat of Trouble.</hi></p>
+            </div>
+            <div>
+                <head>THE CONTENTS.</head>
+                <div>
+                    <head>CHAP. I.</head>
+                    <p><hi rend="italic">Of Roasting, Boiling, Etc.</hi></p>
+                    <list>
+                        <item>BEEF   2</item>
+                        <item>Mutton and Lamb   ib.</item>
+                        <item>Veal   ib.</item>
+                        <item>Pork   3</item>
+                        <item>To roast a Pig   ib.</item>
+                        <item>Different Sorts of Sauce for a Pig   4</item>
+                        <item>To roast the Hind-Quarter of a Pig, Lamb Fashion   ib.</item>
+                        <item>To bake a Pib   ib.</item>
+                        <item>To melt Butter   5</item>
+                        <item>To roast Geese, Turkies, and c   ib. </item>
+                        <item>Sauce for a Goose   ib.</item>
+                        <item>Sauce for a Turkey   ib.</item>
+                        <item>Sauce for Fowls   ib.</item>
+                        <item>Sauce for Ducks   ib.</item>
+                        <item>Sauce for Pheasants and Partridges   ib.</item>
+                        <item>Sauce for Larks   ib.</item>
+                        <item>To roast Woodcocks and Snipes   6</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To roast a Pigeon   6</item>
+                        <item>To broil a Pigeon   ib.</item>
+                        <item>Directions for Geese and Ducks   ib.</item>
+                        <item>To roast a Hare   ib.</item>
+                        <item>Different Sorts of Sauce for a Hare   7</item>
+                        <item>To broil Steaks   ib.</item>
+                        <item>Directions concerning the Sauce for Steaks   8</item>
+                        <item>General Directions concerning Broiling   ib.</item>
+                        <item>General Directions concerning Boiling   ib.</item>
+                        <item>To boil a Ham   ib.</item>
+                        <item>To boil a Tongue   ib.</item>
+                        <item>To boil Fowls and House-Lamb   9</item>
+                        <item>Sauce for boil'd Turkey   ib.</item>
+                        <item>Sauce for a boil'd Goose   ib.</item>
+                        <item>Sauce for boiled Ducks or Rabbits   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To roast Venison   10</item>
+                        <item>Different Sorts of Sauce for Venison   ib.</item>
+                        <item>To roast Mutton, Venison Fashion   ib.</item>
+                        <item>To keep Venison or Hare sweet, or the make them fresh when they stink   ib.</item>
+                        <item>To roast a Tongue or Udder   11</item>
+                        <item>To roast Rabbits   ib.</item>
+                        <item>To roast a Rabbit, Hare Fashion   ib.</item>
+                        <item>Turkies, Pheasants, and c. may be larded   ib.</item>
+                        <!-- The "and c." should have an ampersand rather than the word "and," should I leave it be like this or try to find a way to work around Oxygen? -->
+                        <item>To roast a Fowl, Pheasant Fashion   ib.</item>
+                        <item>Rules to be observ'd in Roasting   12</item>
+                        <item>Beef   ib.</item>
+                        <item>Mutton   ib.</item>
+                        <item>Pork   ib.</item>
+                        <item>Directions concerning Beef, Mutton and Pork   ib.</item>
+                        <item>Veal   13</item>
+                        <item>House-Lamb   ib.</item>
+                        <item>A Pig   ib.</item>
+                        <item>A Hare   ib.</item>
+                        <item>A Turkey   ib.</item>
+                        <item>A Goose   ib.</item>
+                        <item>Fowls   14</item>
+                        <item>Tame Ducks   ib.</item>
+                        <item>Teal, Wigeon, and c   ib.</item>
+                        <item>Wild Ducks   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>Woodcocks, Snipes, and Partridges   14</item>
+                        <item>Pigeons and Larks   ib.</item>
+                        <item>Directions concerning Poultry   ib.</item>
+                        <item>To keep Meat hot   ib.</item>
+                        <item>To dress Greens, Roots, and c   15</item>
+                        <item>To dress Spinach   ib.</item>
+                        <item>To dress Cabbages, and c   ib.</item>
+                        <item>To dress Carrots   ib.</item>
+                        <item>To dress Turnips   ib.</item>
+                        <item>To dress Parsnips   ib.</item>
+                        <item>To dress Brockala   ib.</item>
+                        <item>To dress Potatoes   ib.</item>
+                        <item>To dress Cauliflowers   17</item>
+                        <item>To dress French Beans   ib.</item>
+                        <item>To dress Artichokes   ib.</item>
+                        <item>To dress Asparagus   ib.</item>
+                        <item>Directions concerning Garden Things   18</item>
+                        <item>To dress Beans and Bacon   ib.</item>
+                        <item>To make Gravy for a Turkey, or any Sort of Fowl   ib.</item>
+                        <item>To draw Mutton, Beef, or Beal Gravy   ib.</item>
+                        <item>To burn Butter for thickening of Sauce   19</item>
+                        <item>To make Gravy   ib.</item>
+                        <item>To make Gravy for Soops, and c.   14</item>
+                        <item>To bake a Leg of Beef   20</item>
+                        <item>To bake an Ox's Head   ib.</item>
+                        <item>To boil pickled Pork   ib.</item>
+                    </list>
+                </div>
+                <div>
+                    <head>CHAP. II.</head>
+                    <p><hi rend="italic">Made-Dishes</hi></p>
+                    <list>
+                        <item>TO dress Scotch Collops   21</item>
+                        <item>To dress White Scotch Collops   ib.</item>
+                        <item>To dress a Fillet of Veal with Collops, and c.   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To make Force-Meat Balls   21</item>
+                        <item>Truffles and Morels, good Sauces and Soops   22</item>
+                        <item>To stew Ox-Palates   ib.</item>
+                        <item>To Ragoo a Leg of Mutton   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To make Brown Fricasey   22</item>
+                        <item>To make a White Fricasey   23</item>
+                        <item>To fricasey Chickens, Rabbits, Lamb, Veal, and c   ib.</item>
+                        <item>A second Way to make a White Fricasey   ib.</item>
+                        <item>A third Way of making a White Ficasey   24</item>
+                        <item>To fricasey Rabbits, Lamb, Sweetbreads, or Tripe   ib.</item>
+                        <item>Another Way to fricasey Tripe   ib.</item>
+                        <item>To Ragoo Hog's Feet and Ears   25</item>
+                        <item>To fry Tripe   ib.</item>
+                        <item>To stew Tripe   ib.</item>
+                        <item>A Fricasey of Pigeons   ib.</item>
+                        <item>A Fricaset of Lambstones and Sweetbreads   26</item>
+                        <item>To hash a Calf's Head   ib.</item>
+                        <item>To hash a Calf's Head White   27</item>
+                        <item>To bake a Calf's Head   ib.</item>
+                        <item>To bake a Sheep's Head   28</item>
+                        <item>To dress a Lamb's Head   ib.</item>
+                        <item>To Ragoo a Neck of Veal   ib.</item>
+                        <item>Another Way to Ragoo a Breast of Beal   ib.</item>
+                        <item>A Breast of Beal in Hodge-Podge   ib.</item>
+                        <item>To collar a Breast of Veal   30</item>
+                        <item>To collar a Breast of Mutton   31</item>
+                        <item>Another good Way to dress a Breast of Mutton   ib.</item>
+                        <item>To force a Leg of Lamb   ib.</item>
+                        <item>To boil a Leg of Lamb   ib.</item>
+                        <item>To force a large Fowl   31</item>
+                        <item>To roast a Turkey the genteel Way   ib.</item>
+                        <item>To stew a Turkey or Fowl   ib.</item>
+                        <item>To stew a Knuke of Veal   33</item>
+                        <item>Another Way to stew a Knuckle of Veal   ib.</item>
+                        <item>To Ragoo a Piece of Beef   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To force the Inside of a Surloin of Beef   34</item>
+                        <item>To force the Inside of a Rump of Beef   ib.</item>
+                        <item>A Roll'd Rump of Beef   35</item>
+                        <item>To boil a Rump of Beef the French Fashion   ib.</item>
+                        <item>Beef Escarlot   36</item>
+                        <item>Beef a la Daub   ib.</item>
+                        <item>Beef a la Mode in Pieces   ib.</item>
+                        <item>Beef a la Mode, the French Way   ib.</item>
+                        <item>Beef Olives   37</item>
+                        <item>Veal Olives   ib.</item>
+                        <item>Beef Collops   ib.</item>
+                        <item>To stew Beef Steaks   38</item>
+                        <item>To fry Beef Steaks   ib.</item>
+                        <item>A second Way to fry Beef Steaks   ib.</item>
+                        <item>Another Way to do Beef Steaks   39</item>
+                        <item>A pretty Side-Dish of Beef   ib.</item>
+                        <item>To dress a Fillet of Beef   ib.</item>
+                        <item>Beef Steaks rolled   ib.</item>
+                        <item>To stew a Rump of Beef   40</item>
+                        <item>Another Way to stew a Rump of Beef   ib.</item>
+                        <item>Portugal Beef   41</item>
+                        <item>To stew a Rump of Beef, or the Briscuit, the French Way   ib.</item>
+                        <item>To stew Beef Gobbets   ib.</item>
+                        <item>Beef Royal   42</item>
+                        <item>A Tongue and Udder forced   ib.</item>
+                        <item>To fricasey Neats Tongues   ib.</item>
+                        <item>To force a Tongue   43</item>
+                        <item>To stew Neats Tongues Whole   ib.</item>
+                        <item>To fricasey Ox-Palates   ib.</item>
+                        <item>To roast Ox-Palates   ib.</item>
+                        <item>To dress a Leg of Mutton a la Royale   44</item>
+                        <item>A leg of Mutton a la Hautgout   ib.</item>
+                        <item>To roast a Leg of Mutton with Oysters   45</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To roast a Leg of Mutton with Cockles   45</item>
+                        <item>A Shoulder of Mutton in Epigram   ib.</item>
+                        <item>A harrico of Mutton   ib.</item>
+                        <item>To french a Hind-Saddle of Mutton   ib.</item>
+                        <item>Another French Way, call'd, St. Menehout   46</item>
+                        <item>Cutlets a la Maintenon, a very good Dish   ib.</item>
+                        <item>To make a Mutton Hash   47</item>
+                        <item>To dress Piggs Petty-toes   ib.</item>
+                        <item>A second Way to roast a Leg of Mutton with Oysters   ib.</item>
+                        <item>To dress a Leg of Mutton to eat like Venison   48</item>
+                        <item>To dress Mutton the Turkish Way   ib.</item>
+                        <item>A Shoulder of Mutton, with a Ragoo of Turnips   ib.</item>
+                        <item>To stuff a Leg or Shoulder of Mutton   49</item>
+                        <item>Sheeps Rumps, with Rice   ib.</item>
+                        <item>To bake Lamb and Rice   50</item>
+                        <item>Baked Mutton Chops   ib.</item>
+                        <item>A forced Leg of Lamb   ib.</item>
+                        <item>To fry a Loin of Lamb   51</item>
+                        <item>Another Way of Frying a Neck or Loin of Lamb   ib.</item>
+                        <item>To make a Ragoo of Lamb   52</item>
+                        <item>To stew a Lamb's or Calf's Head   ib.</item>
+                        <item>To dress Veal a la Bourgoise   53</item>
+                        <item>A disguised Leg of Veal and Bacon   ib.</item>
+                        <item>A Pillaw of Veal   ib.</item>
+                        <item>Bombarded Veal   54</item>
+                        <item>Veal Rolls   ib</item>
+                        <item>Olives of Veal, the French Way    55</item>
+                        <item>Scotch Collops a la Francois   ib.</item>
+                        <item>To make a savoury Dish of Veal   ib.</item>
+                        <item>Scotch Collops Larded   56</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To do them White   56</item>
+                        <item>Veal Blanquets   ib.</item>
+                        <item>A Shoulder of Veal a la Piemontoise   ib.</item>
+                        <item>A Calf's Head surprise   57</item>
+                        <item>Sweetbreads of Veal a la Dauphine   ib.</item>
+                        <item>Another way to dress Sweetbreads   58</item>
+                        <item>Calf's Chitterlings or Andouilles   ib.</item>
+                        <item>To dress Calf's Chitterling curiously   59</item>
+                        <item>To dress a Ham a la Braise   ib.</item>
+                        <item>To roast a Ham or Gammon   60</item>
+                        <item>To stuff a Chine of Pork   ib.</item>
+                        <item>Various Ways of dressing a Pig   ib.</item>
+                        <item>A Pig in Jelly   62</item>
+                        <item>To dress a Pig the French Way   ib.</item>
+                        <item>To dress a Pig au Pere-douillet   ib.</item>
+                        <item>A Pig Matelote   63</item>
+                        <item>To dress a Pig like a Fat Lamb   ib.</item>
+                        <item>To roast a Pig with the Hair on   ib.</item>
+                        <item>To roast a Pig with the Skin on   64</item>
+                        <item>To make a pretty Dish of a Breast of Venison   ib.</item>
+                        <item>To boil a Haunch or Neck of Venison   65</item>
+                        <item>To boil a Leg of Mutton like Venison   ib.</item>
+                        <item>To roast Tripe   66</item>
+                        <item>To dress Poultry   ib.</item>
+                        <item>To roast a Turkey   ib.</item>
+                        <item>To make Mock Oyster-Sauce, either for Turkies or Fowls boil'd   67</item>
+                        <item>To make Mushroom-Sauce for White Fowls of all Sorts   ib.</item>
+                        <item>Mushroom-Sauce for White Fowls boiled   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To make Sellery-Sauce either for roasted or boiled Fowls, Turkies, Partridges, or any other Game   67</item>
+                        <item>To make Brown Sellery-Sauce   68</item>
+                        <item>To stew a Turky, or Fowl, in Sellery-Sauce   ib.</item>
+                        <item>To make Egg-Sauce, proper for roasted Chickens   ib.</item>
+                        <item>Shalot-Sauce for roasted Fowls   ib.</item>
+                        <item>Shalot-Sauce for a Scrag of Mutton boiled   69</item>
+                        <item>To dress Livers with Mushroom-Sauce   ib.</item>
+                        <item>A pretty little Sauce   ib.</item>
+                        <item>To make Lemon-Sauce for boiled Fowls   ib.</item>
+                        <item>A German way of dressing Fowls   ib.</item>
+                        <item>To dress a Turky or Fowl to Perfection   70</item>
+                        <item>To stew a Turky Brown   ib.</item>
+                        <item>To stew a Turky Brown the nice Way   ib.</item>
+                        <item>A Fowl a la Braise   71</item>
+                        <item>To force a Fowl   ib.</item>
+                        <item>To roast a Fowl with Chesnuts   72</item>
+                        <item>Pullets a la Sainte Menehout   ib.</item>
+                        <item>Chicken Surprize   73</item>
+                        <item>Muttom Chops in Disguise   ib.</item>
+                        <item>Chickens roasted with Force-Meat and Cucumbers   74</item>
+                        <item>Chickens a la Braise   ib.</item>
+                        <item>To marinate Fowls   75</item>
+                        <item>To broil Chickens   ib.</item>
+                        <item>Pull'd Chickens   ib.</item>
+                        <item>A pretty Way of stewing Chickens   76</item>
+                        <item>Chickens Chiringrate   ib.</item>
+                        <item>Chickens boiled with Bacon and Sellery   77</item>
+                        <item>Chickens with Tongues. A good Dish for a great deal of Company   77</item> 
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>Scorch Chickens   77</item>
+                        <item>To marinate Chickens   78</item>
+                        <item>To stew Chickens   ib.</item>
+                        <item>Ducks a la Mode   ib.</item>
+                        <item>To dress a Wild Duck the best Way   ib.</item>
+                        <item>To boil a Duck or Rabbit with Onions   79</item>
+                        <item>To dress a Duck with Green Peas   ib.</item>
+                        <item>To dress a Duck with Cucumbers   80</item>
+                        <item>To dress a Duck a la Braise   ib.</item>
+                        <item>To boil Ducks the French Way   81</item>
+                        <item>To dress a Goose with Onions or Cabbage   ib.</item>
+                        <item>Directions for roasting a Goose   ib.</item>
+                        <item>A Green Goose   82</item>
+                        <item>To dry a Goose   ib.</item>
+                        <item>To dress a Goose in Ragoo   ib.</item>
+                        <item>A Goose a la Mode   83</item>
+                        <item>To stew Giblets   ib.</item>
+                        <item>Another Way   84</item>
+                        <item>To roast Pigeons   ib.</item>
+                        <item>To boil Pigeons   85</item>
+                        <item>To a la Daube Pigeons   ib.</item>
+                        <item>Pigeons au Poit   86</item>
+                        <item>Pigeons stoved   ib.</item>
+                        <item>Pigeons surtout   ib.</item>
+                        <item>Pigeons in Compote with white Sauce   87</item>
+                        <item>A French Pupton of Pigeons   ib.</item>
+                        <item>Pigeons boiled with Rice   ib.</item>
+                        <item>Pigeons transmogrified   88</item>
+                        <item>Pigeons in Fricandos   ib.</item>
+                        <item>To roast Pigeons with a Farce   ib.</item>
+                        <item>To dress Pigeons a Soleil   89</item>
+                        <item>Pigeons in a Hole   ib.</item>
+                        <item>Pigeons in Pimlico   ib.</item>
+                        <item>To jugg Pigeons   ib.</item>
+                        <item>To stew Pigeons   90</item>
+                        <item>To dress a Calf's Liver in a Caul   ib.</item>
+                        <item>To roast a Calf's Liver   91</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To roast Partridges   91</item>
+                        <item>To boil Partridges   ib.</item>
+                        <item>To dress Partridges a la Braise   92</item>
+                        <item>To make Partridges Pains   ib.</item>
+                        <item>To roast Pheasants   93</item>
+                        <item>A stewed Pheasant   ib.</item>
+                        <item>To dress a Pheasant a la Braise   94</item>
+                        <item>To boil a Pheasant   ib.</item>
+                        <item>To roast Snipes or Woodcocks   ib.</item>
+                        <item>Snipes in a Surtout, or Woodcocks   ib.</item>
+                        <item>To boil Snipes or Woodcocks   ib.</item>
+                        <item>To dress Ortolans   96</item>
+                        <item>To dress Ruffs and Reifs   ib.</item>
+                        <item>To dress Larks   ib.</item>
+                        <item>To dress Plovers   ib.</item>
+                        <item>To dress Larks, Pear Fashion   97</item>
+                        <item>To dress a Hare   ib.</item>
+                        <item>A jugged Hare   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To scare a Hare   97</item>
+                        <item>To stew a Hare   98</item>
+                        <item>A Hare Civet   ib.</item>
+                        <item>Portuguese Rabbits   ib.</item>
+                        <item>Rabbits Surprise   ib.</item>
+                        <item>To boil Rabbits   99</item>
+                        <item>To dress Rabbits in Casserole   ib.</item>
+                        <item>Mutton Kebob'd   100</item>
+                        <item>A Neck of Mutton, call'd, the Hasty Dish   ib.</item>
+                        <item>To dress a Loin of Pork with Onions   101</item>
+                        <item>To make a Currey, the India Way   ib.</item>
+                        <item>To boil the Rice   ib.</item>
+                        <item>To make a Pellow, the India Way   ib.</item>
+                        <item>Another way to make a Pellow   102</item>
+                        <item>To make Essence of Ham   ib.</item>
+                        <item>Rules to be observed in all Made-Dishes   ib.</item>
+                    </list>
+                </div>
+                <div>
+                    <head>CHAP. III.</head>
+                    <p><hi rend="italic">Read this Chapter, and you will find how expensive a French
+                    Cook's Sauce is.</hi></p>
+                    <list>
+                        <item>THE French Way of dressing Partridges   103</item>
+                        <item>To make Essence of Ham   104</item>
+                        <item>A Cullis for all Sorts of Ragoo   ib.</item>
+                        <item>A Cullis for all Sorts of Butcher's Meat   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>Cullis the Italian Way   105</item>
+                        <item>Cullis of Crawfish   ib.</item>
+                        <item>A White Cullis   106</item>
+                        <item>Sauce for a Brace of Partridges, Pheasants, or any Thing you please   ib.</item>
+                    </list>
+                </div>
+                <div>
+                    <head>CHAP. IV.</head>
+                    <p><hi rend="italic">To make a Number of pretty little Dishes fit for a Supper, or
+                    Side-Dish, and little Corner-Dishes for a great Table; and
+                    the rest you have in the Chapter for Lent.</hi></p>
+                    <list>
+                        <item>HOG's Ears forced   107</item>
+                        <item>To force Cocks-Combs   ib.</item>
+                        <item>To preserve Cocks-Combs   ib.</item>
+                        <item>To preserve or picke Pigs Feet and Ears   108</item>
+                        <item>To pickle Ox Palates   ib.</item>
+                        <item>To stew Cucumbers   109</item>
+                        <item>To ragoo Cucumbers   ib.</item>
+                        <item>A Fricasey of Kidney Beans   ib.</item>
+                        <item>To dress Windsor Beans   ib.</item>
+                        <item>To make Jumballs   ib.</item>
+                        <item>To make a ragoo of Onions   110</item>
+                        <item>A ragoo of Oysters   ib.</item>
+                        <item>A ragoo of Asparagus   ib.</item>
+                        <item>A ragoo of Livers   111</item>
+                        <item>To ragoo Cauliflowers   ib.</item>
+                        <item>Stewed Peas and Lettuce   ib.</item>
+                        <item>Cod-Sounds broiled with Gravy   112</item>
+                        <item>A forced Cabbage   ib.</item>
+                        <item>Stewed Red Cabbage   ib.</item>
+                        <item>Savoys forced and stewed   113</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To force Cucumbers   113</item>
+                        <item>Fry'd Sausages   ib.</item>
+                        <item>Collop and Eggs   ib.</item>
+                        <item>To dress cold Fowl or Pigeon   114</item>
+                        <item>To mince Veal   ib.</item>
+                        <item>To fry cold Veal   ib.</item>
+                        <item>To toss up cold Veal White   ib.</item>
+                        <item>To hash cold Mutton   115</item>
+                        <item>To hash Mutton like Venison   ib.</item>
+                        <item>To make Collops of cold Beef   ib.</item>
+                        <item>To make a Florendine of Veal   ib.</item>
+                        <item>To make Salamongundy   116</item>
+                        <item>Another Way   ib.</item>
+                        <item>A third Salamongundy   117</item>
+                        <item>To make little Patties   ib.</item>
+                        <item>Petit Patties for garnishins of Dishes   ib.</item>
+                        <item>Ox Palate baked   118</item>
+                    </list>
+                </div>
+                <div>
+                    <head>CHAP. V.</head>
+                    <p><hi rend="italic">Of Dressing Fish.</hi></p>
+                    <list>
+                        <item>FISH Sauce with Lobster   118</item>
+                        <item>To make Shrimp Sauce   119</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To make Oyster Sauce   119</item>
+                        <item>To make Anchovy Sauce   ib.</item>
+                        <item>To dress a Brace of Carp   ib.</item>
+                    </list>
+                </div>
+                <div>
+                    <head>CHAP. VI.</head>
+                    <p><hi rend="italic">Of Soops and Broths.</hi></p>
+                    <list>
+                        <item>TO make strong Broth for Soops or Gravy   120</item>
+                        <item>Gravy or white sauce   121</item>
+                        <item>Gravy for Turky, Fowl, or Ragoo   ib.</item>
+                        <item>Gravy for a Fowl, when you have no Meat nor Gravy ready   ib.</item>
+                        <item>To make Mutton or Veal Gravy   122</item>
+                        <item>To make strong Fish Gravy   ib.</item>
+                        <item>To make Plumb-Porridge for Christmas    ib.</item>
+                        <item>To make strong Broth to keep for Use   123</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>A Crawfish Soop   123</item>
+                        <item>A good Gravy Soop   ib.</item>
+                        <item>A green Peas Soop   124</item>
+                        <item>A white Peas Soop   125</item>
+                        <item>Another Way to make it   ib.</item>
+                        <item>A Chestnut Soop   ib.</item>
+                        <item>To make Mutton Broth   126</item>
+                        <item>Beef Broth   ib.</item>
+                        <item>To make Scotch Barley Broth   ib.</item>
+                        <item>To make Hodge-Podge   127</item>
+                        <item>To make Pocket Soop   ib.</item>
+                        <item>To make Portable Soop   128</item>
+                        <item>Rule to be observed in making Soops or Broths   129</item>
+                    </list>
+                </div>
+                <div>
+                    <head>CHAP. VII.</head>
+                    <p><hi rend="italic">Of Puddings.</hi></p>
+                    <list>
+                        <item>AN Oat Pudding to bake   130</item>
+                        <item>To make a Calf's Foot Pudding   ib.</item>
+                        <item>To make a Pith Pudding   ib.</item>
+                        <item>To make a Marrow Pudding   131</item>
+                        <item>A boiled Sewet Pudding   ib.</item>
+                        <item>A boiled Plumb Pudding   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>A Yorkshire Pudding   131</item>
+                        <item>A Steak Pudding   132</item>
+                        <item>A Vermicella Pudding, with Marrow   ib.</item>
+                        <item>Sweet Dumplings   133</item>
+                        <item>An Oxford Pudding   ib.</item>
+                        <item>Rules to be observed in making Puddings, and c.   ib.</item>
+                    </list>
+                </div>
+                <div>
+                    <head>CHAP. VIII.</head>
+                    <p><hi rend="italic">Of Pies.</hi></p>
+                    <list>
+                        <item>TO make a very fine sweet Lamb or Veal Pye   134</item>
+                        <item>To make pretty sweet Lamb or Veal Pye   ib.</item>
+                        <item>A savoury Veal Pye   ib.</item>
+                        <item>To make a savoury Lamb or Veal Pye   135</item>
+                        <item>To make a Calf's Foot Pye   ib.</item>
+                        <item>To make an Olive Pye   ib.</item>
+                        <item>To season an Egg Pye   136</item>
+                        <item>To make a Mutton Pye   ib.</item>
+                        <item>A Beef Steak Pye   ib.</item>
+                        <item>A Ham Pye   ib.</item>
+                        <item>To make a Pigeon Pye   137</item>
+                        <item>To make a Giblet Pye   ib.</item>
+                        <item>To make a Duck Pye   ib.</item>
+                        <item>A Chicken Pye   138</item>
+                        <item>A Cheshire Pork Pye   ib.</item>
+                        <item>A Devonshire Squab Pye   ib.</item>
+                        <item>An Ox-Cheek Pye   139</item>
+                        <item>A Shropshire Pye   ib.</item>
+                        <item>A Yorkshire Christmas Pye</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>A Goose Pye   140</item>
+                        <item>To make a Venison Patty   ib.</item>
+                        <item>A Calf's Head Pye   141</item>
+                        <item>To make a Tort   142</item>
+                        <item>To make Mince Pies the best Way   ib.</item>
+                        <item>Tort de Moy   143</item>
+                        <item>To make Orange or Lemon Tarts   ib.</item>
+                        <item>To make different Sorts of Tarts   144</item>
+                        <item>Paste for Tarts   ib.</item>
+                        <item>Another Paste for Tarts   ib.</item>
+                        <item>Puff-paste   145</item>
+                        <item>A good Crust for great Pies   ib.</item>
+                        <item>A Standing Crust for great Pies   ib.</item>
+                        <item>A cold Crust   ib.</item>
+                        <item>A Dripping Crust   ib.</item>
+                        <item>A Crust for Custards   ib.</item>
+                        <item>Paste for Crackling Crust   146</item>
+                    </list>
+                </div>
+                <div>
+                    <head>CHAP. IX.</head>
+                    <p><hi rend="italic">For a Fast-Dinner, a Number of good Dishes, which you may
+                    make use of for a Table at any other Time.</hi></p>
+                    <list>
+                        <item>A Peas Soop   146</item>
+                        <item>A green Peas Soop   147</item>
+                        <item>Another green Peas Soop   ib.</item>
+                        <item>Soop Meager   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To make an Onion Soop   148</item>
+                        <item>To make an Eel Soop   ib.</item>
+                        <item>To make a Crawfish Soop   ib.</item>
+                        <item>To make Mussel Soop   149</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To make a Scate or Thornback Soop   150</item>
+                        <item>To make an Oyster Soop   ib.</item>
+                        <item>To make an Almond Soop   ib.</item>
+                        <item>To make a Rice Soop   151</item>
+                        <item>To make a Barley Soop   ib.</item>
+                        <item>To make a Turnip Soop   ib.</item>
+                        <item>To make an Egg Soop   152</item>
+                        <item>To make Peas Porridge   ib.</item>
+                        <item>To make a White Pot   ib.</item>
+                        <item>To make a Rice White Pot   ib.</item>
+                        <item>To make Rice Milk   153</item>
+                        <item>To make an Orange Fool   ib.</item>
+                        <item>To make a Westminster Fool   ib.</item>
+                        <item>To make a Gooseberry Fool   ib.</item>
+                        <item>To make Furmity   154</item>
+                        <item>To make Plumb-Porridge, or Barley Gruel   ib.</item>
+                        <item>Butter'd Wheat   ib.</item>
+                        <item>Plumb Gruel   ib.</item>
+                        <item>A Flour Haft-pudding   ib.</item>
+                        <item>An Oatmeal Hafty-pudding   155</item>
+                        <item>An excellent Sack Poffet   ib.</item>
+                        <item>Another Sack Poffet   ib.</item>
+                        <item>A fine Hafty-pudding   ib.</item>
+                        <item>To make Hafty-Fritters   156</item>
+                        <item>Fine Fritters   ib.</item>
+                        <item>Another Way   ib.</item>
+                        <item>Apple Fritters   ib.</item>
+                        <item>Curd Fritters   157</item>
+                        <item>Fritters Royal   ib.</item>
+                        <item>Skirret Fritters   ib.</item>
+                        <item>White Fritters   ib.</item>
+                        <item>Water Fritters   158</item>
+                        <item>Syringed Fritters   ib.</item>
+                        <item>Vine Leaves Fritters   ib.</item>
+                        <item>Clary Fritters   159</item>
+                        <item>Apple Frazes   ib.</item>
+                        <item>Pancakes   ib.</item>
+                        <item>Fine Pancakes   ib.</item>
+                        <item>A second Sort of Fine Pancakes   ib.</item>
+                        <item>A third Sort   ib.</item>
+                        <item>A fourth Sort, call'd, a Quire of Paper   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>Tice Pancakes   161</item>
+                        <item>To make a Pupton of Apples   ib.</item>
+                        <item>To make Black Caps   ib.</item>
+                        <item>To bake Apples whole  ib.</item>
+                        <item>To stew Pears   ib.</item>
+                        <item>To stew Pears in a Sauce-pan   162</item>
+                        <item>To stew Pears Purple   ib.</item>
+                        <item>To stew Pippins whole   ib.</item>
+                        <item>A pretty Made-Dish   ib.</item>
+                        <item>To make Kickshaws   163</item>
+                        <item>Pain Perdu, or Cream Toasts Salamangundy for a Middle-Dish at Supper   ib.</item>
+                        <item>To make a Tansey   164</item>
+                        <item>Another Way   ib.</item>
+                        <item>To make Hedge-Hog   ib.</item>
+                        <item>Another Way   ib.</item>
+                        <item>To make pretty Almond Puddings   166</item>
+                        <item>To make fry'd Toasts   ib.</item>
+                        <item>To stew a Brace of Carp    ib.</item>
+                        <item>To fry Carp   ib.</item>
+                        <item>To bake Carp   ib.</item>
+                        <item>To fry Tench   168</item>
+                        <item>To roast a Cod's Head   ib.</item>
+                        <item>To boil a Cod's Head   169</item>
+                        <item>To stew Cod   ib.</item>
+                        <item>To fricasey Cod   170</item>
+                        <item>To bake a Cod's Head    ib.</item>
+                        <item>To broil Shrimps, Cod, Salmon, Whiting, or Haddocks   171</item>
+                        <item>Or Oyster-Sauce made thus   ib.</item>
+                        <item>To dress little Fish   ib.</item>
+                        <item>To broil Mackrel   172</item>
+                        <item>To broil Weavers   ib.</item>
+                        <item>To boil Turbutt   ib.</item>
+                        <item>To bake Turbutt   ib.</item>
+                        <item>To dress a Jole of pickled Salmon   173</item>
+                        <item>To broil Salmon   ib.</item>
+                        <item>Baked Salmon   ib.</item>
+                        <item>To broil Mackrel whole   174</item>
+                        <item>To broil Herrings   ib.</item>
+                        <item>To fry Herrings   ib.</item>
+                        <item>To dress Herrings and Cabbage   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To make Water-Sokey   175</item>
+                        <item>To stew Eels   ib.</item>
+                        <item>To stew Eels with Broth   ib.</item>
+                        <item>To dress a Pike   ib.</item>
+                        <item>To broil Haddocks, when they are in High Season   176</item>
+                        <item>To broil Cod-Sounds   ib.</item>
+                        <item>To fricasey Cod-Sounds   ib.</item>
+                        <item>To dress Salmon au Court-Bouillon   177</item>
+                        <item>To dress Salmon a la Braise   ib.</item>
+                        <item>Salmon in Cafes   178</item>
+                        <item>To dress Flat-Fish   ib.</item>
+                        <item>To dress Salt-Fish   ib.</item>
+                        <item>To dress Lampreys   179</item>
+                        <item>To fry Lampreys   179</item>
+                        <item>To pitchcock Eels   ib.</item>
+                        <item>To fry Eels   ib.</item>
+                        <item>To broil Eels   ib.</item>
+                        <item>To farce Eels with White Sauce   180</item>
+                        <item>To dress Eels with Brown Sauce   ib.</item>
+                        <item>To roast a Piece of fresh Sturgeon   ib.</item>
+                        <item>To roast a Fillet or Collar of Sturgeon   181</item>
+                        <item>To boil Sturgeon   ib.</item>
+                        <item>To crimp Cod the Dutch Way   182</item>
+                        <item>To crimp Scate   ib.</item>
+                        <item>To fricasey Scate or Thornback White   ib.</item>
+                        <item>To fricasey it Brown   ib.</item>
+                        <item>To fricasey Soals White   183</item>
+                        <item>To fricasey Soals Brown   ib.</item>
+                        <item>To boil Soals   184</item>
+                        <item>To make a Collar of Fish in Ragoo, to look like a Breast of Veal collared   ib.</item>
+                        <item>To butter Crabs or Lobsters   185</item>
+                        <item>To butter Lobsters another Way   ib.</item>
+                        <item>To roast Lobsters   ib.</item>
+                        <item>To make a fine Dish of Lobsters   186</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To dress a Crab   186</item>
+                        <item>To stew Prawns, Shrimps, or Crawfish   ib.</item>
+                        <item>To make Collops of Oysters   ib.</item>
+                        <item>To stew Mussels   187</item>
+                        <item>Another Way to stew Mussels   ib.</item>
+                        <item>A third Way to dress Mussels   ib.</item>
+                        <item>To stew Scollops   ib.</item>
+                        <item>To ragoo Oysters   188</item>
+                        <item>To ragoo endive   ib.</item>
+                        <item>To ragoo French Beans   189</item>
+                        <item>To make good Brown Gravy   ib.</item>
+                        <item>To fricasey Skirrets   ib.</item>
+                        <item>Chardoons fry'd and butter'd   190</item>
+                        <item>Chardoons a la Framage   ib.</item>
+                        <item>To make a Scotch Rabbit   ib.</item>
+                        <item>To make a Welch Rabbit   ib.</item>
+                        <item>To make an English Rabbit    ib.</item>
+                        <item>Or do it thus   ib.</item>
+                        <item>Sorrel with Eggs   191</item>
+                        <item>A Fricasey of Artichoke-Bottoms   ib.</item>
+                        <item>To fry Artichokes   ib.</item>
+                        <item>A White Fricasey of Mushrooms   ib.</item>
+                        <item>To make buttered Loaves   ib.</item>
+                        <item>Brockely and Eggs   192</item>
+                        <item>Asparagus and Eggs   ib.</item>
+                        <item>Brockely in Sallad   ib.</item>
+                        <item>To make Potatoe Cakes   ib.</item>
+                        <item>A Pudding made thus   193</item>
+                        <item>To make Potatoes like a Collar of Veal or Mutton   ib.</item>
+                        <item>To broil Potatoes   ib.</item>
+                        <item>To fry Potatoes   ib.</item>
+                        <item>Mashed Potatoes   ib.</item>
+                        <item>To grill Shrimps   ib.</item>
+                        <item>Buttered Shrimps   194</item>
+                        <item>To dress Spinach   ib.</item>
+                        <item>Stewed Spinach and Eggs   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To boil Spinach, when you have no Room on the Fire, to do by itself   194</item>
+                        <item>Asparagus forces in French Rolls   195</item>
+                        <item>To make Oyster Loaves   ib.</item>
+                        <item>To stew Parsnips   ib.</item>
+                        <item>To mash Parsnips   ib.</item>
+                        <item>To stew Cucumbers   ib.</item>
+                        <item>To ragoo French Breans   196</item>
+                        <item>A ragoo of Beans, with a Force   ib.</item>
+                        <item>Or this Way Beans ragoo'd, with a Cabbage   197</item>
+                        <item>Beans ragoo'd with Parsnips   ib.</item>
+                        <item>Beans ragoo'd with Potatoes   ib.</item>
+                        <item>To ragoo Sellery   198</item>
+                        <item>To ragoo Mushrooms   ib.</item>
+                        <item>A pretty Dish of Eggs   ib.</item>
+                        <item>Eggs a la Tripe   199</item>
+                        <item>A Fricasey of Eggs   ib.</item>
+                        <item>A Ragoo of Eggs   ib.</item>
+                        <item>To broil Eggs   200</item>
+                        <item>To dress Eggs with Bread   ib.</item>
+                        <item>To farce Eggs   ib.</item>
+                        <item>Eggs with Lettuce   ib.</item>
+                        <item>To fry Eggs as round as Balls   201</item>
+                        <item>To make an Egg as big as Twenty   ib.</item>
+                        <item>To make a grand Dish of Eggs   ib.</item>
+                        <item>To make a pretty Dish of Whites of Eggs   202</item>
+                        <item>To dress Beans in Ragoo   ib.</item>
+                        <item>An Amulet of Beans   203</item>
+                        <item>To make a Bean Tansey   ib.</item>
+                        <item>To make a Water Tansey   ib.</item>
+                        <item>Peas Fracoise   ib.</item>
+                        <item>Green Peas with Cream   204</item>
+                        <item>A Farce Meagre Cabbage   ib.</item>
+                        <item>To farce Cucumbers   205</item>
+                        <item>To stew Cucumbers   ib.</item>
+                        <item>Fry'd Sellery   ib.</item>
+                        <item>Sellery with Cream   206</item>
+                        <item>Cauliflowers fry'd   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To make an Oatmeal Pudding   206</item>
+                        <item>To make a Potatoe Pudding   ib.</item>
+                        <item>To make a second Potatoe Pudding   207</item>
+                        <item>To make a third sort of Potatoe Pudding   ib.</item>
+                        <item>To make an Orange Pudding   ib.</item>
+                        <item>To make a second Sort of Orange Pudding   ib.</item>
+                        <item>To make a third of Orange Pudding   208</item>
+                        <item>To make a fourth Orange Pudding   ib.</item>
+                        <item>To make a Lemon Pudding   ib.</item>
+                        <item>To bake an Almond Pudding   ib.</item>
+                        <item>To boil an Almond Pudding   209</item>
+                        <item>To make a Sagoe Pudding   ib.</item>
+                        <item>To make a Millet Pudding   ib.</item>
+                        <item>To make a Carrot Pudding   ib.</item>
+                        <item>A second Carrot Pudding   210</item>
+                        <item>To make a Cowslip Pudding   ib.</item>
+                        <item>To make a Quince, Apricot, or White Pear-plumb Pudding   ib.</item>
+                        <item>To make a Pearl Barley Pudding   211</item>
+                        <item>To make a French Barley Pudding   211</item>
+                        <item>To make an Apple Pudding   ib.</item>
+                        <item>To make an Italian Pudding   ib.</item>
+                        <item>To make a Rice Pudding   ib.</item>
+                        <item>A second Rice Pudding   212</item>
+                        <item>A third Rice Pudding   ib.</item>
+                        <item>To boil a Custard Pudding   ib.</item>
+                        <item>To make a Flour Pudding   ib.</item>
+                        <item>To make a Batter Pudding   213</item>
+                        <item>To make a Batter Pudding without Eggs   ib.</item>
+                        <item>To make a Grateful Pudding   ib.</item>
+                        <item>A Bread Pudding   ib.</item>
+                        <item>To make a fine Bread Pudding   214</item>
+                        <item>To make an ordinary Bread Pudding   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To make a baked Bread Pudding   214</item>
+                        <item>To make a boiled Loaf   215</item>
+                        <item>To make a Chestnut Pudding   ib.</item>
+                        <item>To make a fine plain baked Pudding   ib.</item>
+                        <item>To make a pretty little Cheese-curd Pudding   ib.</item>
+                        <item>To make an Apricot Pudding   216</item>
+                        <item>To make the Ipswich Almond Pudding   ib.</item>
+                        <item>To make a Vermicella Pudding   ib.</item>
+                        <item>Puddings for little Dishes   217</item>
+                        <item>To make a Sweet-meat Pudding   ib.</item>
+                        <item>To make a fine Plain Pudding   ib.</item>
+                        <item>To make a Ratafia Pudding   218</item>
+                        <item>To make a Bread and Butter Pudding   ib.</item>
+                        <item>To make a boiled Rice Pudding   ib.</item>
+                        <item>To make a cheap Rice Pudding   ib.</item>
+                        <item>To make a cheap Plain Rice Pudding   219</item>
+                        <item>To make a cheap baked Rice Pudding   ib.</item>
+                        <item>To make a Spinach Pudding   ib.</item>
+                        <item>To make a Quaking Pudding   ib.</item>
+                        <item>To make a Cream Pudding   220</item>
+                        <item>To make a Pruen Pudding   ib.</item>
+                        <item>To make a Spoonful Pudding   ib.</item>
+                        <item>To make an Apple Pudding   ib.</item>
+                        <item>To make Yeast Dumplings   221</item>
+                        <item>To make Norfolk Dumplings   ib.</item>
+                        <item>To make hard Dumplings   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>Another Way to make hard Dumplings   221</item>
+                        <item>To make Apple Dumplings   222</item>
+                        <item>Another Way to make Apple Dumplings   ib.</item>
+                        <item>To make a Cheese-curd Florendine   ib.</item>
+                        <item>A Florendine of Oranges or Apples   223</item>
+                        <item>To make an Artichoke Pye   ib.</item>
+                        <item>To make a sweet Egg Pye   ib.</item>
+                        <item>To make a Potatoe Pye   224</item>
+                        <item>To make an Onion Pye   ib.</item>
+                        <item>To make an Orangeado Pye   ib.</item>
+                        <item>To make a Skirrit Pye   ib.</item>
+                        <item>To make an Apple Pye   225</item>
+                        <item>To make a Cherry Pye   ib.</item>
+                        <item>To make a Salt-Fish Pye   ib.</item>
+                        <item>To make a Carp Pye   226</item>
+                        <item>To make a Soal Pye   ib.</item>
+                        <item>To make an Eel Pye   227</item>
+                        <item>To make a Flounder Pye   ib.</item>
+                        <item>To make a Herring Pye   ib.</item>
+                        <item>To make a Salmon Pye   ib.</item>
+                        <item>To make a Lobster Pye   228</item>
+                        <item>To make a Mussel Pye   ib.</item>
+                        <item>To make Lent Mince Pies   ib.</item>
+                        <item>To collar Salmon   ib.</item>
+                        <item>To collar Eels   229</item>
+                        <item>To pickle or bake Herrings   ib.</item>
+                        <item>To pickle or bake Mackrel, to keep all the Year   ib.</item>
+                        <item>To souse Mackrel   230</item>
+                        <item>To pot a Lobster   ib.</item>
+                        <item>To pot Eels   231</item>
+                        <item>To pot Lampreys   ib.</item>
+                        <item>To pot Chars   ib.</item>
+                        <item>To pot a Pike   ib.</item>
+                        <item>To Pot Salmon   232</item>
+                        <item>Another Way to pot Salmon   ib.</item>
+                    </list>
+                </div>
+                <div>
+                    <head>CHAP. X.</head>
+                    <p><hi rend="italic">Directions for the Sick.</hi></p>
+                    <list>
+                        <item>TO make Mutton Broth   233</item>
+                        <item>To boil a Scraig of Veal   ib.</item>
+                        <item>To make Beef or Mutton Broth for very weak People, who take but little Nourishment   ib.</item>
+                        <item>To make Beef Drink, which is ordered for weak People   234</item>
+                        <item>To make Pork Broth   ib.</item>
+                        <item>To boil a Chicken   ib.</item>
+                        <item>To boil Pigeons   235</item>
+                        <item>To boil a Partridge, or any other Wild Fowl   ib.</item>
+                        <item>To boil a Plaise or Flounder   ib.</item>
+                        <item>To mince Veal, or Chicken, for the Sick or Weak People   ib.</item>
+                        <item>To pull a Chicken for the Sick   236</item>
+                        <item>To make Chicken Broth   ib.</item>
+                        <item>To make Chicken Water   ib.</item>
+                        <item>To make White Caudle   ib.</item>
+                        <item>To make Brown Caudle   237</item>
+                        <item>To make Water Gruel   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To make Panado   237</item>
+                        <item>To boil Sego   ib.</item>
+                        <item>To boil Salup   ib.</item>
+                        <item>To make Isinglass Jelly   238</item>
+                        <item>To make the Pectoral Drink   ib.</item>
+                        <item>To make Buttered Water, or what the Germans call Egg-Soop, and are very fond of it for Supper. You have it in the Chapter for Lent   ib.</item>
+                        <item>To make Seed Water   ib.</item>
+                        <item>To make Bread Soop for the Sick   ib.</item>
+                        <item>To make Artificial Asses Milk   239</item>
+                        <!-- I'm not completely sure about this one -->
+                        <item>Cows Milk next to Asses Milk done thus   ib.</item>
+                        <!-- Same with this one -->
+                        <item>To make a good Drink   ib.</item>
+                        <item>To make Barley Water   ib.</item>
+                        <item>To make Sage Drink   ib.</item>
+                        <item>To make it for a Chile   ib.</item>
+                        <item>Liquor for a Child that has the Thrush   240</item>
+                        <item>To boil Comfery Roots   ib.</item>
+                    </list>
+                </div>
+                <div>
+                    <head>CHAP. XI.</head>
+                    <p><hi rend="italic">For Captains of Ships.</hi></p>
+                    <list>
+                        <item>TO make Catchup to keep twenty Years   240</item>
+                        <item>To make Fish-Sauce to keep the whole Year   241</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To pot Dripping, to fry Fish, Meat, or Fritters, and c   241</item>
+                        <item>To pickle Mushrooms for the Sea   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To make Mushroom Powder   242</item>
+                        <item>To keep Mushrooms without Pickle   ib.</item>
+                        <item>To keep Artichoke Bottoms dry   ib.</item>
+                        <item>To fry Artichoke Bottoms   ib.</item>
+                        <item>To ragoo Artichoke Bottoms   ib.</item>
+                        <item>To fricasey Artichoke Bottoms   243</item>
+                        <item>To dress Fish   ib.</item>
+                        <item>To bake Fish   ib.</item>
+                        <item>To make a Gravy Soop   ib.</item>
+                        <item>To make Peas Soop   ib.</item>
+                        <item>To make Pork Pudding, or Beef, and c   244</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To make a Rice Pudding   244</item>
+                        <item>To make a Sewet Pudding   245</item>
+                        <item>A Liver Pudding boiled   ib.</item>
+                        <item>To make an Oatmeal Pudding   ib.</item>
+                        <item>To bake an Oatmeal Pudding   ib.</item>
+                        <item>A Rice Pudding baked   ib.</item>
+                        <item>To make a Peas Pudding   246</item>
+                        <item>To make a Harrico of French Beans   ib.</item>
+                        <item>To make a Fowl Pye   ib.</item>
+                        <item>To make a Cheshire Pork Pye for Sea   247</item>
+                        <item>To make Sea Venison   ib.</item>
+                        <item>To make Dumplings when you have White Bread   248</item>
+                    </list>
+                </div>
+                <div>
+                    <head>CHAP. XII.</head>
+                    <p><hi rend="italic">Of Hogs Puddings, Sausages, and c.</hi></p>
+                    <list>
+                        <item>TO make Almong Hogs Puddings   248</item>
+                        <item>Another Way   249</item>
+                        <item>A third Way   ib.</item>
+                        <item>To make Hogs Puddings with Currants   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To make Black Puddings   249</item>
+                        <item>To make Fine Sausages   250</item>
+                        <item>To make common Sausages   251</item>
+                        <item>To make Bolognia Sausage   ib.</item>
+                    </list>
+                </div>
+                <div>
+                    <head>CHAP. XIII.</head>
+                    <p><hi rend="italic">To pot and make Hams, and c.</hi></p>
+                    <list>
+                        <item>TO pot Pigeons, or Fowls   251</item>
+                        <item>To pot a cold Tongue, Beef, or Venison   252</item>
+                        <item>To pot Venison   ib.</item>
+                        <item>To pot Tongues   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>A fine Way to pot a Tongue   253</item>
+                        <item>To pot Beef like Venison   ib.</item>
+                        <item>To pot Cheshire Cheese   254</item>
+                        <item>To collar a Breast of Veal, or a Pig    ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To collar Beef   254</item>
+                        <item>Another Way to season a Collar of Beef   255</item>
+                        <item>To collar Salmon   ib.</item>
+                        <item>To make Dutch Beef   ib.</item>
+                        <item>To make Sham Brawn   256</item>
+                        <item>To souse a Turkey, in Imitation of Sturgeon   ib.</item>
+                        <item>To pickle Pork, which is to be eat soon   257</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To make Veal Hams   ib.</item>
+                        <item>To make Beef Hams   ib.</item>
+                        <item>To make Mutton Hams   258</item>
+                        <item>To make Pork Hams   ib.</item>
+                        <item>To make Bacon   259</item>
+                        <item>To save potted Birds, that begin to be bad   ib.</item>
+                        <item>To pickle Mackrel, call'd Caveach   ib.</item>
+                    </list>
+                </div>
+                <div>
+                    <head>CHAP. XIV.</head>
+                    <p><hi rend="italic">Of Pickling.</hi></p>
+                    <list>
+                        <item>TO pickle Wallnuts Green   260</item>
+                        <item>To pickle Wallnuts White   ib.</item>
+                        <item>To pickle Wallnuts Black  261</item>
+                        <item>To pickle Gerkins   262</item>
+                        <item>To pickle Large Cucumbers in Slices   ib.</item>
+                        <item>To pickle Asparagus   263</item>
+                        <item>To pickle Peaches   ib.</item>
+                        <item>To pickle Radish Pods   264</item>
+                        <item>To pickle French Beans   ib.</item>
+                        <item>To pickle Cauliflowers   ib.</item>
+                        <item>To pickle Beat-Root   265</item>
+                        <item>To pickle White Plumbs   ib.</item>
+                        <item>To pickle Nectarines and Apricots   ib.</item>
+                        <item>To pickle Onions   ib.</item>
+                        <item>To pickle Lemons   266</item>
+                        <item>To pickle Mushrooms White   ib.</item>
+                        <item>To make Pickle for Mushrooms   ib.</item>
+                        <item>To pickle Codlings   267</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To pickle Red Currants   267</item>
+                        <item>To pickle Fennel   ib.</item>
+                        <item>To pickle Grapes   ib.</item>
+                        <item>To pickle Barberries   268</item>
+                        <item>To pickle Red Cabbage   ib.</item>
+                        <item>To pickle Golden Pippins   ib.</item>
+                        <item>To pickle Stertion Buds and Limes, you pick them off the Lime Trees in the Summer   269</item>
+                        <item>To pickle Oysters, Cockles and Mussels   ib.</item>
+                        <item>To pickle young Suckers, or young Artichokes before the Leaves are hard   ib.</item>
+                        <item>To pickle Artichoke-Bottoms   270</item>
+                        <item>To pickle Samphire   ib.</item>
+                        <item>Elder-Roots in Imitation of Bambo   ib.</item>
+                        <item>Rules to be observed in Pickling   271</item>
+                    </list>
+                </div>
+                <div>
+                    <head>CHAP. XV.</head>
+                    <p><hi rend="italic">Of making Cakes, and c.</hi></p>
+                    <list>
+                        <item>TO make a rich Cake   271</item>
+                        <item>To Ice a great Cake   272</item>
+                        <item>To make a Pound Cake   ib.</item>
+                        <item>To make a cheap Seed Cake   ib.</item>
+                        <item>To make a cheap Seed Cake   ib.</item>
+                        <item>To make a Butter Cake   ib.</item>
+                        <item>To make Ginger-Bread Cakes   273</item>
+                        <item>To make a fine Seed or Saffron Cake   ib.</item>
+                        <item>To make a rich Seed Cake, call'd the Nun's Cake   ib.</item>
+                        <item>To make Pepper Cakes   274</item>
+                        <item>To make Portugal Cakes   ib.</item>
+                        <item>To make a pretty Cake   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To make Ginger-Bread   274</item>
+                        <item>To make little fine Cakes   275</item>
+                        <item>Another Sort of little Cakes   ib.</item>
+                        <item>To make Drop Biscuits   ib.</item>
+                        <item>To make common Biscuits   ib.</item>
+                        <item>To make French Biscuits   276</item>
+                        <item>To make Mackeroons   ib.</item>
+                        <item>To make Shrewsbury Cakes   ib.</item>
+                        <item>To make Madling Cakes   ib.</item>
+                        <item>To make light Wigs   277</item>
+                        <item>To make very good Wigs   ib.</item>
+                        <item>To make Buns   ib.</item>
+                        <item>To make little Plumb Cakes   278</item>
+                    </list>
+                </div>
+                <div>
+                    <head>CHAP. XVI.</head>
+                    <p><hi rend="italic">Of Cheesecakes, Creams, Jellies, Whipt Syllabubs, and c.</hi></p>
+                    <list>
+                        <item>TO make fine Cheesecakes   278</item>
+                        <item>To make Lemon Cheesecakes   279</item>
+                        <item>A second Sort of Lemon Cheesecakes   ib.</item>
+                        <item>To make Almond Cheesecakes   ib.</item>
+                        <item>To make Fairy Butter   280</item>
+                        <item>Almond Custards   ib.</item>
+                        <item>Baked Custards   ib.</item>
+                        <item>Plain Custards   ib.</item>
+                        <item>Orange Butter   ib.</item>
+                        <item>Steeple Cream   281</item>
+                        <item>Lemon Cream   ib.</item>
+                        <item>A second Lemon Cream   ib.</item>
+                        <item>Jelly of Cream   282</item>
+                        <item>Orange Cream   ib.</item>
+                        <item>Gooseberry Cream   ib.</item>
+                        <item>Barley Cream   ib.</item>
+                        <item>Blanch'd Cream   283</item>
+                        <item>Almond Cream   ib.</item>
+                        <item>A fine Cream   ib.</item>
+                        <item>Ratafia Cream   ib.</item>
+                        <item>Whipt Cream   284</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>Whipt Syllabubs   284</item>
+                        <item>Everlasting Syllabubs   ib.</item>
+                        <item>To make a Trifle   285</item>
+                        <item>To make a Hartshorn Jelly   ib.</item>
+                        <item>Ribband Jelly   ib.</item>
+                        <item>Calves Feet Jelly   286</item>
+                        <item>Currant Jelly   ib.</item>
+                        <item>Raspberry Giam   ib.</item>
+                        <item>To make Hartshorn Flummery   287</item>
+                        <item>A second Way to make Hartshorn Flummery   ib.</item>
+                        <item>Oatmeal Flummery   ib.</item>
+                        <item>To make a fine Syllabub from the Cow   288</item>
+                        <item>To make a Hedge-Hog   ib.</item>
+                        <item>French Flummery   289</item>
+                        <item>A buttered Tort   ib.</item>
+                        <item>Moonshine   ib.</item>
+                        <item>The floating Island, a pretty Dish for the Middle of a Table at a second Course, or for Supper   290</item>
+                    </list>
+                </div>
+                <div>
+                    <head>CHAP. XVII.</head>
+                    <p><hi rend="italic">Of Made Wines, Brewing, French Bread, Muffins, and c.</hi></p>
+                    <list>
+                        <item>TO make Raisin Wine   291</item>
+                        <item>Elder Wime   ib.</item>
+                        <item>Orange Wine   ib.</item>
+                        <item>Orange Wine with Raisins   ib.</item>
+                        <item>To make Elder-Flower Wine, very like Frontiniac   292</item>
+                        <item>Gooseberry Wine   ib.</item>
+                        <item>Currant Wint   ib.</item>
+                        <item>Cherry Wine   293</item>
+                        <item>Birch Wine   ib.</item>
+                        <item>Quince Wince   ib.</item>
+                        <item>Cowflip or Clary Wine   294</item>
+                        <item>Turnip Wine   ib.</item>
+                        <item>Raspberry Wine   ib.</item>
+                        <item>Rules for Brewing   295</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>The best Thing for Rope Beer   296</item>
+                        <item>When a Barrel of Beer is turn'd sour   297</item>
+                        <item>To make White Bread after the London Way   ib.</item>
+                        <item>French Bread   ib.</item>
+                        <item>Muffins and Oatcakes   298</item>
+                        <item>A Receipt for making Bread without Barm, by the Help of a Leaven   299</item>
+                        <item>A Method to preserve a large Stock of Yeast, which will keep and be of Use for several Months, either to make Bread or Cakes   300</item>
+                    </list>
+                </div>
+                <div>
+                    <head>CHAP. XVIII.</head>
+                    <p><hi rend="italic">Jarring Cherries and Preserves, and c.</hi></p>
+                    <!-- I feel like the "and c." is meant to be the equivalent of etcetera? But I'm not entirely sure. -->
+                    <list>
+                        <item>TO jar Cherries Lady North's Way   300</item>
+                        <item>To dry Cherries   301</item>
+                        <item>To preserve Cherries, with the Leaves and Stalks green   ib.</item>
+                        <item>To make Orange Marmalade   ib.</item>
+                        <item>White Marmalade   ib.</item>
+                        <item>To preserve Oranges whole   302</item>
+                        <item>To make red Marmalade   ib.</item>
+                        <item>Red Quinces whole   303</item>
+                        <item>Jelly for the Quinces   ib.</item>
+                        <item>To make Conserve of red Roses, or any other Flowers   ib.</item>
+                        <item>Conserve of Hips   ib.</item>
+                        <item>To make Syrup of Roses   ib.</item>
+                        <item>Syrup of Citron   304</item>
+                        <item>Syrup of Clove Gilliflowers   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>Syrup of Peach Blossoms   304</item>
+                        <item>Syrup of Quinces   ib.</item>
+                        <item>To preserve Apricots   ib.</item>
+                        <item>To preserve Damsons whole   305</item>
+                        <item>To candy and Sort of Flowers   ib.</item>
+                        <item>To preserve Gooseberries whole, without stoning   ib.</item>
+                        <item>To preserve white Wallnuts   306</item>
+                        <item>To preserve Wallnuts green   ib.</item>
+                        <item>To preserve the large green Plumbs   307</item>
+                        <item>A nice Way to preserve Peaches   ib.</item>
+                        <item>A second Way  to preserve Peaches   ib.</item>
+                        <item>To make Quince Cakes   ib.</item>
+                    </list>
+                </div>
+                <div>
+                    <head>CHAP. XIX.</head>
+                    <p><hi rend="italic">To make Anchovies, Vermicella, Catchup, Vinegar, and to keep
+                    Artichokes, French Beans, and c.</hi></p>
+                    <list>
+                        <item>TO make Anchovies   308</item>
+                        <item>To pickle Smelts, where you have Plenty   ib.</item>
+                        <item>To make Vermicella   ib.</item>
+                        <item>To make Catchup   ib.</item>
+                        <item>Another Way to make Catchup   309</item>
+                        <item>Artichokes to keep all the Year   ib.</item>
+                        <item>To keep French Beans all the Year   310</item>
+                        <item>To keep green Peas till Christmas   ib.</item>
+                        <item>Another Way to preserve green Peas   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To keep green Gooseberries till Christmas   310</item>
+                        <item>To keep red Gooseberries   311</item>
+                        <item>To keep Wallnuts all the Year   ib.</item>
+                        <item>To keep Lemons   ib.</item>
+                        <item>To keep white Bullice, Pear-Plumbs, or Damsons, and c. for Tarts or Pies   ib.</item>
+                        <item>To make Vinegar   312</item>
+                        <item>To fry Smelts   313</item>
+                        <item>To roast a Pound of Butter   ib.</item>
+                        <item>To raise a Sallad in two Hours at the Fire   ib.</item>
+                    </list>
+                </div>
+                <div>
+                    <head>CHAP. XX.</head>
+                    <p><hi rend="italic">Of Distilling.</hi></p>
+                    <list>
+                        <item>TO distill Wallnut-water   313</item>
+                        <item>How to use this ordinary Still   ib.</item>
+                        <item>To make Treacle-water   314</item>
+                        <item>Black Cherry-water   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>Hysterical-water   314</item>
+                        <item>To distill red Rose Buds   ib.</item>
+                        <item>To make Plague-water   315</item>
+                        <item>To make Surfeit-water   ib.</item>
+                        <item>To make Milk-water   316</item>
+                    </list>
+                </div>
+                <div>
+                    <head>CHAP. XXI.</head>
+                    <p><hi rend="italic">How to market, and the Seasons of the Year for the Butchers Meat,
+                    Poultry, Fish, herbs, Roots, and c. and Fruit.</hi></p>
+                    <list>
+                        <item>A Bullock   316</item>
+                        <item>A Sheep   317</item>
+                        <item>A Calf   ib.</item>
+                        <item>House Lamb   ib.</item>
+                        <item>A Hog   ib.</item>
+                        <item>A Bacon Hog   318</item>
+                        <item>To chuse Butchers Meat   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>How to chuse Brawn, Venison, Westphalia Hams, and c.   319</item>
+                        <item>How to chuse Poultry   321</item>
+                        <item>Fish in Season Candlemas Quarter   323</item>
+                        <item>Midsummer Quarter   ib.</item>
+                        <item>Michaelmas Quarter   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>Christmas Quarter   324</item>
+                        <item>How to chuse Fish   ib.</item>
+                        <item>January Fruits which are yet lasting   325</item>
+                        <item>February Fruits which are yet lasting  ib.</item>
+                        <item>March Fruits which are yet lasting   ib.</item>
+                        <item>April Fruits which are yet lasting   326</item>
+                        <item>May, the Product of the Kitchen and Fruit Garden this Month   ib.</item>
+                        <item>June, the Product of the Kitchen and Fruit Garden   326</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>July, the Product of the Kitchen and Fruit Garden   ib.</item>
+                        <item>August, the Product of the Kitchen and Fruit Garden   ib.</item>
+                        <item>September, the Product of the Kitchen and Fruit Garden   ib.</item>
+                        <item>October, the Product of the Kitchen and Fruit Garden   ib.</item>
+                        <item>November, the Product of the Kitchen and Fruit Garden   328</item>
+                        <item>December, the Product of the Kitchen and Fruit Garden   ib.</item>
+                    </list>
+                </div>
+                <div>
+                    <head>CHAP. XXII.</head>
+                    <p><hi rend="italic">A certain Cure for the Bite of a Mad Dog.</hi></p>
+                    <list>
+                        <item>A Certain Cure for the Bite of a mad Dog   328</item>
+                        <item>Another for the Bite of a mad Dog   329</item>
+                        <item>A Receipt against the Plague   ib.</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>How to keep clear from Buggs   329</item>
+                        <item>n effectual Way to clear the Bedstead of Buggs   330</item>
+                        <item>Directions for the House-Maid   ib.</item>
+                    </list>
+                </div>
+                <div>
+                    <head>APPENDIX</head>
+                    <list>
+                        <item>TO dress a Turtle the West-India Way   331</item>
+                        <item>To make Ice Cream   333</item>
+                        <item>A Turckey, and c. in Jelly   ib.</item>
+                        <item>To make Citron   334</item>
+                    </list>
+                    <cb/>
+                    <list>
+                        <item>To candy Cherries or Green Gages   334</item>
+                        <item>To make Ironmolds out of Linen   ib.</item>
+                    </list>
+                </div>
+                <div>
+                    <head>THE 
+                        ART OF COOKERY, 
+                        MADE
+                    <hi rend="italic">Plain</hi> and <hi rend="italic">Easy.</hi></head>
+                </div>
+                <div>
+                    <head>CHAP. I.</head>
+                    <p>Of <hi rend="italic">Roasting, Boiling,</hi> and c.</p>
+                    <p>THAT profess'd Cooks will find fault with touching upon 
+                        a Branch of Cookery which they never thought worth
+                    their Notice, is what I expect: However, this I know,
+                    it is the most necessary Part of it; and few Servants there are,
+                    that know how to Roast and Boil to Perfection.</p>
+                    <p>To don't pretend to teach profess'd Cooks, but my Design is to
+                    instruct the Ignorant and Unlearned (which will likewise be of
+                    great Use in all private Families) and in so plain and full a Manner,
+                    that the most illiterate and ignorant Person, who can but
+                    read, will know how to do every Thing in Cookery well.</p>
+                    <p>I shall first begin with Roast and Boil'd of all Sorts, and must
+                    desire the Cook to order her Fire according to what she is to
+                    dress; if any Thing very little or thin, then a pretty little brisk
+                    Fire, that it may be done quick and nice; if a very large Joint,
+                    then be sure a good Fire be laid to cake. Let it be clear at the
+                    Bottom; and when you Meat if Half done, move the Dripping-pan
+                    and Spit a little from the Fire, and stir up a good brisk Fire;
+                    for according to the Goodness of your Fire, your Meat will be
+                    done sooner or later.</p>
+                    <div n="2" type="section">
+                        <head><hi rend="italic">BEEF.</hi></head>
+                        <p>IF Beef , be sure to paper the Top, and baste it well all the
+                    Time it is roasting, and throw a Handful of Salt on it. When
+                    you see the Smoke draw to the Fire, it is near enough; then take
+                    off the Paper, baste it well, and drudge it with a little Flour to
+                    make a fine Froth. Never salt your roast Meat before you lay it
+                    to the Fire, for that draws out all the Gravy. If you woould keep
+                    it a few Days before you dress it, dry it vey well with a clean
+                    Cloth, then flour it all over, and hang it where the Air will come
+                    to it; but be sure always to mind that there is no damp Place
+                    about it, if there is, you must dry it well with a Cloth. Take up
+                    your Meat, and garnish your Dish with nothing but Horseraddish.</p>
+                    </div>
+                    <div n="2" type="section">
+                        <head><hi rend="italic">MUTTON and LAMB.</hi></head>
+                        <p>AS to roasting of Mutton; the Loin, the Saddle of Mutton
+                    (which is the two Loins) and the Chine (which is the two
+                    Necks) must be done as the Beef above. But all other Sorts of
+                    Mutton and Lamb must be roasted with a quick clear Fire, and
+                    without Paper; baste it when you lay it down, and just before you
+                    take it up drudge it with a little Flour; but be sure not to
+                    use too much, for that takes away all the fine Taste of the Meat.
+                    Some chuse to skin a Loin of Mutton, and roast it Brown without
+                    Paper: But that you may do just as you please, but be sure always
+                    to take the Skin off a Breast of Mutton.</p>
+                    </div>
+                    <div n="2" type="section">
+                        <head><hi rend="italic">VEAL.</hi></head>
+                        <p>AS to Veal, you must be careful to roast it of a fine Brown; if
+                    a large Joint, a very good Fire; if a small Joint, a pretty little
+                    brisk Fire; if a Fillet or Loin, be sure to paper the Fat, that
+                    you lose as little of that as possible. Lay it some Distance from
+                    the Fire till it is soaked, then lay it near the Fire. When you
+                    lay it down, baste it well with good Butter; and when it is near
+                    enough, baste it again, and drudge it with a little Flour. The
+                    Breast you must roast with Caul on till it is enough; and
+                    skewer the Sweetbread on the Back-side of the Breast. When it
+                    is night enough, take off the Caul, baste it, and drudge it with a
+                    little Flour.</p>
+                    </div>
+                    <div n="3" type="section">
+                        <head><hi rend="italic">PORK.</hi></head>
+                        <p>PORK must be well done, or it is apt to Surfeit. Whe you
+                        roast a Loian, take a sharp Penknife and cut the Skin across,
+                        to make the Crackling eat the better. The Chine you must not
+                        cut at all. The best Way to roast a Leg, is first to parboil it,
+                        then skin it and roast it; baste it with Butter, then take a little
+                        Sage, shred it fine, a little Pepper and Salt, a little Nutmeg, and
+                        a few Crumbs of Bread; throw these over it all the Time it is
+                        roasting, then have a little Drawn Gravey to put in the Dish with
+                        the Crumbs that drop from it. Some love the Knuckle stuffed
+                        with Onions and Sage shred small, with a little Pepper and Salt,
+                        Gravy and Apple-Sauce to it. This they call a Mock-Goose.
+                        The Spring, or Hand of Pork, if very young, roasted like a Pig,
+                        eats very well, otherwise it is better boiled. The Sparerib should
+                        be basted with a little Bit of Butter, a very little Dust of Flour,
+                        and some Sage shred small: But we never make any Sauce to it
+                        but Apple-Sauce. The best Way to dress Pork Griskins is to
+                        roast them, baste them with a little Butter and Crumbs of Bread,
+                        Sage, and a little Pepper and Salt. Few eat any Thing with these
+                        but Mustard.</p>
+                        <div>
+                            <head><hi rend="italic">To Roast a</hi> Pig</head>
+                            <p>SPIT your Pig and lay it to the Fire, which must be a very
+                            good one at each End, or hang a flat Iron in the Middle of
+                            the Grate. Before you lay your Pig down, take a little Sage shred
+                            small, a Piece of Butter as big as a Walnut, and a little Pepper
+                            and Salt; put them into the Pig and sew it up with coarse Thread,
+                            then flour it all over very well, and keep flouring it till the Eyes
+                            drop out, or you find the Crackling hard. Be sure to save all the
+                            Gravy that comes out of it, which you must do by setting Basons
+                            or Pans under the Pig in the Dripping-pan, as soon as you find
+                            the Gravy begin to run. When the Pig is enough, stir the Fire
+                            up brisk; take a coarse Cloth, with about a Quarter of a Pound 
+                            of Butter in it, and rub the Pig all over till the Crackling is quite
+                            crisp, and then take it up. Lay it in your Dish, and with a sharp
+                            Knife cut off the Head, and then cut the Pig in two, before you
+                            draw out the Spit. Cut the Ears off the Head and lay at each
+                            End, and cut the Under-Jaw in two and lay on each side: Melt
+                            some good Butter, take the Gravy you saved and put into it, boil
+                            it, and pour it into the Dish with the Brains bruised fine, and the
+                            Sage mixed all together, and then send it to Table.</p>
+                        </div>
+                        <div>
+                            <head><hi rend="italic">To melt</hi> Butter</head>
+                            <p>IN melting of Butter you must be very careful; let your Sauce-pan
+                            be well tinn'd, take a Spoonful of cold Water, a little Dust
+                            of Flour, and your Butter cut to Pieces: Be sure to keep shaking
+                            your Pan one Way, for fear it should oil; when it is all melted,
+                            let it boil, and it will be smooth and fine. A Silver Pan is best,
+                            if you have one.</p>
+                        </div>
+                        <div>
+                            <head><hi rend="italic">To Roast</hi> Geese, Turkies,<hi rend="italic"> and c.</hi></head>
+                            <p>WHEN you roast a Goose, Turky, or Fowls of any Sort,
+                            take care to singe them with a Piece of white Paper, and
+                            baste them with a Piece of Butter; drudge them with a little
+                            Flour, and when the Smoke begins to draw to the Fire, and they
+                            look plump, baste them again, and drudge them with a little
+                            Flour, and take them up.</p>
+                        </div>
+                        <div>
+                            <head><hi rend="italic">Sauce for a</hi> Goose</head>
+                            <p>FOR a Goose make a little good Gravy, and put it in a Bason
+                            by itself, and some Apple-Sauce in another.</p>
+                        </div>
+                        <div>
+                            <head><hi rend="italic">Sauce for a</hi> Turky.</head>
+                            <p>FOR a Turky good Gravy in the Dish, and either Bread or
+                            Onion Sauce in a Bason.</p>
+                        </div>
+                        <div>
+                            <head><hi rend="italic">Sauce for</hi> Fowls</head>
+                            <p>TO Fowls you should put good Gravy in the Dish, and either
+                            Bread or Egg Sauce in a Bason.</p>
+                        </div>
+                        <div>
+                            <head><hi rend="italic">Sauce for</hi> Ducks.</head>
+                            <p>FOR Ducks a little gravy in the Dish, and Onion in a Cup,
+                            if liked.</p>
+                        </div>
+                        <div>
+                            <head><hi rend="italic">Sauce for</hi> Pheasants <hi rend="italic">and</hi> Partridges.</head>
+                            <p>PHEASANTS and Partridges should have Gravy in the
+                            Dish, and Bread Sauce in a Cup.</p>
+                        </div>
+                        <div>
+                            <head><hi rend="italic">Sauce for</hi> Larks.</head>
+                            <p>LARKS, roast them, and for Sauce have Crumbs of Bread;
+                            done thus: Take a Sauce-pan or Stew-pan and some Butter;
+                            when melted, have a good Piece of Crumb of Bread, and rub it
+                            in a clean Cloth to Crumbs, then throw it into your Pan; keep
+                            stirring them about till they are Brown, then throw them into a
+                            Sieve to drain, and lay them round your Larks.</p>
+                        </div>
+                        <div>
+                            <head><hi rend="italic">To Roast</hi> Woodcocks <hi rend="italic">and</hi> Snipes.</head>
+                            <p>PUT them on a little Spit; take a Round of a Three-penny
+                            Loaf and toast it Brown, then lay it in a Dish under the
+                            Birds, baste them with a little Butter, and let the Trale drop on
+                            the Toast. When they are roasted put the Toast in the Dish, lay
+                            the Woodcocks on it, and have about a Quarter of a Pint of Gravy;
+                            pour it into a Dish, and get it over a Lamp or Chaffin-dish for
+                            three Minutes, and send them to the Table. You are to observe, we
+                            never take any Thing out of a Woodcock or Snipe.</p>
+                        </div>
+                        <div>
+                            <head><hi rend="italic">To Roast a</hi> Pigeon.</head>
+                            <p>TAKE some Parsley shred fine, a Piece of Butter as big as a
+                            Walnut, a little Pepper and Salt; tye the Neck-End tight;
+                            tye a String round the Legs and Rump, and fasten the other End
+                            to the Top of the Chimney-piece. Baste them with Butter, and
+                            when they are enough lay them in the Dish, and they will swim
+                            with Gray. You may put them on a little small Spit, and then
+                            tye both Ends close.</p>
+                        </div>
+                        <div>
+                            <head><hi rend="italic">To Broil a</hi> Pigeon</head>
+                            <p>WHEN you broil them, do them in the same Manner, and 
+                                take care your Fire is very clear, and get you Gridiron
+                            high, that they may not burn, and have a little melted Butter in
+                            a Cup. You may split them, and broil them with a little Pepper
+                            and Salt; and you may roast them only with a little Parsley and
+                            Butter in a Dish.</p>
+                        </div>
+                        <div>
+                            <head><hi rend="italic">Directions for</hi> Geese <hi rend="italic">and</hi> Ducks.</head>
+                            <p>AS to Geese and Ducks, you should have some Sage shred fine,
+                            and a little Pepper and Salt, and put them into the Belly;
+                            but never put any Thing into Wild Ducks.</p>
+                        </div>
+                        <div>
+                            <head><hi rend="italic">To Roast a</hi> Hare.</head>
+                            <p>TAKE your Hare when it is cas'd and make a Pudding; take
+                            a Quarter of a Pound of Suet, and as much Crumbs of
+                            Bread, a little Parsley shred fine, and about as much Thyme as
+                            will lie on a Six-pence, when shred; and Anchovy shred small, a
+                            very little Pepper and Salt, some Nutmeg, two Eggs, and a
+                            little Lemon-peel. Mix all this together, and put it into the Hare.
+                            Sew up the Belly, spit it, and lay it to the Fire, which must be a
+                            good one. Your Dripping-pan must be very clean and nice. Put
+                            two Quarts of Milk and Half a Pound of Butter into the Pan;
+                            keep basting it all the while it is roasting, with the Butter and
+                            Milk, till the Whole is used, and your Hare will be enough. You
+                            may mix the Liver in the Pudding, if you like it. You must first
+                            parboil it, and then chop it fine.</p>
+                        </div>
+                        <div>
+                            <head><hi rend="italic">Different Sorts of Sauce for a</hi> Hare.</head>
+                            <p>TAKE for Sauce, a Pint of Cream and Half a Pound of fresh
+                            Butter; put them in a Sauce-pan, and keep stirring it with a
+                            Spoon till all the Butter is melted, and the Sauce is thick; then
+                            take up the Hare, and pour the Sauce into the Dish. Another
+                            Way to make Sauce for a Hare, is to make good Gravy, thicken'd
+                            with a little Piece of Butter rolled in Flour, and pour it into your
+                            Dish. You may leave the Butter out, if you don't like it, and
+                            have some Currant-Jelly warm'd in a Cup, or Red Wine and Sugar
+                            boil'd to a Syrup; done thus: Take Half a Pint of Red Wine,
+                            a Quarter of a Pound of Sugar, and set over a slow Fire to simmer
+                            for about a Quarter of an Hour. You may do Half the Quantity
+                            and put it into your Sauce-Boat or Bason.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
