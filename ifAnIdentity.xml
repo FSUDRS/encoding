@@ -21,97 +21,97 @@
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data" xml:id="row02" corresp="line02">
+        <row role="data" xml:id="row02" corresp="#line02">
           <cell role="label">English ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data">
+        <row role="data" xml:id="row03" corresp="#line03">
           <cell role="label">Geography ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data">
+        <row role="data" xml:id="row04" corresp="#line04">
           <cell role="label">History ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data">
+        <row role="data" xml:id="row05" corresp="#line05">
           <cell role="label">French ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data">
+        <row role="data" xml:id="row06" corresp="#line06">
           <cell role="label">German ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data">
+        <row role="data" xml:id="row07" corresp="#line07">
           <cell role="label">Arithmetic ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data">
+        <row role="data" xml:id="row08" corresp="#line08">
           <cell role="label">Algebra ... ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data">
+        <row role="data" xml:id="row09" corresp="#line09">
           <cell role="label">Geometry ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data">
+        <row role="data" xml:id="row10" corresp="#line10">
           <cell role="label">Trigonometry ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data">
+        <row role="data" xml:id="row11" corresp="#line11">
           <cell role="label">Freehand and Model Drawing ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data">
+        <row role="data" xml:id="row12" corresp="#line12">
           <cell role="label">Chemistry (including Chemical Laboratory) ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data">
+        <row role="data" xml:id="row13" corresp="#line13">
           <cell role="label">Physics (including Physical Laboratory) ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data">
+        <row role="data" xml:id="row14" corresp="#line14">
           <cell role="label">Mechanics (including Mechanical Laboratory) ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data">
+        <row role="data" xml:id="row15" corresp="#line15">
           <cell role="label">Elementary Science (including Laboratory Work) ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data">
+        <row role="data" xml:id="row16" corresp="#line16">
           <cell role="label">Shorthand ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data">
+        <row role="data" xml:id="row17" corresp="#line17">
           <cell role="label">Metal Workshop ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data">
+        <row role="data" xml:id="row18" corresp="#line18">
           <cell role="label">Wood Workshop ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data">
+        <row role="data"xml:id="row19" corresp="#line19">
           <cell role="label">Physical Exercises ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data">
+        <row role="data" xml:id="row20" corresp="#line20">
           <cell role="label">Singing ... ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
@@ -128,9 +128,28 @@
 </div>
     <div>
       <p>
-        <lb corresp="#row1" xml:id="line01"/>If an identity with n letters is to <unclear>be true</unclear> for all numerical values, in must be consistent with n independent
-        <lb corresp="#row2" xml:id="line02"/>[tbd] equations which define values for the <gap/> letters.
+        <lb corresp="#row01" xml:id="line01"/>If an identity with n letters is to <unclear>be true</unclear> for all numerical values, in must be consistent with n independent
+        <lb corresp="#row02" xml:id="line02"/>[tbd] equations which define values for the <gap/> letters.
+        <lb corresp="#row03" xml:id="line03"/>
+        <lb corresp="#row04" xml:id="line04"/>
+        <lb corresp="#row05" xml:id="line05"/>
+        <lb corresp="#row06" xml:id="line06"/>
+        <lb corresp="#row07" xml:id="line07"/>
+        <lb corresp="#row08" xml:id="line08"/>
+        <lb corresp="#row09" xml:id="line09"/>
+        <lb corresp="#row10" xml:id="line10"/>
+        <lb corresp="#row11" xml:id="line11"/>
+        <lb corresp="#row12" xml:id="line12"/>
+        <lb corresp="#row13" xml:id="line13"/>
+        <lb corresp="#row14" xml:id="line14"/>
+        <lb corresp="#row15" xml:id="line15"/>
+        <lb corresp="#row16" xml:id="line16"/>
+        <lb corresp="#row17" xml:id="line17"/>
+        <lb corresp="#row18" xml:id="line18"/>
+        <lb corresp="#row19" xml:id="line19"/>
+        <lb corresp="#row20" xml:id="line20"/>
+      
       </p>
     </div>
 </body>
-</text>   
+</text>
