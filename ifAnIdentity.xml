@@ -16,102 +16,102 @@
           <cell role="label">Position in Order of Merit.<hi rend="sup">*</hi><note place="bottom"><hi rend="sup">*</hi>Where two numbers appear in this column, the secodn number denotes the number in the set for that particular subject.</note></cell>
           <cell role="label">REMARKS.</cell>
         </row>
-        <row role="data" xml:id="row01" corresp="#line01">
+        <row role="data" xml:id="scripture01" corresp="#line01">
           <cell role="label">Scripture ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data" xml:id="row02" corresp="#line02">
+        <row role="data" xml:id="english02" corresp="#line02">
           <cell role="label">English ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data" xml:id="row03" corresp="#line03">
+        <row role="data" xml:id="geography03" corresp="#line03">
           <cell role="label">Geography ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data" xml:id="row04" corresp="#line04">
+        <row role="data" xml:id="history04" corresp="#line04">
           <cell role="label">History ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data" xml:id="row05" corresp="#line05">
+        <row role="data" xml:id="french05" corresp="#line05">
           <cell role="label">French ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data" xml:id="row06" corresp="#line06">
+        <row role="data" xml:id="german06" corresp="#line06">
           <cell role="label">German ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data" xml:id="row07" corresp="#line07">
+        <row role="data" xml:id="arithmetic07" corresp="#line07">
           <cell role="label">Arithmetic ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data" xml:id="row08" corresp="#line08">
+        <row role="data" xml:id="algebra08" corresp="#line08">
           <cell role="label">Algebra ... ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data" xml:id="row09" corresp="#line09">
+        <row role="data" xml:id="geometry09" corresp="#line09">
           <cell role="label">Geometry ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data" xml:id="row10" corresp="#line10">
+        <row role="data" xml:id="trigonometry10" corresp="#line10">
           <cell role="label">Trigonometry ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data" xml:id="row11" corresp="#line11">
+        <row role="data" xml:id="freehand11" corresp="#line11">
           <cell role="label">Freehand and Model Drawing ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data" xml:id="row12" corresp="#line12">
+        <row role="data" xml:id="chemistry12" corresp="#line12">
           <cell role="label">Chemistry (including Chemical Laboratory) ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data" xml:id="row13" corresp="#line13">
+        <row role="data" xml:id="physics13" corresp="#line13">
           <cell role="label">Physics (including Physical Laboratory) ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data" xml:id="row14" corresp="#line14">
+        <row role="data" xml:id="mechanics14" corresp="#line14">
           <cell role="label">Mechanics (including Mechanical Laboratory) ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data" xml:id="row15" corresp="#line15">
+        <row role="data" xml:id="elementary15" corresp="#line15">
           <cell role="label">Elementary Science (including Laboratory Work) ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data" xml:id="row16" corresp="#line16">
+        <row role="data" xml:id="shorthand16" corresp="#line16">
           <cell role="label">Shorthand ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data" xml:id="row17" corresp="#line17">
+        <row role="data" xml:id="metal17" corresp="#line17">
           <cell role="label">Metal Workshop ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data" xml:id="row18" corresp="#line18">
+        <row role="data" xml:id="wood18" corresp="#line18">
           <cell role="label">Wood Workshop ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data"xml:id="row19" corresp="#line19">
+        <row role="data"xml:id="physical19" corresp="#line19">
           <cell role="label">Physical Exercises ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data" xml:id="row20" corresp="#line20">
+        <row role="data" xml:id="singing20" corresp="#line20">
           <cell role="label">Singing ... ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
@@ -128,27 +128,28 @@
 </div>
     <div>
       <p>
-        <lb corresp="#row01" xml:id="line01"/>If an identity with n letters is to <unclear>be true</unclear> for all numerical values, in must be consistent with n independent
-        <lb corresp="#row02" xml:id="line02"/>[tbd] equations which define values for the <gap/> letters.
-        <lb corresp="#row03" xml:id="line03"/>
-        <lb corresp="#row04" xml:id="line04"/>
-        <lb corresp="#row05" xml:id="line05"/>
-        <lb corresp="#row06" xml:id="line06"/>
-        <lb corresp="#row07" xml:id="line07"/>
-        <lb corresp="#row08" xml:id="line08"/>
-        <lb corresp="#row09" xml:id="line09"/>
-        <lb corresp="#row10" xml:id="line10"/>
-        <lb corresp="#row11" xml:id="line11"/>
-        <lb corresp="#row12" xml:id="line12"/>
-        <lb corresp="#row13" xml:id="line13"/>
-        <lb corresp="#row14" xml:id="line14"/>
-        <lb corresp="#row15" xml:id="line15"/>
-        <lb corresp="#row16" xml:id="line16"/>
-        <lb corresp="#row17" xml:id="line17"/>
-        <lb corresp="#row18" xml:id="line18"/>
-        <lb corresp="#row19" xml:id="line19"/>
-        <lb corresp="#row20" xml:id="line20"/>
-      
+        <lb corresp="#scripture01" xml:id="line01"/>If an identity with n letters is to <unclear>be true</unclear> for all numerical values, in must be consistent with n independent
+        <lb corresp="#english02" xml:id="line02"/>[tbd] equations which define values for the <gap/> letters.
+        <lb corresp="#geography03" xml:id="line03"/> <add place="right">3<add/>
+        <lb corresp="#history04" xml:id="line04"/>If we have an identity which fails for a certain set of numerical values,
+        <lb corresp="#french05" xml:id="line05"/>we can reduce the identity to one containing only [tbd] &amp; [tbd] before putting in the
+        <add place="below">&amp; [tbd] &amp; [tbd]<add/>
+        <lb corresp="#german06" xml:id="line06"/>numerical values, since there must be <del>the</del> identities defining any other functions.
+        <lb corresp="#arithmetic07" xml:id="line07"/>
+        <lb corresp="#algebra08" xml:id="line08"/>The identity is <unclear cert="medium">consistent<unclear/> with the fundamental identities &amp; with sufficient identities to define
+        <lb corresp="#geometry09" xml:id="line09"/>the functions concerned in <unclear cert="medium">terms<unclear/> of [tbd] functions.
+        <lb corresp="#trigonometry10" xml:id="line10"/>
+        <lb corresp="#freehand11" xml:id="line11"/>Either 0 occurs in a denominator or a series is <gap/>
+        <lb corresp="#chemistry12" xml:id="line12"/>Diff. co. may be defined by reducing f(a+h)-f(a)/h and substituting 0 for h.
+        <lb corresp="#physics13" xml:id="line13"/>numbers are <unclear cert="low">inert<unclear/> letters which cannot be used in (i)&amp;(2) as letters,
+        <lb corresp="#mechanics14" xml:id="line14"/>and p [tbd] q is not an absurdity.
+        <lb corresp="#elementary15" xml:id="line15"/>Infinitely long functions are treated by the same rules as finite ones.
+        <lb corresp="#shorthand16" xml:id="line16"/>An infinite sequence of operations is not allowed, even if it gives a limiting form.
+        <lb corresp="#metal17" xml:id="line17"/>
+        <lb corresp="#wood18" xml:id="line18"/>
+        <lb corresp="#physical19" xml:id="line19"/>
+        <lb corresp="#singing20" xml:id="line20"/>
+
       </p>
     </div>
 </body>
