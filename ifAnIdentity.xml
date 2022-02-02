@@ -106,7 +106,7 @@
           <cell role="data"> </cell>
           <cell role="data"> </cell>
         </row>
-        <row role="data"xml:id="physical19" corresp="#line19">
+        <row role="data" xml:id="physical19" corresp="#line19">
           <cell role="label">Physical Exercises ... ... ...</cell>
           <cell role="data"> </cell>
           <cell role="data"> </cell>
@@ -130,18 +130,18 @@
       <p>
         <lb corresp="#scripture01" xml:id="line01"/>If an identity with n letters is to <unclear>be true</unclear> for all numerical values, in must be consistent with n independent
         <lb corresp="#english02" xml:id="line02"/>[tbd] equations which define values for the <gap/> letters.
-        <lb corresp="#geography03" xml:id="line03"/> <add place="right">3<add/>
+        <lb corresp="#geography03" xml:id="line03"/> <add place="right">3</add>
         <lb corresp="#history04" xml:id="line04"/>If we have an identity which fails for a certain set of numerical values,
         <lb corresp="#french05" xml:id="line05"/>we can reduce the identity to one containing only [tbd] &amp; [tbd] before putting in the
-        <add place="below">&amp; [tbd] &amp; [tbd]<add/>
+        <add place="below">&amp; [tbd] &amp; [tbd]</add>
         <lb corresp="#german06" xml:id="line06"/>numerical values, since there must be <del>the</del> identities defining any other functions.
         <lb corresp="#arithmetic07" xml:id="line07"/>
-        <lb corresp="#algebra08" xml:id="line08"/>The identity is <unclear cert="medium">consistent<unclear/> with the fundamental identities &amp; with sufficient identities to define
-        <lb corresp="#geometry09" xml:id="line09"/>the functions concerned in <unclear cert="medium">terms<unclear/> of [tbd] functions.
+        <lb corresp="#algebra08" xml:id="line08"/>The identity is <unclear cert="medium">consistent</unclear> with the fundamental identities &amp; with sufficient identities to define
+        <lb corresp="#geometry09" xml:id="line09"/>the functions concerned in <unclear cert="medium">terms</unclear> of [tbd] functions.
         <lb corresp="#trigonometry10" xml:id="line10"/>
         <lb corresp="#freehand11" xml:id="line11"/>Either 0 occurs in a denominator or a series is <gap/>
         <lb corresp="#chemistry12" xml:id="line12"/>Diff. co. may be defined by reducing f(a+h)-f(a)/h and substituting 0 for h.
-        <lb corresp="#physics13" xml:id="line13"/>numbers are <unclear cert="low">inert<unclear/> letters which cannot be used in (i)&amp;(2) as letters,
+        <lb corresp="#physics13" xml:id="line13"/>numbers are <unclear cert="low">inert</unclear> letters which cannot be used in (i)&amp;(2) as letters,
         <lb corresp="#mechanics14" xml:id="line14"/>and p [tbd] q is not an absurdity.
         <lb corresp="#elementary15" xml:id="line15"/>Infinitely long functions are treated by the same rules as finite ones.
         <lb corresp="#shorthand16" xml:id="line16"/>An infinite sequence of operations is not allowed, even if it gives a limiting form.
