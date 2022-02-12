@@ -1,41 +1,63 @@
-<text>
-<body>
-<div type="letter">
+<sourceDoc>
+<surface ulx="0" uly="0" lrx="600" lry="769">
 
-<head place="top left">MARSDEN W. HARDGREAVE &amp; CO.
-MARSDEN W. HARDGREAVE &amp; OLIVER HARDGREAVE
-STOCK AND SHARE BROKERS AND DEALERS.
+<zone ulx="40" uly="35" lrx="113" lry="258">
+<line>MARSDEN W. HARDGREAVE &amp; CO. </line>
+<line>MARSDEN W. HARDGREAVE &amp; OLIVER HARDGREAVE</line>
+<line>STOCK AND SHARE BROKERS AND DEALERS.</line>
+<line>Tel. No. : 1076 (Three Lines . (Private Branch Exchange).</line>
+<line>Telegraphic Address: "LYNX. Blackpool’</line>
+</zone>
 
-Tel. No. : 1076 (Three Lines . (Private Branch Exchange).
-Telegraphic Address: "LYNX. Blackpool’ </head>
-<head place="top right">5, CLIFTON STREET,
-BLACKPOOL</head>
+<zone ulx="383" uly="54" lrx="553" lry="248">
+<line>5, CLIFTON STREET,</line>
+<line>BLACKPOOL</line>
+</zone>
 
-<opener><salute>Dear Sir, or Madam,</salute></opener>
+<zone ulx="54" uly="134" lrx="222" lry="154">
+<line>Dear Sir, or Madam,</line>
+</zone>
 
-<p>Offer for sale of<lb/>
+<zone ulx="63" uly="158" lrx="550" lry="248">
+<line>Offer for sale of</line>
+<line rend="underline">£1,500,000 KELLNER PARTINGTON PAPER PULP COMPANY, LTD.,</line>
+<line rend="underline"> 7 1/2 % Guaranteed 1st Debenture Stock at 97.</line>
+<line rend="underline">£5% due on application. £20% due on March 13th. £72% on April 1st.</line>
+</zone>
 
-<hi rend="underline">£1,500,000 KELLNER PARTINGTON PAPER PULP COMPANY, LTD.,<lb/>
-7 1/2 % Guaranteed 1st Debenture Stock at 97.<lb/></hi>
+<zone ulx="73" uly="260" lrx="540" lry="622">
+<line>We have pleasure in enclosing herewith, prospectus of</line>
+<line>the above offer for sale.</line>
 
-<hi rend="underline">£5% due on application.</hi> <hi rend="underline">£20% due on March 13th.</hi><hi rend="underline">£72% on April 1st.</hi></p>
+<line>As will be seen, the Company is registered in England</line>
+<line>and possess larger and important Paper and Pulp Mills in</line>
+<line>Sarpsborg, Norway, and also Mills in Austria, as well as</line>
+<line>forests in Norway and Austria of great value.</line>
 
-<p>We have pleasure in enclosing herewith, prospectus of the above offer for sale.</p>
+<line>The due payment of the interest, principal moneys and</line>
+<line>premiums in the event of the stock becoming payable, will be</line>
+<line>unconditionally guaranteed by Aktieselskapet Borregaard which</line>
+<line>holds practically all the share capital of the Company.</line>
 
-<p>As will be seen, the Company is registered in England and possess larger and important Paper and Pulp Mills in Sarpsborg, Norway, and also Mills in Austria, as well as forests in Norway and Austria of great value.</p>
+<line>The Capital of Aktieselskapet Borregaard is equal to</line>
+<line>about £3,000,000 Sterling. It has no Debenture debts and</line>
+<line>since its formation has paid 10% of its shares.</line>
 
-<p>The due payment of the interest, principal moneys and premiums in the event of the stock becoming payable, will be unconditionally guaranteed by Aktieselskapet Borregaard which holds practically all the share capital of the Company.</p>
+<line>To pay the interest on the Debenture Stock will require</line>
+<line>£112,500. On the statement given it will be seen that the</line>
+<line>earnings of the Companies responsible for the issue, have been</line>
+<line>gradually increasing. In 1911 they were £329,565 whereas in</line>
+<line>1920 they had increased to £625,699.</line>
 
-<p>The Capital of Aktieselskapet Borregaard is equal to about £3,000,000 Sterling. It has no Debenture debts and since its formation has paid 10% of its shares.</p>
+<line>As we anticipate the offer will be speedily accepted,</line>
+<line>we should advise those of our clients who wish to acquire an</line>
+<line>interest to apply at the earliest moment.</line>
+</zone>
 
-<p>To pay the interest on the Debenture Stock will require £112,500. On the statement given it will be seen that the earnings of the Companies responsible for the issue, have been gradually increasing. In 1911 they were £329,565 whereas in 1920 they had increased to £625,699.</p>
+<zone ulx="220" uly="663" lrx="485" lry="677">
+<line>Yours faithfully,</line>
+<line>MARSDEN W. HARDGREAVE &amp; CO.</line>
+</zone>
 
-<p>As we anticipate the offer will be speedily accepted, we should advise those of our clients who wish to acquire an interest to apply at the earliest moment.</p>
-
-<closer>Yours faithfully,
-
-<signed>MARSDEN W. HARDGREAVE &amp; CO.</signed></closer>
-</div>
-</body>
-</text>
-
+</surface>
+</sourceDoc>
