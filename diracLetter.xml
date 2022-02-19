@@ -25,30 +25,40 @@
 <line rend="underline">£5% due on application. £20% due on March 13th. £72% on April 1st.</line>
 </zone>
 
-<zone ulx="73" uly="260" lrx="540" lry="622">
+<zone ulx="73" uly="260" lrx="523" lry="294">
 <line>We have pleasure in enclosing herewith, prospectus of</line>
 <line>the above offer for sale.</line>
+</zone>
 
+<zone ulx="73" uly="303" lrx="522" lry="361">
 <line>As will be seen, the Company is registered in England</line>
 <line>and possess larger and important Paper and Pulp Mills in</line>
 <line>Sarpsborg, Norway, and also Mills in Austria, as well as</line>
 <line>forests in Norway and Austria of great value.</line>
+</zone>
 
+<zone ulx="73" uly="371" lrx="531" lry="431">
 <line>The due payment of the interest, principal moneys and</line>
 <line>premiums in the event of the stock becoming payable, will be</line>
 <line>unconditionally guaranteed by Aktieselskapet Borregaard which</line>
 <line>holds practically all the share capital of the Company.</line>
+</zone>
 
+<zone ulx="73" uly="441" lrx="518" lry="484">
 <line>The Capital of Aktieselskapet Borregaard is equal to</line>
 <line>about £3,000,000 Sterling. It has no Debenture debts and</line>
 <line>since its formation has paid 10% of its shares.</line>
+</zone>
 
+<zone ulx="73" uly="495" lrx="536" lry="568">
 <line>To pay the interest on the Debenture Stock will require</line>
 <line>£112,500. On the statement given it will be seen that the</line>
 <line>earnings of the Companies responsible for the issue, have been</line>
 <line>gradually increasing. In 1911 they were £329,565 whereas in</line>
 <line>1920 they had increased to £625,699.</line>
+</zone>
 
+<zone ulx="73" uly="580" lrx="525" lry="621">
 <line>As we anticipate the offer will be speedily accepted,</line>
 <line>we should advise those of our clients who wish to acquire an</line>
 <line>interest to apply at the earliest moment.</line>
@@ -60,4 +70,94 @@
 </zone>
 
 </surface>
+
+<surface ulx="0" uly="0" lrx="600" lry="769">
+
+<zone ulx="18" uly="0" lrx="556" lry="43">
+<line>
+2b[<del rend="strikethrough">(b<hi rend="sup">2</hi>-1)<hi rend="up">4</hi></del>
+-2c<hi rend="sup">2</hi>(b<hi rend="sup">2</hi>-1)<hi rend="sup">2</hi>+c<hi rend="sup">4</hi>]
+-2b(b<hi rend="sup">2</hi>-1)<hi rend="sup">2</hi>[<del rend="strikethrough">(b<hi rend="sup">2</hi>-1)<hi rend="sup">2</hi></del>
++<hi rend="underline">2bc(b<hi rend="sup">2</hi>-1</hi>)+b<hi rend="sup">2</hi>c<hi rend="sup">2</hi>]
++c[<hi rend="underline">b<hi rend="sup">4</hi>+2b<hi rend="sup">2</hi></hi>-2bc+c<hi rend="sup">2</hi>-<hi rend="underline">3</hi>]
+[<hi rend="underline">(b<hi rend="sup">2</hi>-1)<hi rend="sup">2</hi></hi>-2bc(b<hi rend="sup">2</hi>-1)+b<hi rend="sup">2</hi>c<hi rend="sup">2</hi>]
+</line>
+</zone>
+
+<zone ulx="348" uly="65" lrx="430" lry="95">
+<line>4c(b<hi rend="sup">2</hi>)-1)+(b<hi rend="sup">2</hi>-1)<hi rend="sup">2</hi></line>
+</zone>
+
+<zone ulx="9" uly="111" lrx="515" lry="147">
+<line>
+c[-4b<hi rend="sup">2</hi>(b<hi rend="sup">2-1)<hi rend="sup">3</hi>+(b<hi rend="sup">4</hi>+2b<hi rend="sup">2</hi>-3)(b<hi rend="sup">2</hi>-1)<hi rend="sup">2</hi>]
+=   c(b<hi rend="sup">2</hi>-1)<hi rend="sup">2</hi>(b<hi rend="sup">4</hi>+2b<hi rend="sup">2</hi><add place="below">-3</add>-4b<hi rend="sup">4</hi>+4b<hi rend="sup">2</hi>)
+=-3c(b<hi rend="sup">2</hi>-1)<hi rend="sup"><del rend="overwritten">2</del><add place="superimposed">4</add></hi>
+(<del rend="strikethrough">b<hi rend="sup">4</hi>-2b<hi rend="sup">2</hi>+1</del>)
+</line>
+</zone>
+
+<zone ulx="19" uly="145" lrx="592" lry="182">
+  <!-- there are lines below this line drawn-->
+<line>
+2bc<hi rend="sup">4</hi>-<del rend="overwritten">2</del><add place="superimposed">4</add>bc<hi rend="sup">2</hi>(b<hi rend="sup">2</hi>-1)<hi rend="sup">2</hi>
+-2b<hi rend="sup">3</hi>c<hi rend="sup">2</hi>(b<hi rend="sup">2</hi>-1)<hi rend="sup">2</hi>-3c(b<hi rend="sup">2</hi>-1)<hi rend="sup">4</hi>
++c<hi rend="sup">2</hi>[c-<hi rend="underline">2b</hi>][<hi rend="underline">(b<hi rend="sup">2</hi>-1)</hi><hi rend="sup">2</hi>-2bc(b<hi rend="sup">2</hi>-1)+b<hi rend="sup">2</hi>c<hi rend="sup">2</hi>]
++c[b<hi rend="sup">4</hi>+3b<hi rend="sup">2</hi>-3][b<hi rend="sup">2</hi>c<hi rend="sup">2</hi>-<hi rend="underline">2bc(b<hi rend="sup">2</hi>-1)</hi>]
+</line>
+</zone>
+
+<zone ulx="13" uly="241" lrx="593" lry="274">
+<line>
+c<hi rend="sup">2</hi>[-4b(b<hi rend="sup">2</hi>-1)<hi rend="sup">2</hi>-2b<hi rend="sup">3</hi>(b<hi rend="sup">2</hi>-1)<hi rend="sup">2</hi>
+-2b(b<hi rend="sup">2</hi>-1)<hi rend="sup">2</hi>-2b(b<hi rend="sup">2</hi>-1)(b<hi rend="sup">2</hi>-1)(b<hi rend="sup">2</hi>+3)]
+-c<hi rend="sup">2</hi>(b<hi rend="sup">2</hi>-1)<hi rend="sup">2</hi>[-4b-2b<hi rend="underline">3</hi>-2b-2b<hi rend="underline">3</hi>-6b]
+</line>
+</zone>
+
+<zone ulx="372" uly="274" lrx="514" lry="300">
+<line>=-4c<hi rend="sup">2</hi>b(b<hi rend="sup">2</hi>-1)<hi rend="sup">2</hi>(b<hi rend="sup">2</hi>+3)</line>
+</zone>
+
+<zone ulx="11" uly="461" lrx="586" lry="512">
+<line>
+<hi rend="underline">2bc<hi rend="sup">2</hi></hi>-3c(b<hi rend="sup">2</hi>-1)<hi rend="sup">4</hi>-4bc<hi rend="sup">2</hi>(b<hi rend="sup">2</hi>-1)<hi rend="sup">2</hi>(b<hi rend="sup">2</hi>+3)
++<hi rend="underline">b<hi rend="sup">2</hi>c<hi rend="sup">2</hi>[b<hi rend="sup">4</hi>+2b<hi rend="sup">2</hi>-3]</hi>
++c<hi rend="sup">3</hi>[<hi rend="underline">(b<hi rend="sup">2</hi>-1)<hi rend="sup">2</hi></hi><hi rend="underline">-2bc</hi>(b<hi rend="sup">2</hi>-1)+b<hi rend="sup">2</hi>c<hi rend="sup">2</hi>]
+-2bc<hi rend="sup">2</hi>[<hi rend="underline">b<hi rend="sup">2</hi>c<hi rend="sup">2</hi></hi>-<hi rend="underline">2bc(b<hi rend="sup">2</hi>-1)</hi>]
+</line>
+</zone>
+
+<zone ulx="146" uly="561" lrx="486" lry="586">
+<line>
+c<hi rend="sup">3</hi>[b<hi rend="sup">2</hi>(b<hi rend="sup">2</hi>-1)(b<hi rend="sup">2</hi>+3)+(b<hi rend="sup">2</hi>-1)<hi rend="sup">2</hi>+4b<hi rend="sup">2</hi>(b<hi rend="sup">2</hi>-1)]
+=c<hi rend="sup">3</hi>(b<hi rend="sup">2</hi>-1)[b<hi rend="sup">4</hi>3b<hi rend="sup">2</hi>+b<hi rend="sup">2</hi>-1+4b<hi rend="sup">2</hi>]
+</line>
+</zone>
+
+<zone ulx="422" uly="589" lrx="473" lry="599">
+<line>b<hi rend="sup">4</hi>+8b<hi rend="sup">2</hi>-1</line>
+</zone>
+
+<zone ulx="223" uly="584" lrx="350" lry="603">
+<line>
+c<hi rend="sup">4</hi>(2b-2b(b<hi rend="sup">2</hi>-1)-2b<hi rend="sup">3</hi>)
+</line>
+</zone>
+
+<zone ulx="258" uly="605" lrx="321" lry="620">
+<line>1-b<hi rend="sup">2</hi>+1-b<hi rend="sup">2</hi></line>
+</zone>
+
+<zone ulx="419" uly="606" lrx="426" lry="651">
+<line>c<hi rend="sup">3</hi>(b<hi rend="sup">2</hi>-1)(b<hi rend="sup">4</hi>8b<hi rend="sup">2</hi>)-1</line>
+<line>-4bc<hi rend="sup">4</hi>(b<hi rend="sup">2</hi>-1)</line>
+</zone>
+
+<zone ulx="" uly="" lrx="" lry="">
+<line></line>
+<line></line>
+<line></line>
+</zone>
+
 </sourceDoc>
