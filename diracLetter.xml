@@ -154,10 +154,37 @@ c<hi rend="sup">4</hi>(2b-2b(b<hi rend="sup">2</hi>-1)-2b<hi rend="sup">3</hi>)
 <line>-4bc<hi rend="sup">4</hi>(b<hi rend="sup">2</hi>-1)</line>
 </zone>
 
-<zone ulx="" uly="" lrx="" lry="">
-<line></line>
-<line></line>
-<line></line>
+<zone ulx="481" uly="658" lrx="595" lry="757">
+<line>c=- b<hi rend="sup">2</hi>-1/b</line>
+<line><del rend="strikethrough">b<hi rend="sup">3</hi>+b</del> +<gap reason="illegible"/>(b<hi rend="sup">2</hi>-1)<hi rend="sup">2</hi></line>
+<line>(b<hi rend="sup">2</hi>-1)[5b<hi rend="sup">2</hi>-5+b<hi rend="sup">4</hi>-8b<hi rend="sup">2</hi>-1]</line>
+</zone>
+
+<zone ulx="34" uly="662" lrx="408" lry="707">
+<line>
+-3c(b<hi rend="sup">2</hi>-1)<hi rend="sup">4</hi>-4bc<hi rend="sup">2</hi>(b<hi rend="sup">2</hi>-1)<hi rend="sup">2</hi>(b<hi rend="sup">2</hi>+3)
++c<hi rend="sup">3</hi>(b<hi rend="sup">2</hi>-1)(b<hi rend="sup">4</hi>+8b<hi rend="sup">2</hi>-1) -4bc<hi rend="sup">4</hi>(b<hi rend="sup">2</hi>-1)+b<hi rend="sup">2</hi>c<hi rend="sup">5</hi>
+</line>
+</zone>
+
+<zone ulx="57" uly="690" lrx="315" lry="769">
+<line>-3(b<hi rend="sup">2</hi>-1)<hi rend="sup">4</hi></line>
+
+<line>
+3b(b<hi rend="sup">2</hi>-1)<hi rend="sup">3</hi>-4bc(b<hi rend="sup">2</hi>-1)<hi rend="sup">2</hi>(b<hi rend="sup">2</hi>+3)
+=b(b<hi rend="sup">2</hi>-1)<hi rend="sup">2</hi>(3b<hi rend="sup">2</hi><add place="below">-b<hi rend="sup">2</hi>-15</add>-3-4b<hi rend="sup">2</hi>-12)
+</line>
+
+<line>
+b<hi rend="sup">2</hi>(b<hi rend="sup">2</hi>-1)(b<hi rend="sup">2</hi>-15)+(b<hi rend="sup">6</hi>-8b<hi rend="sup">2</hi>-1)(b<hi rend="sup">2</hi>-1)
+=(b<hi rend="sup">2</hi>-1)(2b<hi rend="sup">4</hi>-7b<hi rend="sup">2</hi>-1)
+</line>
+
+<line>b(1+2b<hi rend="sup">2</hi>-2b<hi rend="sup">4</hi>)-4b(b<hi rend="sup">2</hi>-1)</line>
+</zone>
+
+<zone ulx="0" uly="695" lrx="29" lry="722">
+<line>- b/b<hi rend="sup">2</hi>-1</line>
 </zone>
 
 </sourceDoc>
